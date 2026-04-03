@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Heidelberg - Livestream]]></title>
-        <description><![CDATA[RSS Feed - Heidelberg - Livestream]]></description>
-        <link>https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc</link>
+        <title><![CDATA[TU - Livestream]]></title>
+        <description><![CDATA[RSS Feed - TU - Livestream]]></description>
+        <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 04:15:17 GMT</lastBuildDate>
-        <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Apr 2026 13:01:12 GMT</lastBuildDate>
+        <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Please call 419-448-9774 or come in with questions or to sign up.]]></description>
+            <link>https://www.facebook.com/events/2944643965742398</link>
+            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Please call 419-448-9774 or come in with any question.]]></description>
             <link>https://www.facebook.com/events/884413264597777</link>
-            <guid isPermaLink="false">69c9a00eacb93b4dbc94a89a</guid>
+            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c9ca0a781b08fbc35e0665</duplicate_id>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -31,125 +42,6 @@
             <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69c9ca0a781b08fbc35e0665</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please call 419-448-9774 or come in with questions or to sign up.]]></description>
-            <link>https://www.facebook.com/events/2944643965742398</link>
-            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c9ca0a781b08fbc35e0662</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please call 419-448-9774 or come in with questions or to sign up.]]></description>
-            <link>https://www.facebook.com/events/2944643965742398</link>
-            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c9ca0a781b08fbc35e0662</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Do Good With Chipotle (fundraiser)</b> - 03/27/2026 3:15pm EDT to 03/31/2026 6:15pm EDT]]></title><pubDate>2026-03-27T15:15:00</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please help support Allen Eiry with a great meal at Chipotle!]]></description>
-            <link>https://www.facebook.com/events/34458208187128048</link>
-            <guid isPermaLink="false">69c9a021e64fa49d3ac3d021</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657181354_1428658415962855_6000775131355413357_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Addressing Concerns About Nursing home & Long-Term Costs</b> - 03/31/2026 10:30am EDT to 03/31/2026 11:30am EDT]]></title><pubDate>2026-03-31T10:30:00</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Presentation by Dell Burtis Law Free & Open to the public Call to save your seat 419-448-9774]]></description>
-            <link>https://www.facebook.com/events/1249041690704390</link>
-            <guid isPermaLink="false">698be84e454ada9ba09e8e40</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Government]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-msp1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F629451457_1389515423210488_6831201917536184631_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b5283c682feef722061053</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Vicek’s Staff Bond</b> - 03/31/2026 1:45pm EDT to 03/31/2026 2:45pm EDT]]></title><pubDate>2026-03-31T13:45:00</pubDate>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Come join your team to create your own personalized wood project. It will be a fun night out while the girls practice! Select any design, check out the "design" page of the website for options or scroll through past projects on the FB feed. Everyone can choose a different project.]]></description>
-            <link>https://www.flair37.com/events/viceks-staff-bond</link>
-            <guid isPermaLink="false">69c6f68e4b8dc98522522023</guid>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_3515dec768b641f28fb21237ab8865dd~mv2.jpeg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Suicide Prevention Training: A Deeper Understanding of Suicide</b> - 03/31/2026 6:30pm EDT to 03/31/2026 8:00pm EDT]]></title><pubDate>2026-03-31T18:30:00</pubDate>
-            <description><![CDATA[<b>Location : 1515 County Rd 1, Tiffin, OH 44883, USA</b> 
-
- <p>The&nbsp;Mental&nbsp;Health&nbsp;and&nbsp;Recovery&nbsp;Services&nbsp;Board&nbsp;of&nbsp;Seneca,&nbsp;Ottawa,&nbsp;Sandusky&nbsp;&amp;&nbsp;Wyandot&nbsp;Counties&nbsp;is&nbsp;hosting&nbsp;a&nbsp;free&nbsp;training&nbsp;for&nbsp;a&nbsp;deeper&nbsp;understanding&nbsp;of&nbsp;suicide.&nbsp;This&nbsp;training&nbsp;will&nbsp;discuss&nbsp;general&nbsp;suicide&nbsp;education&nbsp;and&nbsp;local&nbsp;statistics,&nbsp;family&nbsp;member&nbsp;perspectives&nbsp;and&nbsp;suicide&nbsp;survivor&nbsp;experiences.</p>]]></description>
-            <link>https://events.yodel.today/y/event/Mental-Health-and-Recovery-Services-Board-of-Seneca--Ottawa--Sandusky---Wyandot-Counties/Suicide-Prevention-Training--A-Deeper-Understanding-of-Suicide/699f02557e64fe1175c5317e</link>
-            <guid isPermaLink="false">699f02557e64fe1175c5317e</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Government]]></category>
-            <dc:creator><![CDATA[Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky & Wyandot Counties]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ee546ace-beaa-4f94-b710-ac737be4516b" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Coffee Connect</b> - 04/01/2026 11:00am EDT to 04/01/2026 12:00pm EDT]]></title><pubDate>2026-04-01T11:00:00</pubDate>
-            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
-
- Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
-            <link>https://www.facebook.com/events/1480200689235221/1816979155557371</link>
-            <guid isPermaLink="false">68958c8714638467a6e914f1</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Kickoff of “Tracking the Troops, Tippecanoe & Perry Too!” Historic Driving Tour</b> - 04/01/2026 1:00pm EDT to 04/01/2026 2:00pm EDT]]></title><pubDate>2026-04-01T13:00:00</pubDate>
-            <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
-
- The multi-county historic driving tour focuses on the Harrison Trail and nearby sites related to the War of 1812. The kickoff event will be held in Upper Sandusky at the Elks Lodge #83 which is located on the former site of Fort Ferree. This fort was built by General Harrison’s Army in 1812 and is the first stop on the driving tour. The tour will take travelers to sites in Wyandot, Seneca, Sandusky, Ottawa and Wood Counties.]]></description>
-            <link>https://senecacountyohio.org/events/kickoff-of-tracking-the-troops-tippecanoe-perry-too-historic-driving-tour</link>
-            <guid isPermaLink="false">697a4ba1e68ec91e619655c3</guid>
-            <category><![CDATA[History & Museums]]></category>
-            <category><![CDATA[Travel]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F687a6373bf0bda0a9b8e0ce5%2F1762399698316-8FQOK0A7IW3SGC9YBX9Q%2FAmerica%2B250%2B-OH%2BHistorical%2BDriving%2Btour%2BLogo%2B%2B%2B%25281%2529.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Level 1 Cake Decorating</b> - 04/01/2026 6:00pm EDT to 04/01/2026 8:00pm EDT]]></title><pubDate>2026-04-01T18:00:00</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Level 1 Cake Decorating class on April 1st and learn the basics of creating beautifully designed cakes. Perfect for beginners, this hands-on session will help you master essential techniques with ease.]]></description>
-            <link>https://www.facebook.com/events/1388887158867243</link>
-            <guid isPermaLink="false">696edb22aa6f4324b45bf2a0</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F619658238_1220238856900977_5415960717172969884_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -168,29 +60,31 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>JV Softball @ Calvert Catholic Schools</b> - 04/02/2026 4:45pm EDT to 04/02/2026 6:45pm EDT]]></title><pubDate>2026-04-02T16:45:00</pubDate>
-            <description><![CDATA[<b>Location : 152 Madison St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title><pubDate>2026-04-02T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- https://mohawklocal.gofmx.com/scheduling/requests/3953777/occurrences/8936616]]></description>
-            <link>https://events.yodel.today/y/event/Mohawk-Local-Schools/JV-Softball---Calvert-Catholic-Schools/69a7223cd26eeb70336b9b4e</link>
-            <guid isPermaLink="false">69a7223cd26eeb70336b9b4e</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Sports, Adult]]></category>
-            <dc:creator><![CDATA[Mohawk Local Schools]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1669770068257.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title><pubDate>2026-04-02T18:30:00</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Hop on over to Fitch Homestead Farm Stand + Shirley’s Coffee!</b> - 04/03/2026 8:00am EDT to 04/03/2026 12:00pm EDT]]></title><pubDate>2026-04-03T08:00:00</pubDate>
+            <description><![CDATA[<b>Location : 1925 W County Rd 26, Tiffin, OH 44883, USA</b> 
 
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
+ Hop on over to Fitch Homestead Farm Stand!  Join us for a fun-filled Easter visit with the Easter Bunny from 10 AM – 12 PM!  Bring the kiddos for a special meet & greet   Grab a delicious cup of Shirley’s Coffee   Stock up on festive Easter treats Make it an easy, one-stop stop for smiles, sweets, and springtime fun!  Fitch Homestead Farm Stand We can’t wait to see you there!]]></description>
+            <link>https://www.facebook.com/events/800401789432779</link>
+            <guid isPermaLink="false">69ccf3fdeb49e28d53e79ee3</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Fitch Homestead Farmstand]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660861840_122242916594249271_230580263668612657_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -204,35 +98,6 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/03/2026 1:00pm EDT to 04/03/2026 4:00pm EDT]]></title><pubDate>2026-04-03T13:00:00</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/3ZmvXqj]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin/</link>
-            <guid isPermaLink="false">69c6fdae54c1763733804700</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c70f7fdad44a768bdf13cd</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/03/2026 4:00pm EDT to 04/03/2026 7:00pm EDT]]></title><pubDate>2026-04-03T16:00:00</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/3ZmvXqj]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-2/</link>
-            <guid isPermaLink="false">69c71216064afcd4e441e8a2</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -277,29 +142,98 @@ Streaming Video: https://flosports.link/3ZmvXqj]]></description>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/04/2026 1:00pm EDT to 04/04/2026 4:00pm EDT]]></title><pubDate>2026-04-04T13:00:00</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/49MN2Pb]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-3/</link>
-            <guid isPermaLink="false">69c768456718eb9826573677</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d1247b865840946323ed27</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c6d0ad48d47f75222391</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/04/2026 4:00pm EDT to 04/04/2026 7:00pm EDT]]></title><pubDate>2026-04-04T16:00:00</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 227 E Perry St, Tiffin, OH 44883, USA</b> 
 
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/49MN2Pb]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-4/</link>
-            <guid isPermaLink="false">69c8728903763a53c0d744c8</guid>
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d121c2410d63b63bbe566a</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 96 S Washington St b, Tiffin, OH 44883, USA</b> 
+
+ <p>The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever-after-anniversary-celebration.</p><p>RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion-rsvp</p>]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d270a266024c8227f8b5d3</guid>
+            <category><![CDATA[Travel]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f21d17c5a380dac22bdf31</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : Municipal Building, 51 E Market St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d122512b4a8366e50c0f74</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[City of Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c4b630f1f06bcede2224</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 116 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d1218c865840946323ed16</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Relevé Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>ACO Regional Tiffin, OH</b> - 04/04/2026 3:30pm EDT to 04/04/2026 4:30pm EDT]]></title><pubDate>2026-04-04T15:30:00</pubDate>
+            <description><![CDATA[<b>Location : 49 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ ACO Season 21 Regional- Tiffin, OH Date: April 4, 2026 Location: Knights of Columbus Address: 49 E. Perry St. Tiffin, OH 44883 Registration: 3pm Start Time: 3:30pm Division: World Doubles, Singles Entry Fee: TBA Payout: TBD Contact Information: Brayden Elchert: 419-618-0883 or belchert111@gmail.com   MEMBERSHIP INFORMATION ACO Starter Membership - FREE * No cost to join * Pays full retail price on all tournament tickets • Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Player Membership - $30 * Discounted tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Worlds Membership - $60 * Best available tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies * Prize jerseys * Weekly prize opportunities (e.g., bag giveaways) * 500 bonus points awarded at signup (Singles Divisions only) BAG POLICY  Only ACO Stamped bags manufactured by ACO Season 21 Bag Partners can be used in any ACO Divisions * *NOTE* Older models of ACO stamped bags may be used if the bag manufacturer is still an ACO Bag Partner for ACO Season 21 For complete details, visit the ACO Calendar on AmericanCornhole.com. Click the link below: https://players.americancornhole.com/tournamen.../index/2...]]></description>
+            <link>https://www.facebook.com/events/4154519804771769</link>
+            <guid isPermaLink="false">69ccb6ede1f07eb9f8d324de</guid>
             <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[American Cornhole Organization]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658897978_1366466622179615_2731178506485881241_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title><pubDate>2026-04-05T10:30:00</pubDate>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
+            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
+            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -317,7 +251,7 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/07/2026 1:00pm EDT]]></title><pubDate>2026-04-06T18:00:00</pubDate>
+            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>2026-04-06T18:00:00</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by March 30th. Paint your own still life with your favorite item and fruit or flowers. You will paint in water-mixable oils with Carol Hoffman on two Mondays April 6th and 13th from 6pm-9pm. These are 3 hour classes. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the canvas are included in the price of the class. Cost is $70 for TAG members & $80 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -326,7 +260,46 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Arts]]></category>
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title><pubDate>2026-04-07T00:00:00</pubDate>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
+            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title><pubDate>2026-04-07T15:00:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1344227140582392/1344227173915722/?active_tab=about</link>
+            <guid isPermaLink="false">689d7478ce8425bd32aadeeb</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>The Blueprint Series - April Coffee Chat</b> - 04/09/2026 8:30am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T08:30:00</pubDate>
+            <description><![CDATA[<b>Location : 40 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ We’re excited to invite you to an upcoming Coffee Chat focused on: RMD Strategies & Retirement Income What to Know Before You Are Forced to Withdraw Whether you're approaching retirement or already there, understanding Required Minimum Distributions (RMDs) is key to protecting your income and minimizing taxes.  Thursday, April 9th   8:30 AM – 10:00 AM  40 E Perry St, Tiffin, OH Enjoy a relaxed morning with coffee, conversation, and practical financial insights you can actually use. This event is open to the public.]]></description>
+            <link>https://www.facebook.com/events/920700144284210</link>
+            <guid isPermaLink="false">69cc6fcb9dd0b1cadffb53f6</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Financial Design Agency of Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657871350_1527740512689093_3933032630069750225_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -342,6 +315,45 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F632827767_1242541231337406_6724066545163194224_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>"Barn on the Hill"  Thursday, April 9, 2026 10am-1pm or 6pm-9pm #04092601 or 04092602</b> - 04/09/2026 10:00am EDT to 04/09/2026 9:00pm EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration and payment is required by April 9. Paint "Barn on Hill" in water-mixable oils with Carol Hoffman on Thursday, April 9 from 10am until 1 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 9"x12" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/798558132867690</link>
+            <guid isPermaLink="false">69be148b07b2e7f4f379402a</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650801252_1562363532562202_8948286066981762436_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>2026 Seneca CEO Pitch Competition</b> - 04/09/2026 5:15pm EDT to 04/09/2026 6:15pm EDT]]></title><pubDate>2026-04-09T17:15:00</pubDate>
+            <description><![CDATA[<b>Location : Seneca County, OH, USA</b> 
+
+ Save the date! We invite you to the 5th annual local Pitch Competition! Our young entrepreneurs will "swim with the sharks" as they pitch their business in just 2 minutes to a panel of judges. We welcome you to join us at 5:15 for networking and hors d'oeuvres. The presentation will begin promptly at 5:45. Please bring your colleague, friend, or anyone you may know who would be interested in watching our young entrepreneurs compete!]]></description>
+            <link>https://www.facebook.com/events/1243039950522229</link>
+            <guid isPermaLink="false">6843d259e1904a57d5e552dc</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca CEO]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F504612488_1170597558415847_863777914491279839_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Please call 419-448-9774 or come in with any question.]]></description>
+            <link>https://www.facebook.com/events/884413264597777</link>
+            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
@@ -354,134 +366,6 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69c9ca0a781b08fbc35e0665</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please call 419-448-9774 or come in with questions or to sign up.]]></description>
-            <link>https://www.facebook.com/events/2944643965742398</link>
-            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c9ca0a781b08fbc35e0662</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please call 419-448-9774 or come in with questions or to sign up.]]></description>
-            <link>https://www.facebook.com/events/2944643965742398</link>
-            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c9ca0a781b08fbc35e0662</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Do Good With Chipotle (fundraiser)</b> - 03/27/2026 3:15pm EDT to 03/31/2026 6:15pm EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please help support Allen Eiry with a great meal at Chipotle!]]></description>
-            <link>https://www.facebook.com/events/34458208187128048</link>
-            <guid isPermaLink="false">69c9a021e64fa49d3ac3d021</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657181354_1428658415962855_6000775131355413357_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Addressing Concerns About Nursing home & Long-Term Costs</b> - 03/31/2026 10:30am EDT to 03/31/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Presentation by Dell Burtis Law Free & Open to the public Call to save your seat 419-448-9774]]></description>
-            <link>https://www.facebook.com/events/1249041690704390</link>
-            <guid isPermaLink="false">698be84e454ada9ba09e8e40</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Government]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-msp1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F629451457_1389515423210488_6831201917536184631_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b5283c682feef722061053</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Vicek’s Staff Bond</b> - 03/31/2026 1:45pm EDT to 03/31/2026 2:45pm EDT]]></title>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Come join your team to create your own personalized wood project. It will be a fun night out while the girls practice! Select any design, check out the "design" page of the website for options or scroll through past projects on the FB feed. Everyone can choose a different project.]]></description>
-            <link>https://www.flair37.com/events/viceks-staff-bond</link>
-            <guid isPermaLink="false">69c6f68e4b8dc98522522023</guid>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_3515dec768b641f28fb21237ab8865dd~mv2.jpeg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Suicide Prevention Training: A Deeper Understanding of Suicide</b> - 03/31/2026 6:30pm EDT to 03/31/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 1515 County Rd 1, Tiffin, OH 44883, USA</b> 
-
- <p>The&nbsp;Mental&nbsp;Health&nbsp;and&nbsp;Recovery&nbsp;Services&nbsp;Board&nbsp;of&nbsp;Seneca,&nbsp;Ottawa,&nbsp;Sandusky&nbsp;&amp;&nbsp;Wyandot&nbsp;Counties&nbsp;is&nbsp;hosting&nbsp;a&nbsp;free&nbsp;training&nbsp;for&nbsp;a&nbsp;deeper&nbsp;understanding&nbsp;of&nbsp;suicide.&nbsp;This&nbsp;training&nbsp;will&nbsp;discuss&nbsp;general&nbsp;suicide&nbsp;education&nbsp;and&nbsp;local&nbsp;statistics,&nbsp;family&nbsp;member&nbsp;perspectives&nbsp;and&nbsp;suicide&nbsp;survivor&nbsp;experiences.</p>]]></description>
-            <link>https://events.yodel.today/y/event/Mental-Health-and-Recovery-Services-Board-of-Seneca--Ottawa--Sandusky---Wyandot-Counties/Suicide-Prevention-Training--A-Deeper-Understanding-of-Suicide/699f02557e64fe1175c5317e</link>
-            <guid isPermaLink="false">699f02557e64fe1175c5317e</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Government]]></category>
-            <dc:creator><![CDATA[Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky & Wyandot Counties]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ee546ace-beaa-4f94-b710-ac737be4516b" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Coffee Connect</b> - 04/01/2026 11:00am EDT to 04/01/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
-
- Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
-            <link>https://www.facebook.com/events/1480200689235221/1816979155557371</link>
-            <guid isPermaLink="false">68958c8714638467a6e914f1</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Kickoff of “Tracking the Troops, Tippecanoe & Perry Too!” Historic Driving Tour</b> - 04/01/2026 1:00pm EDT to 04/01/2026 2:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
-
- The multi-county historic driving tour focuses on the Harrison Trail and nearby sites related to the War of 1812. The kickoff event will be held in Upper Sandusky at the Elks Lodge #83 which is located on the former site of Fort Ferree. This fort was built by General Harrison’s Army in 1812 and is the first stop on the driving tour. The tour will take travelers to sites in Wyandot, Seneca, Sandusky, Ottawa and Wood Counties.]]></description>
-            <link>https://senecacountyohio.org/events/kickoff-of-tracking-the-troops-tippecanoe-perry-too-historic-driving-tour</link>
-            <guid isPermaLink="false">697a4ba1e68ec91e619655c3</guid>
-            <category><![CDATA[History & Museums]]></category>
-            <category><![CDATA[Travel]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F687a6373bf0bda0a9b8e0ce5%2F1762399698316-8FQOK0A7IW3SGC9YBX9Q%2FAmerica%2B250%2B-OH%2BHistorical%2BDriving%2Btour%2BLogo%2B%2B%2B%25281%2529.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Level 1 Cake Decorating</b> - 04/01/2026 6:00pm EDT to 04/01/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Level 1 Cake Decorating class on April 1st and learn the basics of creating beautifully designed cakes. Perfect for beginners, this hands-on session will help you master essential techniques with ease.]]></description>
-            <link>https://www.facebook.com/events/1388887158867243</link>
-            <guid isPermaLink="false">696edb22aa6f4324b45bf2a0</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F619658238_1220238856900977_5415960717172969884_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -502,30 +386,32 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>JV Softball @ Calvert Catholic Schools</b> - 04/02/2026 4:45pm EDT to 04/02/2026 6:45pm EDT]]></title>
-            <description><![CDATA[<b>Location : 152 Madison St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- https://mohawklocal.gofmx.com/scheduling/requests/3953777/occurrences/8936616]]></description>
-            <link>https://events.yodel.today/y/event/Mohawk-Local-Schools/JV-Softball---Calvert-Catholic-Schools/69a7223cd26eeb70336b9b4e</link>
-            <guid isPermaLink="false">69a7223cd26eeb70336b9b4e</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Sports, Adult]]></category>
-            <dc:creator><![CDATA[Mohawk Local Schools]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1669770068257.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Hop on over to Fitch Homestead Farm Stand + Shirley’s Coffee!</b> - 04/03/2026 8:00am EDT to 04/03/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 1925 W County Rd 26, Tiffin, OH 44883, USA</b> 
 
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
+ Hop on over to Fitch Homestead Farm Stand!  Join us for a fun-filled Easter visit with the Easter Bunny from 10 AM – 12 PM!  Bring the kiddos for a special meet & greet   Grab a delicious cup of Shirley’s Coffee   Stock up on festive Easter treats Make it an easy, one-stop stop for smiles, sweets, and springtime fun!  Fitch Homestead Farm Stand We can’t wait to see you there!]]></description>
+            <link>https://www.facebook.com/events/800401789432779</link>
+            <guid isPermaLink="false">69ccf3fdeb49e28d53e79ee3</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Fitch Homestead Farmstand]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660861840_122242916594249271_230580263668612657_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -540,37 +426,6 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/03/2026 1:00pm EDT to 04/03/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/3ZmvXqj]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin/</link>
-            <guid isPermaLink="false">69c6fdae54c1763733804700</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c70f7fdad44a768bdf13cd</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/03/2026 4:00pm EDT to 04/03/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/3ZmvXqj]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-2/</link>
-            <guid isPermaLink="false">69c71216064afcd4e441e8a2</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -619,30 +474,104 @@ Streaming Video: https://flosports.link/3ZmvXqj]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/04/2026 1:00pm EDT to 04/04/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/49MN2Pb]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-3/</link>
-            <guid isPermaLink="false">69c768456718eb9826573677</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d1247b865840946323ed27</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c6d0ad48d47f75222391</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>University of Findlay Baseball at Tiffin</b> - 04/04/2026 4:00pm EDT to 04/04/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 227 E Perry St, Tiffin, OH 44883, USA</b> 
 
- University of Findlay Baseball at Tiffin
-Streaming Video: https://flosports.link/49MN2Pb]]></description>
-            <link>https://calendar.findlay.edu/event/university-of-findlay-baseball-at-tiffin-4/</link>
-            <guid isPermaLink="false">69c8728903763a53c0d744c8</guid>
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d121c2410d63b63bbe566a</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 96 S Washington St b, Tiffin, OH 44883, USA</b> 
+
+ <p>The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever-after-anniversary-celebration.</p><p>RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion-rsvp</p>]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d270a266024c8227f8b5d3</guid>
+            <category><![CDATA[Travel]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f21d17c5a380dac22bdf31</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Municipal Building, 51 E Market St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d122512b4a8366e50c0f74</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[City of Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c4b630f1f06bcede2224</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 116 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d1218c865840946323ed16</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Relevé Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>ACO Regional Tiffin, OH</b> - 04/04/2026 3:30pm EDT to 04/04/2026 4:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 49 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ ACO Season 21 Regional- Tiffin, OH Date: April 4, 2026 Location: Knights of Columbus Address: 49 E. Perry St. Tiffin, OH 44883 Registration: 3pm Start Time: 3:30pm Division: World Doubles, Singles Entry Fee: TBA Payout: TBD Contact Information: Brayden Elchert: 419-618-0883 or belchert111@gmail.com   MEMBERSHIP INFORMATION ACO Starter Membership - FREE * No cost to join * Pays full retail price on all tournament tickets • Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Player Membership - $30 * Discounted tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Worlds Membership - $60 * Best available tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies * Prize jerseys * Weekly prize opportunities (e.g., bag giveaways) * 500 bonus points awarded at signup (Singles Divisions only) BAG POLICY  Only ACO Stamped bags manufactured by ACO Season 21 Bag Partners can be used in any ACO Divisions * *NOTE* Older models of ACO stamped bags may be used if the bag manufacturer is still an ACO Bag Partner for ACO Season 21 For complete details, visit the ACO Calendar on AmericanCornhole.com. Click the link below: https://players.americancornhole.com/tournamen.../index/2...]]></description>
+            <link>https://www.facebook.com/events/4154519804771769</link>
+            <guid isPermaLink="false">69ccb6ede1f07eb9f8d324de</guid>
             <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[University of Findlay]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fdee04c8d-eee2-41ae-8fb5-7e1663222f7f.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[American Cornhole Organization]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658897978_1366466622179615_2731178506485881241_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
+            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
+            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -662,7 +591,7 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/07/2026 1:00pm EDT]]></title>
+            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by March 30th. Paint your own still life with your favorite item and fruit or flowers. You will paint in water-mixable oils with Carol Hoffman on two Mondays April 6th and 13th from 6pm-9pm. These are 3 hour classes. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the canvas are included in the price of the class. Cost is $70 for TAG members & $80 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -671,7 +600,49 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Arts]]></category>
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
+            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1344227140582392/1344227173915722/?active_tab=about</link>
+            <guid isPermaLink="false">689d7478ce8425bd32aadeeb</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>The Blueprint Series - April Coffee Chat</b> - 04/09/2026 8:30am EDT to 04/09/2026 10:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 40 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ We’re excited to invite you to an upcoming Coffee Chat focused on: RMD Strategies & Retirement Income What to Know Before You Are Forced to Withdraw Whether you're approaching retirement or already there, understanding Required Minimum Distributions (RMDs) is key to protecting your income and minimizing taxes.  Thursday, April 9th   8:30 AM – 10:00 AM  40 E Perry St, Tiffin, OH Enjoy a relaxed morning with coffee, conversation, and practical financial insights you can actually use. This event is open to the public.]]></description>
+            <link>https://www.facebook.com/events/920700144284210</link>
+            <guid isPermaLink="false">69cc6fcb9dd0b1cadffb53f6</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Financial Design Agency of Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657871350_1527740512689093_3933032630069750225_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -731,6 +702,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Bible Study</b> - 04/09/2026 6:00pm EDT to 04/09/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for Bible Study at Trinity United Church of Christ — a warm, welcoming evening of scripture, discussion, and community.   When: February 26, 2026 • 6:00 PM – 7:00 PM Where: 131 E Perry St, Tiffin, OH All are welcome — bring a friend! Learn more and RSVP: https://wix.to/I8fRQGQ #BibleStudy #TrinityUCC #TiffinOH #CommunityEvent #Faith https://wix.to/n9G0tVv]]></description>
+            <link>https://www.facebook.com/events/1608516817125840/1608516840459171</link>
+            <guid isPermaLink="false">699e954c600976455535043c</guid>
+            <category><![CDATA[Religious]]></category>
+            <category><![CDATA[Causes]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F641609652_1324334363059714_7937752217921899832_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Downtown Trivia Night at the Tiffin Eagles</b> - 04/09/2026 7:00pm EDT to 04/09/2026 8:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -742,6 +727,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F638845329_935398672189399_8051173889368340635_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Women Spies of World War II</b> - 04/10/2026 12:00am EDT to 04/10/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
+
+ Mike Gilbert (historian and educator)]]></description>
+            <link>https://www.tiffin.edu/academics/lifetu/</link>
+            <guid isPermaLink="false">692e20dd99fcdc50f8a1d0ff</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[LIFE@TU]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Feafa926b-2506-461b-82ff-6e57e54348bf.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1017,6 +1016,78 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Service of the Word</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
+            <link>https://www.facebook.com/events/1659042752116155/1659042762116154</link>
+            <guid isPermaLink="false">69c3050907f8388554c94aa6</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>John Carroll University Baseball at Heidelberg University</b> - 04/12/2026 1:00pm EDT to 04/12/2026 4:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ John Carroll University Baseball at Heidelberg University
+Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_source=multiple&utm_content=landingpage&utm_term=heidelberg-university&contract_id=0063m00000n3zlaaam]]></description>
+            <link>https://jcusports.com/calendar.aspx?game_id=15210&amp;amp;sport_id=23</link>
+            <guid isPermaLink="false">696b045abc968342ef70b6f0</guid>
+            <category><![CDATA[Sports, Youth]]></category>
+            <dc:creator><![CDATA[John Carroll Athletics]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1668104108478.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
+            <duplicate_id>69725d7c796579106a028194</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-13</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e042199d</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration is required Please call 419-448-9774 or stop in for more information]]></description>
+            <link>https://www.facebook.com/events/2117270372406052</link>
+            <guid isPermaLink="false">69b5280f0c1f61e37f108777</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69b52840682feef722061062</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration is required Please call 419-448-9774 or stop in for more information]]></description>
+            <link>https://www.facebook.com/events/2117270372406052</link>
+            <guid isPermaLink="false">69a347e53a0cb6104c176ea1</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69b52840682feef722061062</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Seneca County Human Resources Association | April Meeting</b> - 04/14/2026 11:45am EDT to 04/14/2026 1:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 45 St Lawrence Dr, Tiffin, OH 44883, USA</b> 
 
@@ -1031,6 +1102,82 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>John Carroll University Softball at Heidelberg University</b> - 04/14/2026 3:00pm EDT to 04/14/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ John Carroll University Softball at Heidelberg University
+Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_source=multiple&utm_content=landingpage&utm_term=heidelberg-university&contract_id=0063m00000n3zlaaam]]></description>
+            <link>https://jcusports.com/calendar.aspx?game_id=14512&amp;amp;sport_id=24</link>
+            <guid isPermaLink="false">68f0092e86766b71e79b283d</guid>
+            <category><![CDATA[Sports, Youth]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[John Carroll Athletics]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1668104108478.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Teen Tuesday</b> - 04/14/2026 3:00pm EDT to 04/14/2026 4:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1344227140582392/1344227153915724/?active_tab=about</link>
+            <guid isPermaLink="false">689d7475ce8425bd32aadee6</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>695fd9e0d44e44d869d18876</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Baseball at Heidelberg University</b> - 04/14/2026 4:00pm EDT to 04/14/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Baseball at Heidelberg University on April 14 at 4:00pm.
+
+https://denison.edu/events/event/160763]]></description>
+            <link>https://events.yodel.today/y/event/Denison-University/Baseball-at-Heidelberg-University/691cef378c806040b7338718</link>
+            <guid isPermaLink="false">691cef378c806040b7338718</guid>
+            <category><![CDATA[Sports, Youth]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Denison University]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F669684bd-27d7-44d6-be74-27ec9cd7e60d.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69725d80796579106a0281a3</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>John Carroll University Softball at Heidelberg University</b> - 04/14/2026 5:00pm EDT to 04/14/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ John Carroll University Softball at Heidelberg University
+Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_source=multiple&utm_content=landingpage&utm_term=heidelberg-university&contract_id=0063m00000n3zlaaam]]></description>
+            <link>https://jcusports.com/calendar.aspx?game_id=14513&amp;amp;sport_id=24</link>
+            <guid isPermaLink="false">68f0093286766b71e79b2841</guid>
+            <category><![CDATA[Sports, Youth]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[John Carroll Athletics]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1668104108478.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-16</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a1</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -1039,7 +1186,7 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -1061,6 +1208,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Freedom Rising XII Celebration and Fundraiser</b> - 04/16/2026 5:00pm EDT to 04/16/2026 7:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Join&nbsp;community&nbsp;and&nbsp;business&nbsp;leaders&nbsp;for&nbsp;an&nbsp;unforgettable&nbsp;evening&nbsp;with&nbsp;Sisters&nbsp;in&nbsp;Shelter&nbsp;at&nbsp;their&nbsp;Freedom&nbsp;Rising&nbsp;XII,&nbsp;5:00-7:30&nbsp;pm&nbsp;Thursday&nbsp;April&nbsp;16,&nbsp;2026,&nbsp;at&nbsp;The&nbsp;Chandelier&nbsp;Community&nbsp;Event&nbsp;Center,&nbsp;151&nbsp;S.&nbsp;Washington&nbsp;Street,&nbsp;Tiffin.</p><p>&nbsp;</p><p>The&nbsp;night&nbsp;will&nbsp;include&nbsp;a&nbsp;keynote&nbsp;presentation&nbsp;from&nbsp;Brittany&nbsp;Joy&nbsp;Figlar&nbsp;who&nbsp;brings&nbsp;a&nbsp;voice&nbsp;to&nbsp;the&nbsp;stage&nbsp;that&nbsp;is&nbsp;both&nbsp;courageous&nbsp;and&nbsp;unforgettable.&nbsp;A&nbsp;survivor&nbsp;of&nbsp;human&nbsp;trafficking,&nbsp;Brittany&nbsp;has&nbsp;transformed&nbsp;her&nbsp;lived&nbsp;experience&nbsp;into&nbsp;powerful&nbsp;advocacy—educating&nbsp;communities,&nbsp;training&nbsp;professionals,&nbsp;and&nbsp;challenging&nbsp;systems&nbsp;to&nbsp;better&nbsp;protect&nbsp;and&nbsp;support&nbsp;survivors.&nbsp;Her&nbsp;story&nbsp;is&nbsp;raw,&nbsp;honest,&nbsp;and&nbsp;deeply&nbsp;moving,&nbsp;reminding&nbsp;us&nbsp;not&nbsp;only&nbsp;of&nbsp;the&nbsp;realities&nbsp;of&nbsp;exploitation,&nbsp;but&nbsp;of&nbsp;the&nbsp;strength&nbsp;and&nbsp;resilience&nbsp;it&nbsp;takes&nbsp;to&nbsp;rise&nbsp;beyond&nbsp;it.&nbsp;Hearing&nbsp;Brittany&nbsp;speak&nbsp;is&nbsp;not&nbsp;just&nbsp;inspiring,&nbsp;it’s&nbsp;a&nbsp;moment&nbsp;that&nbsp;stays&nbsp;with&nbsp;you&nbsp;long&nbsp;after&nbsp;the&nbsp;night&nbsp;ends.</p><p>&nbsp;</p><p>Your&nbsp;support&nbsp;at&nbsp;this&nbsp;event&nbsp;will&nbsp;directly&nbsp;contribute&nbsp;to&nbsp;critical&nbsp;support&nbsp;services&nbsp;provided&nbsp;for&nbsp;survivors&nbsp;which&nbsp;include&nbsp;shelter,&nbsp;counseling,&nbsp;legal&nbsp;aid,&nbsp;and&nbsp;vocational&nbsp;training;&nbsp;and&nbsp;to&nbsp;expand&nbsp;awareness&nbsp;campaigns&nbsp;by&nbsp;educating&nbsp;community&nbsp;members&nbsp;to&nbsp;recognize&nbsp;the&nbsp;signs&nbsp;of&nbsp;human&nbsp;trafficking&nbsp;and&nbsp;how&nbsp;to&nbsp;report&nbsp;it.</p><p>Tickets&nbsp;for&nbsp;the&nbsp;Freedom&nbsp;Rising&nbsp;XII&nbsp;Celebration&nbsp;and&nbsp;Fundraiser&nbsp;are&nbsp;available&nbsp;now.&nbsp;&nbsp;There&nbsp;will&nbsp;be&nbsp;a&nbsp;cash&nbsp;bar&nbsp;&amp;&nbsp;heavy&nbsp;hors&nbsp;d&#39;oeuvres.&nbsp;&nbsp;There&nbsp;will&nbsp;be&nbsp;50/50,&nbsp;raffles,&nbsp;and&nbsp;silent&nbsp;auction&nbsp;with&nbsp;all&nbsp;proceeds&nbsp;to&nbsp;benefit&nbsp;Sisters&nbsp;in&nbsp;Shelter.&nbsp;Business&nbsp;attire&nbsp;is&nbsp;appropriate.&nbsp;Don&#39;t&nbsp;miss&nbsp;this&nbsp;opportunity&nbsp;to&nbsp;be&nbsp;a&nbsp;part&nbsp;of&nbsp;something&nbsp;truly&nbsp;impactful.&nbsp;Together&nbsp;we&nbsp;can&nbsp;make&nbsp;a&nbsp;difference.</p><p>&nbsp;</p><p>Sisters&nbsp;in&nbsp;Shelter,&nbsp;which&nbsp;began&nbsp;in&nbsp;2005,&nbsp;is&nbsp;a&nbsp;non-profit&nbsp;organization&nbsp;that&nbsp;supports&nbsp;survivors&nbsp;and&nbsp;illuminate&nbsp;the&nbsp;atrocities&nbsp;of&nbsp;human&nbsp;trafficking&nbsp;through&nbsp;community&nbsp;education&nbsp;and&nbsp;advocacy.&nbsp;Sisters&nbsp;in&nbsp;Shelter&nbsp;provides&nbsp;critical&nbsp;first&nbsp;needs&nbsp;for&nbsp;women&nbsp;survivors&nbsp;of&nbsp;human&nbsp;trafficking:&nbsp;emergency&nbsp;safe&nbsp;housing,&nbsp;medical&nbsp;care,&nbsp;safety&nbsp;planning,&nbsp;and&nbsp;legal&nbsp;advocacy.&nbsp;To&nbsp;donate&nbsp;directly&nbsp;to&nbsp;Sisters&nbsp;in&nbsp;Shelter,&nbsp;or&nbsp;to&nbsp;learn&nbsp;about&nbsp;volunteer&nbsp;opportunities,&nbsp;visit&nbsp;sistersinshelter.com&nbsp;or&nbsp;visit&nbsp;Facebook:&nbsp;Sisters&nbsp;in&nbsp;Shelter.</p>]]></description>
+            <link>https://events.yodel.today/y/event/Seneca-County-Commission-on-Aging-and-Sisters-in-Shelter/Freedom-Rising-XII-Celebration-and-Fundraiser/69a06a5c96ed70f1e89d4f64</link>
+            <guid isPermaLink="false">69a06a5c96ed70f1e89d4f64</guid>
+            <category><![CDATA[Causes]]></category>
+            <dc:creator><![CDATA[Seneca County Commission on Aging and Sisters in Shelter]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_6f8026ef-1997-4165-a1e9-dd0dcc11032f" length="0" type="image/jpeg"/>
+            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Small trays, big trays and noodle board workshop</b> - 04/16/2026 5:30pm EDT to 04/16/2026 6:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
 
@@ -1072,6 +1233,19 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_27c16114ae644918a338a207d71edf58~mv2.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"The Abstract Show" will be displayed from April 1 -25.  Intake will be from March 25-28.</b> - 04/16/2026 6:00pm EDT to 04/30/2026 8:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Get ready for a bold, vibrant, and unpredictable art experience! The Abstract Art Exhibit is all about letting go, embracing creativity, and seeing the world through an entirely new lens. Whether you're an artist or an admirer, this is a show that will challenge, inspire, and excite both the creator and the viewer! Abstract art is more than just shapes and colors, it's about emotion, movement, and limitless expression. Every piece in this exhibit pushes the boundaries of imagination, drawing you into a world where rules are meant to be broken, and where creativity knows no limits. Expect a dazzling mix of mediums, including photography, painting, sculpture, textiles, digital art, jewelry, pastels, glass, and more. If you can dream it, it belongs here! Whether youÕre showcasing your work or simply soaking in the creativity, donÕt miss this one-of-a kind exhibit. Step inside, explore, and let your imagination run wild!]]></description>
+            <link>https://www.facebook.com/events/913867201518244</link>
+            <guid isPermaLink="false">69cd7b0718d93875790c074d</guid>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658288811_1574785234653365_4619548523973343843_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1205,6 +1379,34 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Rick Springfield</b> - 04/18/2026 7:30pm EDT to 04/18/2026 9:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Over the past four decades, Rick Springfield has worn many hats as an entertainer and performer. The creator of some of the finest power-pop of the ’80s, a Grammy winning singer, songwriter, and musician who has sold 25 million albums and scored 17 U.S. Top 40 hits, including “Jessie’s Girl,” “Don’t Talk to Strangers,” “An Affair of the Heart,” “I’ve Done Everything for You,” “Love Somebody,” and “Human Touch.” He’s an accomplished actor who has starred opposite Meryl Streep in the feature film “Ricki and the Flash,” gave a chameleonic performance as the creepy Dr. Irving Pitlor in HBO’s prestige drama “True Detective,” earned great reviews for his portrayal of Lucifer on the CW hit “Supernatural” and most recently played the insane Pastor Charles on FX’s worldwide hit series “American Horror Story.” An author as well, both his candid 2010 memoir Late, Late at Night (which Rolling Stone named one of the 25 greatest rock memoirs of all time) and his 2014 comedic novel Magnificent Vibration earned rave reviews and spots on the New York Times Best Sellers’ list. In 2014, Springfield was honored with a star on the Hollywood Walk of Fame, located around the corner from the first apartment he lived in when he first arrived in the U.S. from Australia in 1971. Springfield’s Sirius-XM radio show, Working Class DJ, is a huge hit and airs weekly on 80s on 8. His new album “Automatic” is out now. Automatic is his first album of all new original material in 5 years.</p><p> $125, $100, $75</p><p>Fan Club tickets go on sale November 10 at 10:00 AM</p><p>Public ticket sales begin November 17 at 10:00 AM. </p>]]></description>
+            <link>https://events.yodel.today/y/event/The-Ritz-Theatre/Rick-Springfield/690c0d27ac915b34e3b2d0f1</link>
+            <guid isPermaLink="false">690c0d27ac915b34e3b2d0f1</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_0e82bfba-e69b-4669-a8fd-3854db5e4be1" length="0" type="image/jpeg"/>
+            <duplicate_id>69cb3ed83cd2dd41e6aa84d6</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Service of the Word</b> - 04/19/2026 10:30am EDT to 04/19/2026 11:30am EDT]]></title>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
+            <link>https://www.facebook.com/events/1659042752116155/1659042765449487</link>
+            <guid isPermaLink="false">69c3050707f8388554c94aa3</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Into the Woods</b> - 04/19/2026 2:00pm EDT to 04/19/2026 4:30pm EDT]]></title>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
 
@@ -1229,6 +1431,21 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F641603160_1315186163978065_5038985841418612091_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Teen Tuesday</b> - 04/21/2026 3:00pm EDT to 04/21/2026 4:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1344227140582392/1344227157249057/?active_tab=about</link>
+            <guid isPermaLink="false">689d7476ce8425bd32aadee7</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>695fd9e0d44e44d869d18873</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1263,6 +1480,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Chamber & Development Chat and Assist | April 2026</b> - 04/22/2026 10:00am EDT to 04/22/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ We've opened the doors to provide a better member experience for our chamber & development members and to help you get the most of your membership, ask questions, and get help to elevate your business! Chamber & Development Chat and Assist is an opportunity for our members to meet one on one with a Chamber & Development team member to understand and take advantage everything that comes with their membership, the opportunity to get help with anything from social media tips to Canva crash courses and beyond, to providing feedback to us so we can get better! Upcoming 2026 Chat & Assist dates include: Wednesday, May 27, 2026 from 10 AM to 1 PM Wednesday, June 24, 2026 from 10 AM to 1 PM Wednesday, July 22, 2026 from 10 AM to 1 PM Wednesday, August 26, 2026 from 10 AM to 1 PM Wednesday, September 23, 2026 from 10 AM to 1 PM Wednesday, October 28, 2026 from 10 AM to 1 PM You can secure a time (this is just so we know who to expect and how to best prepare!) at https://calendar.google.com/.../AcZssZ2Jz5jSs5OdbQ7h4VKho....]]></description>
+            <link>https://www.facebook.com/events/2212280205919974</link>
+            <guid isPermaLink="false">690403527763d8400981dbf7</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F572051034_1218798563616826_5157831980050291294_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Shred Day at Your Legacy FCU</b> - 04/23/2026 10:00am EDT to 04/23/2026 2:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
 
@@ -1288,6 +1519,19 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651880949_1562369735894915_5513651263047721500_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Micallef White Release ~ Cut and Light</b> - 04/23/2026 6:00pm EDT to 04/23/2026 9:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 58 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join us as Jeremy Ellis of Micallef Cigars introduces the newest addition to the Micallef lineup ~ the WHITE! This cut and light event features: ~EXCLUSIVE EVENT ONLY DEALS ~A CHANCE TO WIN MICALLEF SWAG, CIGARS and MORE Sit back, light up and enjoy your purchase in our comfortable lounge BYOB (We supply the drinkware) Non-alcoholic beverages available for purchase]]></description>
+            <link>https://www.facebook.com/events/1428423638202018</link>
+            <guid isPermaLink="false">69b75f6b5a524a2fd9e6f658</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651286111_122220475718292679_1162235540989495618_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1327,7 +1571,7 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Causes]]></category>
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F597060719_882021957527071_9137903828408530451_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sea1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F597060719_882021957527071_9137903828408530451_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1355,7 +1599,7 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Causes]]></category>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Big Mike's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F641661334_1204709605195399_7548821112990354804_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658424418_1232122755787417_358363515979285084_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1383,6 +1627,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Religious]]></category>
             <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/27/2026 12:00am EDT to 04/27/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-27</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a5</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1460,6 +1718,20 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-30</link>
+            <guid isPermaLink="false">69cf8dd8569ab2f3e04219ab</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>HU vs. JCU Baseball at Progressive Field</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
 
@@ -1495,6 +1767,138 @@ Streaming Video: https://flosports.link/49MN2Pb]]></description>
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653455733_946038477796221_5317633931254525103_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Financial Fitness Friday</b> - 05/01/2026 8:30am EDT to 05/01/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
+
+ Join our Financial Counselor Rusti Claydon for Financial Fitness Friday, a new monthly event for our membership for FREE walk-in assistance and education surrounding your financial concerns! The first Friday of each month, Rusti has cleared her schedule to allow for members of the credit union to stop in and ask questions about their situation, ask for insights into how we can assist and how to better utilize Your Legacy Federal Credit Union offerings to their benefit! Not a member? Rusti can get you started with just a $5 minimum initial share. See you there!]]></description>
+            <link>https://www.facebook.com/events/392023563979008/606124749235554</link>
+            <guid isPermaLink="false">68958c7d14638467a6e914e9</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Annual Plant Sale at the Seeds of Hope Farm</b> - 05/02/2026 8:00am EDT to 05/02/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
+
+ You'll find a variety of chemical - free flowers, as well as cabbage, cauliflower, broccoli, tomatoes, eggplant, peppers, herbs and more! With a large variety of flower and veggies at just $2.00/4-pack, we have everything you need to get your gardens off to a great start. There will be microgreens and hydroponic lettuce and greenhouse tomatoes, and fresh eggs for sale, too.]]></description>
+            <link>https://www.facebook.com/events/1617040812847487</link>
+            <guid isPermaLink="false">69ae4a928ca134f5d4bbc92c</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646354935_1340263908140678_988933824835028398_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"Colored Pencil Rose"  Saturday, May 2, 2026 9am-12pm #05022601</b> - 05/02/2026 9:00am EDT to 05/02/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ In this class you will use colored pencils to create a 5"x7" drawing of a rose, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Wednesday, April 29. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday]]></description>
+            <link>https://www.facebook.com/events/2054530691777822</link>
+            <guid isPermaLink="false">69c70f4ade9e4806d832714c</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659129002_1571270778338144_4397380676145534878_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/02/2026 9:00am EDT to 05/02/2026 2:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
+            <link>https://www.facebook.com/events/612922661804784/612922728471444</link>
+            <guid isPermaLink="false">6880457989cbcda9534a9180</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Pop the cork with Corkys' Footwear at Simply Susan's</b> - 05/02/2026 11:00am EDT to 05/03/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Pop the Cork at Simply Susan's - Corky's Footwear Introduction!    Let’s pop the cork at Simply Susan's Boutique! Join us for an exciting introduction to the ever-popular, affordable, and comfortable Corky's Footwear!  Friday, May 2, 11 AM - 6 PM Saturday, May 3, 11 AM - 3 PM Try on a pair of Corky's Footwear during the event and be entered to win your choice of ONE FREE pair from the Fall 2025 line! Special promotions and surprises will be announced closer to the event date, so stay tuned! Bring your friends and find your new favorite pair of shoes! We can't wait to see you there!   Simply Susan's Boutique 70 S Washington St Downtown Tiffin, Ohio 44883 419-443-0882 www.simplysusansboutique.com Store Hours Tuesday, Wednesday & Friday 11-6 Thursday 11-7 Saturday 11-3 Invite your friends and family to the event!       #corkysshoes #corkys #corkysfootwear]]></description>
+            <link>https://www.facebook.com/events/584569731301326/</link>
+            <guid isPermaLink="false">67f60b16a47ad273ca4721d9</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-mrs2-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F488920489_1137303151743535_2086226273608705599_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/02/2026 7:30pm EDT to 05/02/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-02&amp;time=1777750200</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369c</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Service of the Word</b> - 05/03/2026 10:30am EDT to 05/03/2026 11:30am EDT]]></title>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
+            <link>https://www.facebook.com/events/1659042752116155/1659042768782820</link>
+            <guid isPermaLink="false">69c305086ea94d1c30f2f20a</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-03&amp;time=1777816800</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369e</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>The Art of Hand Spinning</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
+
+ This program will include spinning demonstrations by Joan Webster and Kim (Mathias) Howard.]]></description>
+            <link>https://senecacountyohio.org/events/the-art-of-hand-spinning</link>
+            <guid isPermaLink="false">69961cc7acf108ebebc422ac</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
