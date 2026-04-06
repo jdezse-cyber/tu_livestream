@@ -4,9 +4,23 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 04:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 04:15:14 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Please call 419-448-9774 or come in with any question.]]></description>
+            <link>https://www.facebook.com/events/884413264597777</link>
+            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
@@ -17,21 +31,6 @@
             <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title><pubDate>2026-04-05T15:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
-
- Spring Craft Show this Saturday 4/5/25 9-3pm]]></description>
-            <link>https://www.facebook.com/events/519279844573398/</link>
-            <guid isPermaLink="false">67ee20513062b0cd3a10e7d7</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F488553379_966355605480200_6008562517744919958_n.png" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -59,32 +58,6 @@
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title><pubDate>2026-04-05T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
-            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title><pubDate>2026-04-05T14:30:00</pubDate>
-            <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
-
- Join us for our Easter buffet celebration, featuring an array of breakfast favorites including eggs, bacon, sausage, biscuits, and gravy, alongside lunch options such as ham, chicken, pasta, and potatoes. A selection of assorted salads and desserts will also be available. To secure your reservation, please call 419-447-8325 or book online through OpenTable.]]></description>
-            <link>https://www.facebook.com/events/1284596560247062</link>
-            <guid isPermaLink="false">69be6aaf16ec192653dc5cd7</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Ironwood Steakhouse]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655915638_1509157731213680_6718842979137848655_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -342,20 +315,47 @@
             <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
+            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
+            <link>https://www.facebook.com/events/1338942641605489</link>
+            <guid isPermaLink="false">69b1358a13ecc71f46ea223f</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Happy Days Nutrition]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
+            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
+            <link>https://www.facebook.com/events/1338942641605489</link>
+            <guid isPermaLink="false">69c6d67e52c5c482b0c9276b</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
- Spring Craft Show this Saturday 4/5/25 9-3pm]]></description>
-            <link>https://www.facebook.com/events/519279844573398/</link>
-            <guid isPermaLink="false">67ee20513062b0cd3a10e7d7</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F488553379_966355605480200_6008562517744919958_n.png" length="0" type="image/jpeg"/>
+ Please call 419-448-9774 or come in with questions or to sign up.]]></description>
+            <link>https://www.facebook.com/events/2944643965742398</link>
+            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -385,34 +385,6 @@
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
-            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
-
- Join us for our Easter buffet celebration, featuring an array of breakfast favorites including eggs, bacon, sausage, biscuits, and gravy, alongside lunch options such as ham, chicken, pasta, and potatoes. A selection of assorted salads and desserts will also be available. To secure your reservation, please call 419-447-8325 or book online through OpenTable.]]></description>
-            <link>https://www.facebook.com/events/1284596560247062</link>
-            <guid isPermaLink="false">69be6aaf16ec192653dc5cd7</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Ironwood Steakhouse]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655915638_1509157731213680_6718842979137848655_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -981,7 +953,7 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -1755,6 +1727,49 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>695fd9e1d44e44d869d1887f</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
+
+ Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
+            <link>https://www.facebook.com/events/1480200689235221/1816979152224038</link>
+            <guid isPermaLink="false">68958c8614638467a6e914f0</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ In this class you will use colored pencils to create a 5"x7" drawing of a pear, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 1. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/4259775110944887</link>
+            <guid isPermaLink="false">69c70f40de9e4806d8327143</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656229432_1571269498338272_4058425583274208860_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Advance your baking skills with our Level 2 Pastry Class, designed to teach intermediate techniques for crafting delectable pastries. Perfect for those with basic experience looking to expand their culinary repertoire.]]></description>
+            <link>https://www.facebook.com/events/1646289846361635</link>
+            <guid isPermaLink="false">696edb34aa6f4324b45bf2be</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F618785390_1220239820234214_1424094794868015757_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
