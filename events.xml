@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 04:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 04:15:13 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>2026-04-13T21:00:00</pubDate>
@@ -17,19 +17,6 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title><pubDate>2026-04-07T01:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
-            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -349,18 +336,6 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title><pubDate>2026-04-12T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042762116154</link>
-            <guid isPermaLink="false">69c3050907f8388554c94aa6</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title><pubDate>2026-04-13T01:00:00</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
 
@@ -386,34 +361,6 @@
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69b52840682feef722061062</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 04/14/2026 3:00pm EDT to 04/14/2026 4:30pm EDT]]></title><pubDate>2026-04-14T16:30:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227153915724/?active_tab=about</link>
-            <guid isPermaLink="false">689d7475ce8425bd32aadee6</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e0d44e44d869d18876</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>John Carroll University Softball at Heidelberg University</b> - 04/14/2026 5:00pm EDT to 04/14/2026 7:00pm EDT]]></title><pubDate>2026-04-14T19:00:00</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- John Carroll University Softball at Heidelberg University
-Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_source=multiple&utm_content=landingpage&utm_term=heidelberg-university&contract_id=0063m00000n3zlaaam]]></description>
-            <link>https://jcusports.com/calendar.aspx?game_id=14513&amp;amp;sport_id=24</link>
-            <guid isPermaLink="false">68f0093286766b71e79b2841</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[John Carroll Athletics]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1668104108478.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -549,6 +496,19 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title><pubDate>2026-04-18T11:00:00</pubDate>
+            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+
+ Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet April 18th 9 a.m. - 11:00 a.m.   Open to the public. The cost is $10 for ages 11 and up. $5 ages 6-10. Kids 5 and under eat free. Menu: Scrambled Eggs Hashbrowns Sausage gravy and biscuits French Toast Sticks, Sausage patties Fruit Cocktail Coffee. The social quarters will be open so that you may purchase other beverage options including Bloody Mary's, Clamdiggers and more. Please help spread the word and share this event.]]></description>
+            <link>https://www.facebook.com/events/943302015073407</link>
+            <guid isPermaLink="false">69d5471a5eb5892b2858ba39</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -771,18 +731,6 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652454275_1604240598378013_1587681051750124738_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/26/2026 10:30am EDT to 04/26/2026 11:30am EDT]]></title><pubDate>2026-04-26T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042772116153</link>
-            <guid isPermaLink="false">69c305087e16e5a3c8e8aee3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1058,18 +1006,62 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+        </item><item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>2026-05-08T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
 
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
-            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
             <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>2026-05-08T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6973d8efb3cef381c2261aeb</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>2026-05-08T20:30:00</pubDate>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
+            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>2026-05-08T20:30:00</pubDate>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1413,19 +1405,6 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042762116154</link>
-            <guid isPermaLink="false">69c3050907f8388554c94aa6</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
 
@@ -1452,36 +1431,6 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69b52840682feef722061062</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 04/14/2026 3:00pm EDT to 04/14/2026 4:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227153915724/?active_tab=about</link>
-            <guid isPermaLink="false">689d7475ce8425bd32aadee6</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e0d44e44d869d18876</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>John Carroll University Softball at Heidelberg University</b> - 04/14/2026 5:00pm EDT to 04/14/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- John Carroll University Softball at Heidelberg University
-Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_source=multiple&utm_content=landingpage&utm_term=heidelberg-university&contract_id=0063m00000n3zlaaam]]></description>
-            <link>https://jcusports.com/calendar.aspx?game_id=14513&amp;amp;sport_id=24</link>
-            <guid isPermaLink="false">68f0093286766b71e79b2841</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[John Carroll Athletics]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fmy.yodel.today%2Fapi%2Fv3%2Fmedia%2Fimage%3Furl%3Dhttps%253A%252F%252Fyodelbucket.s3.us-east-2.amazonaws.com%252Fothers%252F1668104108478.jpg%26type%3Dfullsize" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1627,6 +1576,20 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+
+ Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet April 18th 9 a.m. - 11:00 a.m.   Open to the public. The cost is $10 for ages 11 and up. $5 ages 6-10. Kids 5 and under eat free. Menu: Scrambled Eggs Hashbrowns Sausage gravy and biscuits French Toast Sticks, Sausage patties Fruit Cocktail Coffee. The social quarters will be open so that you may purchase other beverage options including Bloody Mary's, Clamdiggers and more. Please help spread the word and share this event.]]></description>
+            <link>https://www.facebook.com/events/943302015073407</link>
+            <guid isPermaLink="false">69d5471a5eb5892b2858ba39</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1866,19 +1829,6 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652454275_1604240598378013_1587681051750124738_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/26/2026 10:30am EDT to 04/26/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042772116153</link>
-            <guid isPermaLink="false">69c305087e16e5a3c8e8aee3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2172,6 +2122,68 @@ Streaming Video: https://go.flocollege.com/partner/oac?utm_medium=partner&utm_so
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6973d8efb3cef381c2261aeb</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
+            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
