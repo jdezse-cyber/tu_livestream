@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 04:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 04:15:15 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>2026-04-13T21:00:00</pubDate>
@@ -364,6 +364,18 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Preschool Pals—Birdie Treats</b> - 04/14/2026 4:00pm EDT to 04/14/2026 5:00pm EDT]]></title><pubDate>2026-04-14T17:00:00</pubDate>
+            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
+
+ For ages 3 to 5 years.  Join Linda Rose as we learn about Ohio’s springtime birds and create  a tasty treat for them. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/14/preschool-palsbirdie-treats</link>
+            <guid isPermaLink="false">69d6811253ebcefdf3e30982</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title><pubDate>2026-04-16T01:00:00</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
 
@@ -588,6 +600,18 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ded6da78-8a6c-46d1-a97e-589cc8223a14" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Young Adventurers—Salamanders</b> - 04/20/2026 5:00pm EDT to 04/20/2026 6:00pm EDT]]></title><pubDate>2026-04-20T18:00:00</pubDate>
+            <description><![CDATA[<b>Location : Mercy Community Nature Preserve, 99 St Lawrence Dr, Tiffin, OH 44883, USA</b> 
+
+ For ages 5 to 12 years.  Join Linda Rose as we search for those little elusive salamanders hiding in the leaf litter.  Learn some interesting fact and have fun looking for them. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/20/young-adventurerssalamanders</link>
+            <guid isPermaLink="false">69d6811a7c02b7625f95b4f4</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -844,6 +868,18 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Celebrate 30 Years—Nature Craft</b> - 04/30/2026 6:00pm EDT to 04/30/2026 7:00pm EDT]]></title><pubDate>2026-04-30T19:00:00</pubDate>
+            <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
+
+ In observance of the Seneca County Park District’s 30th Anniversary, join park staff for a nature craft. Have an interesting nature item, feel free to bring it along. All nature items and supplies will be provided. Just bring your creativity for a fun time. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/30/celebrate-30-yearsnature-craft</link>
+            <guid isPermaLink="false">69d6811753ebcefdf3e30986</guid>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>April Book Club</b> - 04/30/2026 6:30pm EDT to 04/30/2026 7:30pm EDT]]></title><pubDate>2026-04-30T19:30:00</pubDate>
             <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
 
@@ -993,6 +1029,19 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title><pubDate>2026-05-07T13:00:00</pubDate>
+            <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
+
+ For ages 18 to 36 months.  Join Linda Rose as we walk the trails looking and listening for fox along the way.  Learn about the calls, sizes, habitats and what their favorite food is.  Can you find all of the foxes? Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/05/07/toddler-trotfind-the-fox</link>
+            <guid isPermaLink="false">69d681147c02b7625f95b4ee</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title><pubDate>2026-05-07T20:00:00</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -1051,12 +1100,65 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>2026-05-08T19:00:00</pubDate>
+            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
+
+ Join Linda Rose as we walk the trails searching for the last of the spring wildflowers.   This walk will last about 1 ¼ hour and qualifies for the Walking Stick Program.  Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/05/08/another-spring-wildflower-hike</link>
+            <guid isPermaLink="false">69d681165079f83cb136836d</guid>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>2026-05-08T20:30:00</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
             <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
             <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>2026-05-09T13:00:00</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration and payment is required by May 2nd. Paint "Trumpeter Swan" in acrylic with Carol Hoffman on Saturday, May 9 from 9 am until 1 pm. This is a 4 hour class. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 12x16" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $55 for TAG members & $65 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/2036752577226238</link>
+            <guid isPermaLink="false">69caa4cb680cea5ea7ae4e1c</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658128912_1573906041407951_6458283778566058590_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>2026-05-09T14:00:00</pubDate>
+            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
+            <link>https://www.facebook.com/events/612922661804784/612922731804777</link>
+            <guid isPermaLink="false">6880457c89cbcda9534a9184</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/09/2026 7:30pm EDT to 05/09/2026 8:30pm EDT]]></title><pubDate>2026-05-09T20:30:00</pubDate>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-09&amp;time=1778355000</link>
+            <guid isPermaLink="false">691cb5e0846e33811e2936a3</guid>
             <category><![CDATA[Film]]></category>
             <category><![CDATA[Arts]]></category>
             <category><![CDATA[Music & Entertainment]]></category>
@@ -1435,6 +1537,19 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Preschool Pals—Birdie Treats</b> - 04/14/2026 4:00pm EDT to 04/14/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
+
+ For ages 3 to 5 years.  Join Linda Rose as we learn about Ohio’s springtime birds and create  a tasty treat for them. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/14/preschool-palsbirdie-treats</link>
+            <guid isPermaLink="false">69d6811253ebcefdf3e30982</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
 
@@ -1675,6 +1790,19 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ded6da78-8a6c-46d1-a97e-589cc8223a14" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Young Adventurers—Salamanders</b> - 04/20/2026 5:00pm EDT to 04/20/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Mercy Community Nature Preserve, 99 St Lawrence Dr, Tiffin, OH 44883, USA</b> 
+
+ For ages 5 to 12 years.  Join Linda Rose as we search for those little elusive salamanders hiding in the leaf litter.  Learn some interesting fact and have fun looking for them. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/20/young-adventurerssalamanders</link>
+            <guid isPermaLink="false">69d6811a7c02b7625f95b4f4</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1951,6 +2079,19 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Celebrate 30 Years—Nature Craft</b> - 04/30/2026 6:00pm EDT to 04/30/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
+
+ In observance of the Seneca County Park District’s 30th Anniversary, join park staff for a nature craft. Have an interesting nature item, feel free to bring it along. All nature items and supplies will be provided. Just bring your creativity for a fun time. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/04/30/celebrate-30-yearsnature-craft</link>
+            <guid isPermaLink="false">69d6811753ebcefdf3e30986</guid>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>April Book Club</b> - 04/30/2026 6:30pm EDT to 04/30/2026 7:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
 
@@ -2111,6 +2252,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
+
+ For ages 18 to 36 months.  Join Linda Rose as we walk the trails looking and listening for fox along the way.  Learn about the calls, sizes, habitats and what their favorite food is.  Can you find all of the foxes? Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/05/07/toddler-trotfind-the-fox</link>
+            <guid isPermaLink="false">69d681147c02b7625f95b4ee</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -2173,12 +2328,69 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
+
+ Join Linda Rose as we walk the trails searching for the last of the spring wildflowers.   This walk will last about 1 ¼ hour and qualifies for the Walking Stick Program.  Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/05/08/another-spring-wildflower-hike</link>
+            <guid isPermaLink="false">69d681165079f83cb136836d</guid>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
             <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
             <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration and payment is required by May 2nd. Paint "Trumpeter Swan" in acrylic with Carol Hoffman on Saturday, May 9 from 9 am until 1 pm. This is a 4 hour class. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 12x16" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $55 for TAG members & $65 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/2036752577226238</link>
+            <guid isPermaLink="false">69caa4cb680cea5ea7ae4e1c</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658128912_1573906041407951_6458283778566058590_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
+            <link>https://www.facebook.com/events/612922661804784/612922731804777</link>
+            <guid isPermaLink="false">6880457c89cbcda9534a9184</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/09/2026 7:30pm EDT to 05/09/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-09&amp;time=1778355000</link>
+            <guid isPermaLink="false">691cb5e0846e33811e2936a3</guid>
             <category><![CDATA[Film]]></category>
             <category><![CDATA[Arts]]></category>
             <category><![CDATA[Music & Entertainment]]></category>
