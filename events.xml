@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:yodel="https://events.yodel.today/ns/rss">
     <channel>
         <title><![CDATA[TU - Livestream]]></title>
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 04:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 04:15:15 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>Mon, 13 Apr 2026 21:00:00 EST</pubDate>
@@ -17,36 +17,8 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Tennis & Pickleball Door Hanger Mixer</b> - 04/10/2026 1:00pm EDT to 04/10/2026 2:00pm EDT]]></title><pubDate>Fri, 10 Apr 2026 14:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Get ready for spring and join your court-mates off the court and get crafty! No experience needed for this workshop. Instructions are provided in a studio environment to create your own DIY door hanger masterpiece!]]></description>
-            <link>https://www.flair37.com/events/tennis-pickleball-door-hanger-mixer</link>
-            <guid isPermaLink="false">69a74b9a97860098ba8b7bb6</guid>
-            <category><![CDATA[Sports, Adult]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_2cb2437f02fe4c2b97f84745dadb8938~mv2.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Learn to Make Dog Treats and Dog Food</b> - 04/10/2026 6:00pm EDT to 04/10/2026 7:30pm EDT]]></title><pubDate>Fri, 10 Apr 2026 19:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us on April 10th from 6 PM to 7:30 PM to learn how to create homemade dog treats and nutritious meals for your furry friend. This fun and educational event is perfect for pet lovers looking to provide healthier options for their dogs! Led by Chef Alex Love and Chef Josh Herron. Cost is $30 per person]]></description>
-            <link>https://www.facebook.com/events/868014596121370</link>
-            <guid isPermaLink="false">698dcd5fe322921a4732ccea</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F631804807_1240594378198758_9246015814396068_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"White Trees"  Saturday, April 11, 2026 9am-1pm #04112601</b> - 04/11/2026 9:00am EDT to 04/11/2026 1:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 13:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -59,8 +31,8 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870827_1562376485894240_4219197311884169224_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/11/2026 9:00am EDT to 04/11/2026 2:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -72,8 +44,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>4th Annual F.A.C.T. Pound Out Cancer</b> - 04/11/2026 10:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
@@ -85,8 +57,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Pound Out Cancer]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F617694120_831794533236705_403633941962060173_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -98,9 +70,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -114,9 +86,9 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -129,9 +101,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Happy Days Nutrition]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -143,9 +115,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -157,9 +129,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -171,9 +143,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -186,9 +158,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Bailiwicks Coffee Company]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -200,9 +172,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -213,9 +185,9 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -227,9 +199,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -243,9 +215,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>4th Annual Red Carpet Affair</b> - 04/11/2026 6:00pm EDT to 04/11/2026 10:00pm EDT]]></title><pubDate>Sat, 11 Apr 2026 22:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -256,8 +228,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[St. Francis Senior Ministries]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F609028759_10229605062620380_6329898163153270746_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title><pubDate>Mon, 13 Apr 2026 01:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
@@ -269,8 +241,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title><pubDate>Mon, 13 Apr 2026 11:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
@@ -283,9 +255,9 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b52840682feef722061062</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69b52840682feef722061062</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Preschool Pals—Birdie Treats</b> - 04/14/2026 4:00pm EDT to 04/14/2026 5:00pm EDT]]></title><pubDate>Tue, 14 Apr 2026 17:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
@@ -296,8 +268,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title><pubDate>Thu, 16 Apr 2026 01:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
@@ -309,8 +281,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title><pubDate>Thu, 16 Apr 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -321,9 +293,9 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69a0802959537bedbad8dd82</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Arts, Beats, & Eats - Third Thursday in Downtown Tiffin</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title><pubDate>Thu, 16 Apr 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -337,8 +309,8 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F624349082_920139633715303_7533849483783453735_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Freedom Rising XII Celebration and Fundraiser</b> - 04/16/2026 5:00pm EDT to 04/16/2026 7:30pm EDT]]></title><pubDate>Thu, 16 Apr 2026 19:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -349,9 +321,9 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Seneca County Commission on Aging and Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_6f8026ef-1997-4165-a1e9-dd0dcc11032f" length="0" type="image/jpeg"/>
-            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69a0802959537bedbad8dd82</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Small trays, big trays and noodle board workshop</b> - 04/16/2026 5:30pm EDT to 04/16/2026 6:30pm EDT]]></title><pubDate>Thu, 16 Apr 2026 18:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
@@ -364,8 +336,8 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_27c16114ae644918a338a207d71edf58~mv2.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"The Abstract Show" will be displayed from April 1 -25.  Intake will be from March 25-28.</b> - 04/16/2026 6:00pm EDT to 04/30/2026 8:00am EDT]]></title><pubDate>Thu, 30 Apr 2026 08:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -376,8 +348,8 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658288811_1574785234653365_4619548523973343843_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Little Known Short Stories of Bicycle History in Seneca County</b> - 04/16/2026 7:00pm EDT to 04/16/2026 8:00pm EDT]]></title><pubDate>Thu, 16 Apr 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
@@ -389,8 +361,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Into the Woods</b> - 04/16/2026 7:00pm EDT to 04/16/2026 9:30pm EDT]]></title><pubDate>Thu, 16 Apr 2026 21:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
@@ -402,8 +374,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Into the Woods</b> - 04/17/2026 7:00pm EDT to 04/17/2026 9:30pm EDT]]></title><pubDate>Fri, 17 Apr 2026 21:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
@@ -415,8 +387,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>13th Annual Protective Services 5K</b> - 04/18/2026 8:30am EDT to 04/18/2026 11:30am EDT]]></title><pubDate>Sat, 18 Apr 2026 11:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
@@ -431,8 +403,8 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title><pubDate>Sat, 18 Apr 2026 11:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
@@ -444,8 +416,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/18/2026 9:00am EDT to 04/18/2026 2:00pm EDT]]></title><pubDate>Sat, 18 Apr 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -457,8 +429,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Speed Dating Event at the Tiffin Community Kitchen</b> - 04/18/2026 6:00pm EDT to 04/18/2026 9:00pm EDT]]></title><pubDate>Sat, 18 Apr 2026 21:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
@@ -469,8 +441,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-yyz1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F636724184_1247440884180774_8646993263679850457_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Into the Woods</b> - 04/18/2026 7:00pm EDT to 04/18/2026 9:30pm EDT]]></title><pubDate>Sat, 18 Apr 2026 21:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
@@ -482,8 +454,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Rick Springfield</b> - 04/18/2026 7:30pm EDT to 04/18/2026 8:30pm EDT]]></title><pubDate>Sat, 18 Apr 2026 20:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -495,9 +467,9 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F11%2FRick-cropped-300x300.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69cb3ed83cd2dd41e6aa84d6</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69cb3ed83cd2dd41e6aa84d6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Rick Springfield</b> - 04/18/2026 7:30pm EDT to 04/18/2026 9:30pm EDT]]></title><pubDate>Sat, 18 Apr 2026 21:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -509,9 +481,9 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_0e82bfba-e69b-4669-a8fd-3854db5e4be1" length="0" type="image/jpeg"/>
-            <duplicate_id>69cb3ed83cd2dd41e6aa84d6</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69cb3ed83cd2dd41e6aa84d6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Into the Woods</b> - 04/19/2026 2:00pm EDT to 04/19/2026 4:30pm EDT]]></title><pubDate>Sun, 19 Apr 2026 16:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
@@ -523,8 +495,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ded6da78-8a6c-46d1-a97e-589cc8223a14" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Young Adventurers—Salamanders</b> - 04/20/2026 5:00pm EDT to 04/20/2026 6:00pm EDT]]></title><pubDate>Mon, 20 Apr 2026 18:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Mercy Community Nature Preserve, 99 St Lawrence Dr, Tiffin, OH 44883, USA</b> 
@@ -535,8 +507,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>CASA Volunteer Training Orientation</b> - 04/21/2026 5:00pm EDT to 04/21/2026 6:00pm EDT]]></title><pubDate>Tue, 21 Apr 2026 18:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 21 Court St, Tiffin, OH 44883, USA</b> 
@@ -548,8 +520,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[CASA of SSW]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_5d817ba5-531d-47e8-a5ec-b5abf80cc066" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"Colored Pencil Blueberries and Spoon" Wednesday, April 22 , 9am-12pm #04222601</b> - 04/22/2026 9:00am EDT to 04/22/2026 12:00pm EDT]]></title><pubDate>Wed, 22 Apr 2026 12:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -563,8 +535,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651794443_1562365359228686_6517144542551484511_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Shred Day at Your Legacy FCU</b> - 04/23/2026 10:00am EDT to 04/23/2026 2:00pm EDT]]></title><pubDate>Thu, 23 Apr 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
@@ -576,8 +548,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616804218_1754575505879609_8559470793886600532_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"Colored Pencil Apple"  Thursday, April 23, 6pm-9pm #04232602</b> - 04/23/2026 6:00pm EDT to 04/23/2026 9:00pm EDT]]></title><pubDate>Thu, 23 Apr 2026 21:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -590,8 +562,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651880949_1562369735894915_5513651263047721500_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>LIFEGUARDING COURSE</b> - 04/24/2026 12:00am EDT to 04/26/2026 11:59pm EDT]]></title><pubDate>Sun, 26 Apr 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 180 Summit St, Tiffin, OH 44883, USA</b> 
@@ -602,8 +574,8 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[YMCA of Bucyrus-Tiffin, Inc]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_bd47b906-cb7e-4efb-bacc-574699888326" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Volunteer Fair</b> - 04/24/2026 10:00am EDT to 04/24/2026 1:00pm EDT]]></title><pubDate>Fri, 24 Apr 2026 13:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
@@ -614,8 +586,8 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Retired & Senior Volunteer Program]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657844375_1289260576737709_4659993639487776065_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Downtown Tiffin Clean Up ~ April 2026</b> - 04/25/2026 9:00am EDT to 04/25/2026 10:30am EDT]]></title><pubDate>Sat, 25 Apr 2026 10:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -627,8 +599,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F597060719_882021957527071_9137903828408530451_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/25/2026 9:00am EDT to 04/25/2026 2:00pm EDT]]></title><pubDate>Sat, 25 Apr 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -640,8 +612,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Earth Day 5k Event</b> - 04/25/2026 10:00am EDT to 04/25/2026 11:00am EDT]]></title><pubDate>Sat, 25 Apr 2026 11:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
@@ -653,8 +625,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659321010_1363412302492505_5789851152454456552_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Day Of Giving For The Famous Aunt Ellen!</b> - 04/26/2026 8:00am EDT to 04/26/2026 8:00pm EDT]]></title><pubDate>Sun, 26 Apr 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
@@ -666,8 +638,8 @@
             <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Big Mike's]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658424418_1232122755787417_358363515979285084_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"I Choose Myself Today"  A Peaceful Sunday Devoted to You</b> - 04/26/2026 9:00am EDT to 04/26/2026 3:00pm EDT]]></title><pubDate>Sun, 26 Apr 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 2044 S State Rte 53, Tiffin, OH 44883, USA</b> 
@@ -678,8 +650,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652454275_1604240598378013_1587681051750124738_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title><pubDate>Sun, 26 Apr 2026 16:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
@@ -693,9 +665,9 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title><pubDate>Sun, 26 Apr 2026 16:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
@@ -707,9 +679,9 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin Parks & Recreation]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title><pubDate>Sun, 26 Apr 2026 16:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
@@ -723,9 +695,9 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Seneca Conservation District]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/27/2026 12:00am EDT to 04/27/2026 1:00am EDT]]></title><pubDate>Mon, 27 Apr 2026 01:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
@@ -737,8 +709,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>The Fabulous Fifties</b> - 04/28/2026 10:30am EDT to 04/28/2026 11:30am EDT]]></title><pubDate>Tue, 28 Apr 2026 11:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
@@ -749,9 +721,9 @@
             <category><![CDATA[History & Museums]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643856857_1405669568261740_7702919437824574405_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b52842682feef722061070</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69b52842682feef722061070</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Seneca Proud Game Night Party</b> - 04/28/2026 6:30pm EDT to 04/28/2026 7:30pm EDT]]></title><pubDate>Tue, 28 Apr 2026 19:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 125 E Market St, Tiffin, OH 44883, USA</b> 
@@ -763,8 +735,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656003084_950418864024849_4540953365123594238_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title><pubDate>Thu, 30 Apr 2026 01:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
@@ -776,8 +748,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>2026 Seneca CEO Trade Show</b> - 04/30/2026 5:00pm EDT to 04/30/2026 6:00pm EDT]]></title><pubDate>Thu, 30 Apr 2026 18:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Seneca County, OH, USA</b> 
@@ -788,8 +760,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Seneca CEO]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F504382417_1170655558410047_3868800402079382753_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Celebrate 30 Years—Nature Craft</b> - 04/30/2026 6:00pm EDT to 04/30/2026 7:00pm EDT]]></title><pubDate>Thu, 30 Apr 2026 19:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
@@ -800,8 +772,8 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>April Book Club</b> - 04/30/2026 6:30pm EDT to 04/30/2026 7:30pm EDT]]></title><pubDate>Thu, 30 Apr 2026 19:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
@@ -812,8 +784,8 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653455733_946038477796221_5317633931254525103_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Financial Fitness Friday</b> - 05/01/2026 8:30am EDT to 05/01/2026 5:00pm EDT]]></title><pubDate>Fri, 01 May 2026 17:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
@@ -825,8 +797,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Annual Plant Sale at the Seeds of Hope Farm</b> - 05/02/2026 8:00am EDT to 05/02/2026 12:00pm EDT]]></title><pubDate>Sat, 02 May 2026 12:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
@@ -839,8 +811,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646354935_1340263908140678_988933824835028398_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"Colored Pencil Rose"  Saturday, May 2, 2026 9am-12pm #05022601</b> - 05/02/2026 9:00am EDT to 05/02/2026 12:00pm EDT]]></title><pubDate>Sat, 02 May 2026 12:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -853,8 +825,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659129002_1571270778338144_4397380676145534878_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/02/2026 9:00am EDT to 05/02/2026 2:00pm EDT]]></title><pubDate>Sat, 02 May 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -866,8 +838,21 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Wildflower Hike</b> - 05/02/2026 12:00pm EDT to 05/02/2026 1:00pm EDT]]></title><pubDate>Sat, 02 May 2026 13:00:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
+
+ Join Naturalist Leonard Weber for a spring walk through the beautiful St. Francis woods viewing wildflowers while also paying attention to birds and other spring highlights. Spring is a wonderful time to explore our woods. Wear comfortable shoes for walking through the trails. Participants are welcome to drive to the woods. RSVP’s are encouraged, but not required at 419-448-7485. Donations are welcome.]]></description>
+            <link>https://www.facebook.com/events/1138453658406676</link>
+            <guid isPermaLink="false">69d8c13ef7ed38e2c345866e</guid>
+            <category><![CDATA[Outdoors]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F670462493_1368853318615070_9198895089194319277_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/02/2026 7:30pm EDT to 05/02/2026 8:30pm EDT]]></title><pubDate>Sat, 02 May 2026 20:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -880,8 +865,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:00pm EDT]]></title><pubDate>Sun, 03 May 2026 15:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -894,8 +879,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>The Art of Hand Spinning</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:30pm EDT]]></title><pubDate>Sun, 03 May 2026 15:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
@@ -909,8 +894,8 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title><pubDate>Wed, 06 May 2026 12:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
@@ -921,8 +906,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title><pubDate>Wed, 06 May 2026 21:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -935,8 +920,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656229432_1571269498338272_4058425583274208860_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title><pubDate>Wed, 06 May 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
@@ -949,8 +934,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F618785390_1220239820234214_1424094794868015757_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title><pubDate>Thu, 07 May 2026 13:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
@@ -962,8 +947,20 @@
             <category><![CDATA[Outdoors]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Beyond the Berg 2026 Senior Night</b> - 05/07/2026 5:30pm EDT to 05/07/2026 6:30pm EDT]]></title><pubDate>Thu, 07 May 2026 18:30:00 EST</pubDate>
+            <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://www.alumni.heidelberg.edu?sid=1897&amp;gid=2&amp;pgid=1381&amp;cid=4189&amp;ecid=4189&amp;crid=0&amp;calpgid=13&amp;calcid=664</link>
+            <guid isPermaLink="false">69d93958c61694f22e410c13</guid>
+            <category><![CDATA[School]]></category>
+            <dc:creator><![CDATA[Heidelberg University Alumni & Friends]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.alumni.heidelberg.edu%2Fs%2F1897%2Fimages%2Fcontent_images%2FH_639113434494559979.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title><pubDate>Thu, 07 May 2026 20:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
@@ -976,8 +973,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Fri, 08 May 2026 12:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
@@ -991,9 +988,9 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69be6bca079d57aaab69fbca</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>Fri, 08 May 2026 20:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
@@ -1006,8 +1003,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Fri, 08 May 2026 19:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
@@ -1018,8 +1015,8 @@
             <category><![CDATA[Outdoors]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>Fri, 08 May 2026 20:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -1032,8 +1029,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>Sat, 09 May 2026 13:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -1046,8 +1043,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658128912_1573906041407951_6458283778566058590_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Sat, 09 May 2026 14:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -1059,8 +1056,20 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Run for HOPE 5K</b> - 05/09/2026 10:00am EDT to 05/09/2026 12:00pm EDT]]></title><pubDate>Sat, 09 May 2026 12:00:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
+
+ <p>Join the Suicide Prevention Coalition during Mental Health Awareness Month for a 5K Run/Walk.</p><p>Lace up your shoes and join us on Saturday, May 9, 2026, for a meaningful community event focused on mental health awareness and suicide prevention.</p><p>This 5K brings together runners, walkers, families, and friends to support an important cause. Whether you&#39;re aiming for a personal best or enjoying a casual walk, this event is a great way to get active, connect with others, and show your support for mental health awareness in our community.</p>]]></description>
+            <link>https://events.yodel.today/y/event/HOPE-Fostoria/Run-for-HOPE-5K/69d9325246c6d43d56800496</link>
+            <guid isPermaLink="false">69d9325246c6d43d56800496</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[HOPE Fostoria]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_5a1569c0-753b-4221-8131-ab3f38947936" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/09/2026 7:30pm EDT to 05/09/2026 8:30pm EDT]]></title><pubDate>Sat, 09 May 2026 20:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -1073,8 +1082,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
             <title><![CDATA[<b>80s Night with No Eileen</b> - 05/09/2026 8:00pm EDT to 05/09/2026 11:00pm EDT]]></title><pubDate>Sat, 09 May 2026 23:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 129 S Washington St, Tiffin, OH 44883, USA</b> 
@@ -1085,38 +1094,34 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Renaissance of Tiffin ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F668728823_122315880968008748_5217963256443958901_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tennis & Pickleball Door Hanger Mixer</b> - 04/10/2026 1:00pm EDT to 04/10/2026 2:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>"Colored Pencil Mountain Trees"  Monday, May 11, 2026 12pm-3pm #05112601</b> - 05/11/2026 12:00pm EDT to 05/11/2026 3:00pm EDT]]></title><pubDate>Mon, 11 May 2026 15:00:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
- Get ready for spring and join your court-mates off the court and get crafty! No experience needed for this workshop. Instructions are provided in a studio environment to create your own DIY door hanger masterpiece!]]></description>
-            <link>https://www.flair37.com/events/tennis-pickleball-door-hanger-mixer</link>
-            <guid isPermaLink="false">69a74b9a97860098ba8b7bb6</guid>
-            <category><![CDATA[Sports, Adult]]></category>
+ In this class you will use colored pencils to create a 5"x7" landscape drawing of mountain trees, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 8. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/25676116825395837</link>
+            <guid isPermaLink="false">69c70f4cde9e4806d832714f</guid>
+            <category><![CDATA[Arts]]></category>
             <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_2cb2437f02fe4c2b97f84745dadb8938~mv2.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Learn to Make Dog Treats and Dog Food</b> - 04/10/2026 6:00pm EDT to 04/10/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657753625_1571265578338664_1025166509913336231_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Buckeye Lady Beetle Blitz Community Science Program Training</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title><pubDate>Mon, 11 May 2026 19:00:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
- Join us on April 10th from 6 PM to 7:30 PM to learn how to create homemade dog treats and nutritious meals for your furry friend. This fun and educational event is perfect for pet lovers looking to provide healthier options for their dogs! Led by Chef Alex Love and Chef Josh Herron. Cost is $30 per person]]></description>
-            <link>https://www.facebook.com/events/868014596121370</link>
-            <guid isPermaLink="false">698dcd5fe322921a4732ccea</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
+ Buckeye Lady Beetle Blitz Community Science Program Training 2026 Lady beetles are important insect predators that feed on landscape and agricultural pests. Unfortunately, some of our native Ohio lady beetles are in decline. YOU can help us track remaining populations! - You must have a home garden- food or flower - You will collect for 1 week in June and 1 week in August - We provide all the materials Interested? Register at go.osu.edu/blbbseneca]]></description>
+            <link>https://www.facebook.com/events/925512226736730</link>
+            <guid isPermaLink="false">69bd407cecb43764126f9eb7</guid>
+            <category><![CDATA[Science & Tech]]></category>
             <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F631804807_1240594378198758_9246015814396068_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <dc:creator><![CDATA[Ohio State University Extension - Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651686570_1395329602609393_5955647738007892160_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"White Trees"  Saturday, April 11, 2026 9am-1pm #04112601</b> - 04/11/2026 9:00am EDT to 04/11/2026 1:00pm EDT]]></title>
@@ -1130,8 +1135,8 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870827_1562376485894240_4219197311884169224_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/11/2026 9:00am EDT to 04/11/2026 2:00pm EDT]]></title>
@@ -1144,8 +1149,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>4th Annual F.A.C.T. Pound Out Cancer</b> - 04/11/2026 10:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1158,8 +1163,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Pound Out Cancer]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F617694120_831794533236705_403633941962060173_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1172,9 +1177,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1189,9 +1194,9 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1205,9 +1210,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Happy Days Nutrition]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1220,9 +1225,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1235,9 +1240,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1250,9 +1255,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1266,9 +1271,9 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Bailiwicks Coffee Company]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1281,9 +1286,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1295,9 +1300,9 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1310,9 +1315,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title>
@@ -1327,9 +1332,9 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69c6e556cc00c68ea3b0eda7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>4th Annual Red Carpet Affair</b> - 04/11/2026 6:00pm EDT to 04/11/2026 10:00pm EDT]]></title>
@@ -1341,8 +1346,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[St. Francis Senior Ministries]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F609028759_10229605062620380_6329898163153270746_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title>
@@ -1355,8 +1360,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title>
@@ -1370,9 +1375,9 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b52840682feef722061062</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69b52840682feef722061062</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Preschool Pals—Birdie Treats</b> - 04/14/2026 4:00pm EDT to 04/14/2026 5:00pm EDT]]></title>
@@ -1384,8 +1389,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title>
@@ -1398,8 +1403,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
@@ -1411,9 +1416,9 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69a0802959537bedbad8dd82</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Arts, Beats, & Eats - Third Thursday in Downtown Tiffin</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
@@ -1428,8 +1433,8 @@
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F624349082_920139633715303_7533849483783453735_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Freedom Rising XII Celebration and Fundraiser</b> - 04/16/2026 5:00pm EDT to 04/16/2026 7:30pm EDT]]></title>
@@ -1441,9 +1446,9 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Seneca County Commission on Aging and Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_6f8026ef-1997-4165-a1e9-dd0dcc11032f" length="0" type="image/jpeg"/>
-            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69a0802959537bedbad8dd82</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Small trays, big trays and noodle board workshop</b> - 04/16/2026 5:30pm EDT to 04/16/2026 6:30pm EDT]]></title>
@@ -1457,8 +1462,8 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_27c16114ae644918a338a207d71edf58~mv2.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"The Abstract Show" will be displayed from April 1 -25.  Intake will be from March 25-28.</b> - 04/16/2026 6:00pm EDT to 04/30/2026 8:00am EDT]]></title>
@@ -1470,8 +1475,8 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658288811_1574785234653365_4619548523973343843_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Little Known Short Stories of Bicycle History in Seneca County</b> - 04/16/2026 7:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
@@ -1484,8 +1489,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Into the Woods</b> - 04/16/2026 7:00pm EDT to 04/16/2026 9:30pm EDT]]></title>
@@ -1498,8 +1503,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Into the Woods</b> - 04/17/2026 7:00pm EDT to 04/17/2026 9:30pm EDT]]></title>
@@ -1512,8 +1517,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>13th Annual Protective Services 5K</b> - 04/18/2026 8:30am EDT to 04/18/2026 11:30am EDT]]></title>
@@ -1529,8 +1534,8 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title>
@@ -1543,8 +1548,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/18/2026 9:00am EDT to 04/18/2026 2:00pm EDT]]></title>
@@ -1557,8 +1562,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Speed Dating Event at the Tiffin Community Kitchen</b> - 04/18/2026 6:00pm EDT to 04/18/2026 9:00pm EDT]]></title>
@@ -1570,8 +1575,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-yyz1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F636724184_1247440884180774_8646993263679850457_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Into the Woods</b> - 04/18/2026 7:00pm EDT to 04/18/2026 9:30pm EDT]]></title>
@@ -1584,8 +1589,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_e1ba6f25-8207-4ceb-9d35-21d81716bc91" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Rick Springfield</b> - 04/18/2026 7:30pm EDT to 04/18/2026 8:30pm EDT]]></title>
@@ -1598,9 +1603,9 @@
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F11%2FRick-cropped-300x300.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69cb3ed83cd2dd41e6aa84d6</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69cb3ed83cd2dd41e6aa84d6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Rick Springfield</b> - 04/18/2026 7:30pm EDT to 04/18/2026 9:30pm EDT]]></title>
@@ -1613,9 +1618,9 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_0e82bfba-e69b-4669-a8fd-3854db5e4be1" length="0" type="image/jpeg"/>
-            <duplicate_id>69cb3ed83cd2dd41e6aa84d6</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69cb3ed83cd2dd41e6aa84d6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Into the Woods</b> - 04/19/2026 2:00pm EDT to 04/19/2026 4:30pm EDT]]></title>
@@ -1628,8 +1633,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Heidelberg University School of Music and Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_ded6da78-8a6c-46d1-a97e-589cc8223a14" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Young Adventurers—Salamanders</b> - 04/20/2026 5:00pm EDT to 04/20/2026 6:00pm EDT]]></title>
@@ -1641,8 +1646,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>CASA Volunteer Training Orientation</b> - 04/21/2026 5:00pm EDT to 04/21/2026 6:00pm EDT]]></title>
@@ -1655,8 +1660,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[CASA of SSW]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_5d817ba5-531d-47e8-a5ec-b5abf80cc066" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"Colored Pencil Blueberries and Spoon" Wednesday, April 22 , 9am-12pm #04222601</b> - 04/22/2026 9:00am EDT to 04/22/2026 12:00pm EDT]]></title>
@@ -1671,8 +1676,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651794443_1562365359228686_6517144542551484511_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Shred Day at Your Legacy FCU</b> - 04/23/2026 10:00am EDT to 04/23/2026 2:00pm EDT]]></title>
@@ -1685,8 +1690,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616804218_1754575505879609_8559470793886600532_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"Colored Pencil Apple"  Thursday, April 23, 6pm-9pm #04232602</b> - 04/23/2026 6:00pm EDT to 04/23/2026 9:00pm EDT]]></title>
@@ -1700,8 +1705,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651880949_1562369735894915_5513651263047721500_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>LIFEGUARDING COURSE</b> - 04/24/2026 12:00am EDT to 04/26/2026 11:59pm EDT]]></title>
@@ -1713,8 +1718,8 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[YMCA of Bucyrus-Tiffin, Inc]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_bd47b906-cb7e-4efb-bacc-574699888326" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Volunteer Fair</b> - 04/24/2026 10:00am EDT to 04/24/2026 1:00pm EDT]]></title>
@@ -1726,8 +1731,8 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Retired & Senior Volunteer Program]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657844375_1289260576737709_4659993639487776065_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Downtown Tiffin Clean Up ~ April 2026</b> - 04/25/2026 9:00am EDT to 04/25/2026 10:30am EDT]]></title>
@@ -1740,8 +1745,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F597060719_882021957527071_9137903828408530451_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/25/2026 9:00am EDT to 04/25/2026 2:00pm EDT]]></title>
@@ -1754,8 +1759,8 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Earth Day 5k Event</b> - 04/25/2026 10:00am EDT to 04/25/2026 11:00am EDT]]></title>
@@ -1768,8 +1773,8 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659321010_1363412302492505_5789851152454456552_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Day Of Giving For The Famous Aunt Ellen!</b> - 04/26/2026 8:00am EDT to 04/26/2026 8:00pm EDT]]></title>
@@ -1782,8 +1787,8 @@
             <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Big Mike's]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658424418_1232122755787417_358363515979285084_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"I Choose Myself Today"  A Peaceful Sunday Devoted to You</b> - 04/26/2026 9:00am EDT to 04/26/2026 3:00pm EDT]]></title>
@@ -1795,8 +1800,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[SOUL Boutique]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652454275_1604240598378013_1587681051750124738_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title>
@@ -1811,9 +1816,9 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title>
@@ -1826,9 +1831,9 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin Parks & Recreation]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title>
@@ -1843,9 +1848,9 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Seneca Conservation District]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d166a392f888dc81e5c3f2</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69d166a392f888dc81e5c3f2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/27/2026 12:00am EDT to 04/27/2026 1:00am EDT]]></title>
@@ -1858,8 +1863,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>The Fabulous Fifties</b> - 04/28/2026 10:30am EDT to 04/28/2026 11:30am EDT]]></title>
@@ -1871,9 +1876,9 @@
             <category><![CDATA[History & Museums]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643856857_1405669568261740_7702919437824574405_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69b52842682feef722061070</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69b52842682feef722061070</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Seneca Proud Game Night Party</b> - 04/28/2026 6:30pm EDT to 04/28/2026 7:30pm EDT]]></title>
@@ -1886,8 +1891,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656003084_950418864024849_4540953365123594238_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Mobile Mammography</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
@@ -1900,8 +1905,8 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>2026 Seneca CEO Trade Show</b> - 04/30/2026 5:00pm EDT to 04/30/2026 6:00pm EDT]]></title>
@@ -1913,8 +1918,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Seneca CEO]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F504382417_1170655558410047_3868800402079382753_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Celebrate 30 Years—Nature Craft</b> - 04/30/2026 6:00pm EDT to 04/30/2026 7:00pm EDT]]></title>
@@ -1926,8 +1931,8 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>April Book Club</b> - 04/30/2026 6:30pm EDT to 04/30/2026 7:30pm EDT]]></title>
@@ -1939,8 +1944,8 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653455733_946038477796221_5317633931254525103_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Financial Fitness Friday</b> - 05/01/2026 8:30am EDT to 05/01/2026 5:00pm EDT]]></title>
@@ -1953,8 +1958,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Annual Plant Sale at the Seeds of Hope Farm</b> - 05/02/2026 8:00am EDT to 05/02/2026 12:00pm EDT]]></title>
@@ -1968,8 +1973,8 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646354935_1340263908140678_988933824835028398_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"Colored Pencil Rose"  Saturday, May 2, 2026 9am-12pm #05022601</b> - 05/02/2026 9:00am EDT to 05/02/2026 12:00pm EDT]]></title>
@@ -1983,8 +1988,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659129002_1571270778338144_4397380676145534878_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/02/2026 9:00am EDT to 05/02/2026 2:00pm EDT]]></title>
@@ -1997,8 +2002,22 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Wildflower Hike</b> - 05/02/2026 12:00pm EDT to 05/02/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
+
+ Join Naturalist Leonard Weber for a spring walk through the beautiful St. Francis woods viewing wildflowers while also paying attention to birds and other spring highlights. Spring is a wonderful time to explore our woods. Wear comfortable shoes for walking through the trails. Participants are welcome to drive to the woods. RSVP’s are encouraged, but not required at 419-448-7485. Donations are welcome.]]></description>
+            <link>https://www.facebook.com/events/1138453658406676</link>
+            <guid isPermaLink="false">69d8c13ef7ed38e2c345866e</guid>
+            <category><![CDATA[Outdoors]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F670462493_1368853318615070_9198895089194319277_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/02/2026 7:30pm EDT to 05/02/2026 8:30pm EDT]]></title>
@@ -2012,8 +2031,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:00pm EDT]]></title>
@@ -2027,8 +2046,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>The Art of Hand Spinning</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:30pm EDT]]></title>
@@ -2043,8 +2062,8 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title>
@@ -2056,8 +2075,8 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title>
@@ -2071,8 +2090,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656229432_1571269498338272_4058425583274208860_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title>
@@ -2086,8 +2105,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F618785390_1220239820234214_1424094794868015757_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title>
@@ -2100,8 +2119,21 @@
             <category><![CDATA[Outdoors]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Beyond the Berg 2026 Senior Night</b> - 05/07/2026 5:30pm EDT to 05/07/2026 6:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://www.alumni.heidelberg.edu?sid=1897&amp;gid=2&amp;pgid=1381&amp;cid=4189&amp;ecid=4189&amp;crid=0&amp;calpgid=13&amp;calcid=664</link>
+            <guid isPermaLink="false">69d93958c61694f22e410c13</guid>
+            <category><![CDATA[School]]></category>
+            <dc:creator><![CDATA[Heidelberg University Alumni & Friends]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.alumni.heidelberg.edu%2Fs%2F1897%2Fimages%2Fcontent_images%2FH_639113434494559979.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title>
@@ -2115,8 +2147,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
@@ -2131,9 +2163,9 @@
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:duplicate_id>69be6bca079d57aaab69fbca</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
@@ -2147,8 +2179,8 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title>
@@ -2160,8 +2192,8 @@
             <category><![CDATA[Outdoors]]></category>
             <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
@@ -2175,8 +2207,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title>
@@ -2190,8 +2222,8 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658128912_1573906041407951_6458283778566058590_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title>
@@ -2204,8 +2236,21 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Run for HOPE 5K</b> - 05/09/2026 10:00am EDT to 05/09/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
+
+ <p>Join the Suicide Prevention Coalition during Mental Health Awareness Month for a 5K Run/Walk.</p><p>Lace up your shoes and join us on Saturday, May 9, 2026, for a meaningful community event focused on mental health awareness and suicide prevention.</p><p>This 5K brings together runners, walkers, families, and friends to support an important cause. Whether you&#39;re aiming for a personal best or enjoying a casual walk, this event is a great way to get active, connect with others, and show your support for mental health awareness in our community.</p>]]></description>
+            <link>https://events.yodel.today/y/event/HOPE-Fostoria/Run-for-HOPE-5K/69d9325246c6d43d56800496</link>
+            <guid isPermaLink="false">69d9325246c6d43d56800496</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[HOPE Fostoria]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_5a1569c0-753b-4221-8131-ab3f38947936" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/09/2026 7:30pm EDT to 05/09/2026 8:30pm EDT]]></title>
@@ -2219,8 +2264,8 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>80s Night with No Eileen</b> - 05/09/2026 8:00pm EDT to 05/09/2026 11:00pm EDT]]></title>
@@ -2232,8 +2277,36 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Renaissance of Tiffin ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F668728823_122315880968008748_5217963256443958901_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"Colored Pencil Mountain Trees"  Monday, May 11, 2026 12pm-3pm #05112601</b> - 05/11/2026 12:00pm EDT to 05/11/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ In this class you will use colored pencils to create a 5"x7" landscape drawing of mountain trees, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 8. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/25676116825395837</link>
+            <guid isPermaLink="false">69c70f4cde9e4806d832714f</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657753625_1571265578338664_1025166509913336231_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Buckeye Lady Beetle Blitz Community Science Program Training</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Buckeye Lady Beetle Blitz Community Science Program Training 2026 Lady beetles are important insect predators that feed on landscape and agricultural pests. Unfortunately, some of our native Ohio lady beetles are in decline. YOU can help us track remaining populations! - You must have a home garden- food or flower - You will collect for 1 week in June and 1 week in August - We provide all the materials Interested? Register at go.osu.edu/blbbseneca]]></description>
+            <link>https://www.facebook.com/events/925512226736730</link>
+            <guid isPermaLink="false">69bd407cecb43764126f9eb7</guid>
+            <category><![CDATA[Science & Tech]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Ohio State University Extension - Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651686570_1395329602609393_5955647738007892160_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
         </item>
     </channel>
 </rss>
