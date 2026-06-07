@@ -4,10 +4,10 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 04:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 04:15:09 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:59:00 EST</pubDate>
+            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Here it is, folks! There are still a couple of [...]]]></description>
@@ -22,194 +22,7 @@
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>The 2026-2027 Season of Events on May 1, 2026 in Tiffin, OH. Featured themes include season of events and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Dissected / Axioma / Mo'ynoq / Valletta / Skin Sandwich</b> - 06/05/2026 6:00pm EDT to 06/05/2026 7:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:58:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 136 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Dissected - Brutal Death Metal from Tiffin OH
-Axioma - Dark apocalyptic metal from Cleveland OH
-Mo'ynoq- Black metal from North Carolina
-Valletta - Black n roll from North Carolina
-Skin Sandwich - Guttural death metal from Tiffin OH
-134 S Washington ST // Tiffin OH
-Under the Surface Records
-Doors @ 6:00 PM // Show @ 7:00PM
-Free show! Donations welcome.]]></description>
-            <link>https://www.facebook.com/events/2128531977717914</link>
-            <guid isPermaLink="false">6a0ed0202e44962e66dc16cc</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <dc:creator><![CDATA[Axioma]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F700092338_1595282692599667_3824849770755573871_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>164282</yodel:organizer_id>
-            <yodel:media_alt_text>Dissected / Axioma / Mo&apos;ynoq / Valletta / Skin Sandwich on Jun 5, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Music &amp; Entertainment.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/06/2026 9:00am EDT to 06/06/2026 4:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:57:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Come join us for a fun weekend of shopping for your next treasure.]]></description>
-            <link>https://www.facebook.com/events/1447622130186355/1447622163519685</link>
-            <guid isPermaLink="false">6a043d6b4f7b8d7348dfa084</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a044cc234a49ebc0d3c42eb</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>169473</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Tiffin Flea Market on Jun 6, 2026 in Tiffin, OH. Featured themes include tiffin flea market and tiffin, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/06/2026 9:00am EDT to 06/06/2026 4:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:56:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Come join us for a fun weekend of shopping for your next treasure.]]></description>
-            <link>https://www.facebook.com/events/1447622130186355/1447622163519685</link>
-            <guid isPermaLink="false">69ea3f2596bdae7c3f89e28a</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Retail]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a044cc234a49ebc0d3c42eb</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>157226</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Tiffin Flea Market on Jun 6, 2026 in Tiffin, OH. Featured themes include shopping and tiffin, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 06/06/2026 9:00am EDT to 06/06/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:55:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
-            <link>https://www.facebook.com/events/612922661804784/612922718471445</link>
-            <guid isPermaLink="false">6880457d89cbcda9534a9186</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21530</yodel:organizer_id>
-            <yodel:media_alt_text>Breakfast at JAM’s Markets SATURDAYS 9-2pm on Jun 6, 2026 in Tiffin, OH. Featured themes include breakfast and community.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Farmers Market - Tiffin Ohio</b> - 06/06/2026 9:00am EDT to 06/06/2026 1:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:54:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us at the Tiffin Ohio Farmers Market every Saturday morning, where you can enjoy fresh produce, delightful baked goods, and stunning flowers. Visit my booth to explore my classic pieces along with exciting new items for 2026! We can't wait to see you there!]]></description>
-            <link>https://www.facebook.com/events/1355107069809188</link>
-            <guid isPermaLink="false">69c79371e61404d0d286b8f3</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713443572_122213596946346911_7683083549476600347_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a23104a10cc7075c26aebff</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>147339</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market - Tiffin Ohio on Jun 6, 2026 in Tiffin, OH. Featured themes include fresh produce and home.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Farmers Market - Tiffin Ohio</b> - 06/06/2026 9:00am EDT to 06/06/2026 1:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:53:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us at the Tiffin Ohio Farmers Market every Saturday morning, where you can enjoy fresh produce, delightful baked goods, and stunning flowers. Visit my booth to explore my classic pieces along with exciting new items for 2026! We can't wait to see you there!]]></description>
-            <link>https://www.facebook.com/events/1355107069809188</link>
-            <guid isPermaLink="false">695354acc4ecec9e67cc2feb</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713443572_122213596946346911_7683083549476600347_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a23104a10cc7075c26aebff</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>28779</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market - Tiffin Ohio on Jun 6, 2026 in Tiffin, OH. Featured themes include Markets and Food &amp; Drink.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 06/06/2026 9:00am EDT to 06/06/2026 12:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:52:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Chocolate covered strawberry cups are returning! $5 each until sold old!
-Come see us every Saturday during the farmers market!
-70 s Washington. St
-Tiffin Ohio 44883]]></description>
-            <link>https://www.facebook.com/events/975102355101819/977536168191771</link>
-            <guid isPermaLink="false">6a0c8bc83f4aab60ae312b33</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702232119_1490482476425599_7776531371405123729_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23110</yodel:organizer_id>
-            <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on Jun 6, 2026 in Tiffin, OH. Featured themes include farmers market and returning.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>"Colored Pencil Honey"  Saturday, June 6, 2026 9am-12pm  #06062601</b> - 06/06/2026 9:00am EDT to 06/06/2026 12:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:51:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
-
- In this class you will use colored pencils to create a 5"x7" drawing of honey, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Wednesday, June 3. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
-            <link>https://www.facebook.com/events/1236652714955456</link>
-            <guid isPermaLink="false">69fd88622901ad5a5a2f67f0</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F688829198_1606422541489634_9122354041486194578_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>&quot;Colored Pencil Honey&quot; Saturday, June 6, 2026 9am-12pm #06062601 on Jun 6, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Arts.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Big Boy 4014 Fostoria, OH | June 6, 2026 Experience</b> - 06/06/2026 2:00pm EDT to 06/06/2026 2:15pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:50:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 225 Atha Ave, Fostoria, OH 44830, USA</b> 
-
- BIG BOY 4014 IS COMING TO FOSTORIA
-Experience the legend as Union Pacific Big Boy No. 4014 rolls into Fostoria during its Coast-to-Coast Tour Eastern Leg celebrating America’s 250th anniversary!
-This once-in-a-lifetime event is expected to bring thousands of railroad fans, families, photographers, and visitors to Fostoria to witness the world’s largest operating steam locomotive in action.
-Saturday, June 6, 2026
-Big Boy No. 4014 is expected to arrive near the Fostoria Iron Triangle Rail Park at approximately 2:00 PM and depart around 2:15 PM. Times may change due to rail traffic or other operating conditions.
-Visitors are encouraged to spend the day exploring Fostoria’s local restaurants, shops, attractions, and community experiences as we celebrate this historic moment together.
-More information, updates, local offers, and visitor details at: http://BigBoyFostoria.com/
-Mark your calendars! Experience the Legend, Experience Fostoria.]]></description>
-            <link>https://www.facebook.com/events/975641491735964</link>
-            <guid isPermaLink="false">6a1b9eca35b65589a135fcbb</guid>
-            <category><![CDATA[Travel]]></category>
-            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F707523212_1612302694234520_8914898365461245410_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a1ba688b88b817f5e85b2b0</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>169475</yodel:organizer_id>
-            <yodel:media_alt_text>Big Boy 4014 Fostoria, OH | June 6, 2026 Experience on Jun 6, 2026 in Fostoria, OH. Featured themes include big boy 4014 and community experience.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Saturday Nights with Mimi</b> - 06/06/2026 6:00pm EDT to 06/06/2026 9:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:49:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 138 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Saturday Nights with Mimi
-
-A New Monthly Piano Series at Empire Bistro
-Join us for the very first evening in our new live music series featuring the talented Mimi Lange Johnston on the piano!
-On Saturday, June 6th from 6–9 PM, settle in for an evening of live piano music, great food, cocktails, and a relaxed atmosphere in downtown Tiffin. Our kickoff event will feature beloved summer classics and timeless favorites — the perfect soundtrack to the unofficial start of the season following Memorial Day weekend.
-Whether you're joining us for dinner, drinks, or simply to enjoy the music, we invite you to make it a Saturday night tradition. Reservations are encouraged.]]></description>
-            <link>https://www.facebook.com/events/922498760813173</link>
-            <guid isPermaLink="false">6a082c0ac3f84bba4e09fabd</guid>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <dc:creator><![CDATA[The Empire Bistro]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F695831283_1578083013920061_5625813042595243441_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>172374</yodel:organizer_id>
-            <yodel:media_alt_text>Saturday Nights with Mimi on Jun 6, 2026 in Tiffin, OH. Featured themes include cocktails and dinner.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Daybreak Service</b> - 06/07/2026 8:30am EDT to 06/07/2026 9:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:48:00 EST</pubDate>
+            <title><![CDATA[<b>Daybreak Service</b> - 06/07/2026 8:30am EDT to 06/07/2026 9:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:58:00 EST</pubDate>
             <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
@@ -228,7 +41,7 @@ All are welcome.
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Daybreak Service on Jun 7, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and trinity united church of christ.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/07/2026 9:00am EDT to 06/07/2026 3:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:47:00 EST</pubDate>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/07/2026 9:00am EDT to 06/07/2026 3:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:57:00 EST</pubDate>
             <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Come join us for a fun weekend of shopping for your next treasure.]]></description>
@@ -245,7 +58,7 @@ All are welcome.
             <yodel:organizer_id>169473</yodel:organizer_id>
             <yodel:media_alt_text>2026 Tiffin Flea Market on Jun 7, 2026 in Tiffin, OH. Featured themes include Markets and Retail.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/07/2026 9:00am EDT to 06/07/2026 3:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:46:00 EST</pubDate>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 06/07/2026 9:00am EDT to 06/07/2026 3:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:56:00 EST</pubDate>
             <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Come join us for a fun weekend of shopping for your next treasure.]]></description>
@@ -263,7 +76,7 @@ All are welcome.
             <yodel:organizer_id>157226</yodel:organizer_id>
             <yodel:media_alt_text>2026 Tiffin Flea Market on Jun 7, 2026 in Tiffin, OH. Featured themes include treasure hunting and weekend.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 06/07/2026 10:00am EDT to 06/07/2026 11:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:45:00 EST</pubDate>
+            <title><![CDATA[<b>Service of the Word</b> - 06/07/2026 10:00am EDT to 06/07/2026 11:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:55:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
@@ -278,7 +91,7 @@ All are welcome.
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Service of the Word on Jun 7, 2026 in Tiffin, OH. Featured themes include community and live video.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>"Colored Pencil Colorful Bird"  Monday, June 8, 2026 6pm-9pm  #06082601</b> - 06/08/2026 6:00pm EDT to 06/08/2026 9:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:44:00 EST</pubDate>
+            <title><![CDATA[<b>"Colored Pencil Colorful Bird"  Monday, June 8, 2026 6pm-9pm  #06082601</b> - 06/08/2026 6:00pm EDT to 06/08/2026 9:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:54:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  In this class you will use colored pencils to create a 5"x7" drawing of a colorful bird, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, June 5. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -294,7 +107,7 @@ All are welcome.
             <yodel:organizer_id>22997</yodel:organizer_id>
             <yodel:media_alt_text>&quot;Colored Pencil Colorful Bird&quot; Monday, June 8, 2026 6pm-9pm #06082601 on Jun 8, 2026 in Tiffin, OH. Featured themes include drawing techniques and preregistration required.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tammy Training - 4 Disciplines of Execution</b> - 06/09/2026 8:30am EDT to 06/09/2026 3:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:43:00 EST</pubDate>
+            <title><![CDATA[<b>Tammy Training - 4 Disciplines of Execution</b> - 06/09/2026 8:30am EDT to 06/09/2026 3:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:53:00 EST</pubDate>
             <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
 
  null]]></description>
@@ -309,7 +122,7 @@ All are welcome.
             <yodel:organizer_id>16216</yodel:organizer_id>
             <yodel:media_alt_text>Tammy Training - 4 Disciplines of Execution on Jun 9, 2026 in Tiffin, OH. Featured themes include tammy training and disciplines of execution.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Building Brain Healthy Habits</b> - 06/09/2026 10:00am EDT to 06/09/2026 11:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:42:00 EST</pubDate>
+            <title><![CDATA[<b>Building Brain Healthy Habits</b> - 06/09/2026 10:00am EDT to 06/09/2026 11:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:52:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Learn about healthy habits for your brain.]]></description>
@@ -324,7 +137,7 @@ All are welcome.
             <yodel:organizer_id>22966</yodel:organizer_id>
             <yodel:media_alt_text>Building Brain Healthy Habits on Jun 9, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Health &amp; Fitness.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>NextGen Technology Camp</b> - 06/09/2026 10:30am EDT to 06/11/2026 3:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:41:00 EST</pubDate>
+            <title><![CDATA[<b>NextGen Technology Camp</b> - 06/09/2026 10:30am EDT to 06/11/2026 3:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:51:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 Clay St, Tiffin, OH 44883, USA</b> 
 
  NextGen Tech Camp is an immersive, hands-on summer experience designed for students entering their sophomore or junior year who want to explore cutting-edge technology in a dynamic and engaging environment. Hosted by Tiffin University, this camp provides a glimpse into the innovative technology programs and opportunities available at TU, preparing students for exciting careers in cybersecurity, computer science, robotics, artificial intelligence, and more.
@@ -345,7 +158,7 @@ Campers will also have an exclusive opportunity to fly a drone, interact with Sp
             <yodel:organizer_id>36602</yodel:organizer_id>
             <yodel:media_alt_text>NextGen Technology Camp on Jun 9, 2026 in Tiffin, OH. Featured themes include sophomore junior year and tiffin, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Forensic Science Academy Camp</b> - 06/09/2026 12:00pm EDT to 06/12/2026 5:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:40:00 EST</pubDate>
+            <title><![CDATA[<b>Forensic Science Academy Camp</b> - 06/09/2026 12:00pm EDT to 06/12/2026 5:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:50:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 Clay St, Tiffin, OH 44883, USA</b> 
 
  If Law and Order, CSI and NCIS are on regular rotation and science has become a guilty pleasure, it is time to take it to the next level with Tiffin University Forensic Science Academy Camp.
@@ -363,7 +176,7 @@ Cost $979/camper]]></description>
             <yodel:organizer_id>36602</yodel:organizer_id>
             <yodel:media_alt_text>Forensic Science Academy Camp on Jun 9, 2026 in Tiffin, OH. Featured themes include high school students and junior and senior year.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 06/09/2026 2:00pm EDT to 06/09/2026 3:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:39:00 EST</pubDate>
+            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 06/09/2026 2:00pm EDT to 06/09/2026 3:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:49:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Tiffin-Seneca Public Library will offer a special summer edition of “Teen Tuesday” on Tuesdays, June 2, 9, 16, 23, and 30 from 2:00 p.m. to 3:30 p.m. in the Frost Kalnow Room.
@@ -380,7 +193,7 @@ For more information, log onto http://www.tiffinsenecalibrary.org/ or call the l
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Teen Tuesday: Summer Edition! on Jun 9, 2026 in Tiffin, OH. Featured themes include teen tuesday and tiffin, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Squish Needs a House! Paint Workshop (1)</b> - 06/10/2026 12:30pm EDT to 06/10/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:38:00 EST</pubDate>
+            <title><![CDATA[<b>Squish Needs a House! Paint Workshop (1)</b> - 06/10/2026 12:30pm EDT to 06/10/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:48:00 EST</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
 
  Join us for the "Squish Needs a House! Paint Workshop," designed for elementary-aged kids who love creativity and fun! At this engaging workshop, participants will receive a mystery Squishville critter along with a wooden house and accessories to decorate. Unleash your inner interior designer as you paint and personalize your unique Squishville home! Come to the RF&B studio for a wonderful day of artistic expression and play!]]></description>
@@ -395,7 +208,7 @@ For more information, log onto http://www.tiffinsenecalibrary.org/ or call the l
             <yodel:organizer_id>23057</yodel:organizer_id>
             <yodel:media_alt_text>Squish Needs a House! Paint Workshop (1) on Jun 10, 2026 in Tiffin, OH. Featured themes include squish needs a house paint workshop and Classes/Workshops.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Race to Escape: Robbery at the Museum</b> - 06/10/2026 2:00pm EDT to 06/10/2026 4:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:37:00 EST</pubDate>
+            <title><![CDATA[<b>Race to Escape: Robbery at the Museum</b> - 06/10/2026 2:00pm EDT to 06/10/2026 4:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:47:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Tiffin-Seneca Public Library will host “Race to Escape: Robbery at the Museum” for teens entering grades six through twelve on Wednesday, June 10 from 2:00 to 4:00 p.m. in the Frost Kalnow Room.
@@ -415,7 +228,7 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Race to Escape: Robbery at the Museum on Jun 10, 2026 in Tiffin, OH. Featured themes include escape room and interactive museum mystery.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>WEW at the Franciscan Earth Literacy Center</b> - 06/10/2026 6:00pm EDT to 06/10/2026 7:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:36:00 EST</pubDate>
+            <title><![CDATA[<b>WEW at the Franciscan Earth Literacy Center</b> - 06/10/2026 6:00pm EDT to 06/10/2026 7:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:46:00 EST</pubDate>
             <description><![CDATA[<b>Location : Seneca County, OH, USA</b> 
 
  Come join WEW at the Franciscan Earth Literacy Center for an upcycled craft! No childcare is provided for this meeting. Sorry
@@ -431,7 +244,7 @@ Must RSVP to shallett@ncoesc.org or on FB.]]></description>
             <yodel:organizer_id>23131</yodel:organizer_id>
             <yodel:media_alt_text>WEW at the Franciscan Earth Literacy Center on Jun 10, 2026 in Seneca County, OH, USA. Featured themes include franciscan earth literacy center and no childcare.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>"Barn and Yellow Flowers"  Thursday, June 11, 2026 9am-12pm or 6pm-9pm #06112601 or #06112602</b> - 06/11/2026 9:00am EDT to 06/11/2026 9:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:35:00 EST</pubDate>
+            <title><![CDATA[<b>"Barn and Yellow Flowers"  Thursday, June 11, 2026 9am-12pm or 6pm-9pm #06112601 or #06112602</b> - 06/11/2026 9:00am EDT to 06/11/2026 9:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:45:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by Friday, June 5. Paint "Barn and Yellow Flowers" in water mixable oils with Carol Hoffman on Thursday, June 11 from 9am until 12 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 11"x14" canvas are included in the price of the class. Minimum class size 3 people, maximum of 8. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419 624 7020, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday]]></description>
@@ -447,22 +260,7 @@ Must RSVP to shallett@ncoesc.org or on FB.]]></description>
             <yodel:organizer_id>22997</yodel:organizer_id>
             <yodel:media_alt_text>&quot;Barn and Yellow Flowers&quot; Thursday, June 11, 2026 9am-12pm or 6pm-9pm #06112601 or #06112602 on Jun 11, 2026 in Tiffin, OH. Featured themes include Classes/Workshops and Arts.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>2p | Dino Training Camp</b> - 06/11/2026 2:00pm EDT to 06/11/2026 4:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:34:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">6a1f9bbe22a104b618a967a4</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>2p | Dino Training Camp on Jun 11, 2026 in Tiffin, OH. Featured themes include public library and dino training camp.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Teen Art Club</b> - 06/11/2026 2:00pm EDT to 06/11/2026 3:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:33:00 EST</pubDate>
+            <title><![CDATA[<b>Teen Art Club</b> - 06/11/2026 2:00pm EDT to 06/11/2026 3:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:44:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Teen Department at the Tiffin-Seneca Public library will host “Teen Art Club” on Thursdays, June 11 and 25 from 2:00 to 3:30 p.m. in the Junior Home Room.
@@ -479,7 +277,22 @@ For more information, log onto http://www.tiffinsenecalibrary.org/ or call the l
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Teen Art Club on Jun 11, 2026 in Tiffin, OH. Featured themes include teens and tiffin, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>The Blueprint Series - June Happy Hour</b> - 06/11/2026 4:30pm CDT to 06/11/2026 6:00pm CDT]]></title><pubDate>Mon, 06 Jul 2026 23:32:00 EST</pubDate>
+            <title><![CDATA[<b>Dino Training Camp</b> - 06/11/2026 2:00pm EDT to 06/11/2026 3:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:43:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Tiffin-Seneca Public Library's Youth Services Department for "Dino Training Camp" on Thursday, June 11, from 2:00 to 4:00 p.m. in the Frost Kalnow Room. This engaging event invites preschool-aged children and older to unleash their inner dinosaurs through fun challenges, including rescuing a dinosaur egg and navigating tasks with T-Rex arms. Part of the 2026 Summer Reading Program themed “Unearth a Story,” this camp promises adventurous learning and play. For more information, visit the Junior Library, call 419-447-3751, or go to http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://www.facebook.com/events/1904017223582161</link>
+            <guid isPermaLink="false">6a1f9bbe22a104b618a967a4</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710575180_1433221035515866_6897266166085632646_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Dino Training Camp on Jun 11, 2026 in Tiffin, OH. Featured themes include adventurous learning and t-rex arms.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>The Blueprint Series - June Happy Hour</b> - 06/11/2026 4:30pm CDT to 06/11/2026 6:00pm CDT]]></title><pubDate>Tue, 07 Jul 2026 23:42:00 EST</pubDate>
             <description><![CDATA[<b>Location : 40 E Perry St, Tiffin, OH 44883, USA</b> 
 
  <p>Happy Hour with Financial Design: Keep More of What You Earn</p><p>Join us on June 11th from 4:30–6:00 PM for a casual happy hour focused on tax-smart financial planning strategies for working professionals, retirees, and business owners.</p><p>We&#39;ll discuss:</p><p>-The impact of tax drag on investment accounts</p><p>-Whether you&#39;re saving in the right tax buckets</p><p>-Building a tax-smart financial blueprint</p><p>-Retirement planning opportunities for self-employed individuals</p><p>Enjoy refreshments, connect with others, and gain practical insights to help you keep more of what you earn. </p>]]></description>
@@ -494,7 +307,7 @@ For more information, log onto http://www.tiffinsenecalibrary.org/ or call the l
             <yodel:organizer_id>180793</yodel:organizer_id>
             <yodel:media_alt_text>The Blueprint Series - June Happy Hour on Jun 11, 2026 in Tiffin, OH. Featured themes include Business and retirement planning, financial planning, tax planning, professionals, retirees, business owners.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Downtown Trivia Night at The Barn at Seneca Hills</b> - 06/11/2026 7:00pm EDT to 06/11/2026 8:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:31:00 EST</pubDate>
+            <title><![CDATA[<b>Downtown Trivia Night at The Barn at Seneca Hills</b> - 06/11/2026 7:00pm EDT to 06/11/2026 8:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:41:00 EST</pubDate>
             <description><![CDATA[<b>Location : 4044 W Township Rd 98, Tiffin, OH 44883, USA</b> 
 
  Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest.
@@ -514,7 +327,7 @@ A traveling trophy will be awarded to the winning team.
             <yodel:organizer_id>23019</yodel:organizer_id>
             <yodel:media_alt_text>Downtown Trivia Night at The Barn at Seneca Hills on Jun 11, 2026 in Tiffin, OH. Featured themes include Clubs and ages 12 and up.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Smokin' Sows Food Truck</b> - 06/12/2026 10:00am EDT to 06/12/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:30:00 EST</pubDate>
+            <title><![CDATA[<b>Smokin' Sows Food Truck</b> - 06/12/2026 10:00am EDT to 06/12/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:40:00 EST</pubDate>
             <description><![CDATA[<b>Location : 182 St Francis Ave, Tiffin, OH 44883, USA</b> 
 
  Smokin's Sows Food Truck in the front parking lot of St. Francis Home Friday, June 12 from 10am - 2pm]]></description>
@@ -529,7 +342,7 @@ A traveling trophy will be awarded to the winning team.
             <yodel:organizer_id>25245</yodel:organizer_id>
             <yodel:media_alt_text>Smokin&apos; Sows Food Truck on Jun 12, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and smokin&apos; sows food truck.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 06/13/2026 9:00am EDT to 06/13/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:29:00 EST</pubDate>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 06/13/2026 9:00am EDT to 06/13/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:39:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
@@ -545,7 +358,7 @@ A traveling trophy will be awarded to the winning team.
             <yodel:organizer_id>21530</yodel:organizer_id>
             <yodel:media_alt_text>Breakfast at JAM’s Markets SATURDAYS 9-2pm on Jun 13, 2026 in Tiffin, OH. Featured themes include community and lunch.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Farmers Market</b> - 06/13/2026 9:00am EDT to 06/13/2026 1:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:28:00 EST</pubDate>
+            <title><![CDATA[<b>Farmers Market</b> - 06/13/2026 9:00am EDT to 06/13/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:38:00 EST</pubDate>
             <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
@@ -562,7 +375,7 @@ A traveling trophy will be awarded to the winning team.
             <yodel:organizer_id>147339</yodel:organizer_id>
             <yodel:media_alt_text>Farmers Market on Jun 13, 2026 in Tiffin, OH. Featured themes include flowers and fresh produce.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Farmers Market</b> - 06/13/2026 9:00am EDT to 06/13/2026 1:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:27:00 EST</pubDate>
+            <title><![CDATA[<b>Farmers Market</b> - 06/13/2026 9:00am EDT to 06/13/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:37:00 EST</pubDate>
             <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
@@ -579,7 +392,7 @@ A traveling trophy will be awarded to the winning team.
             <yodel:organizer_id>28779</yodel:organizer_id>
             <yodel:media_alt_text>Farmers Market on Jun 13, 2026 in Tiffin, OH. Featured themes include baked goods and farmers market.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 06/13/2026 9:00am EDT to 06/13/2026 12:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:26:00 EST</pubDate>
+            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 06/13/2026 9:00am EDT to 06/13/2026 12:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:36:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Chocolate covered strawberry cups are returning! $5 each until sold old!
@@ -597,7 +410,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on Jun 13, 2026 in Tiffin, OH. Featured themes include chocolate covered strawberry cups and farmers market.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Movie Night</b> - 06/13/2026 6:00pm EDT to 06/13/2026 7:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:25:00 EST</pubDate>
+            <title><![CDATA[<b>Movie Night</b> - 06/13/2026 6:00pm EDT to 06/13/2026 7:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:35:00 EST</pubDate>
             <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Food, Family, & Film: Community Movie Night!
@@ -623,7 +436,7 @@ https://www.facebook.com/hashtag/trinityucc?__eep__=6&__cft__[0]=AZbHym7hNmPUYs3
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Movie Night on Jun 13, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Film.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Daybreak Service</b> - 06/14/2026 8:30am EDT to 06/14/2026 9:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:24:00 EST</pubDate>
+            <title><![CDATA[<b>Daybreak Service</b> - 06/14/2026 8:30am EDT to 06/14/2026 9:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:34:00 EST</pubDate>
             <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
@@ -642,7 +455,7 @@ All are welcome.
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Daybreak Service on Jun 14, 2026 in Tiffin, OH. Featured themes include trinity united church of christ and Religious.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 06/14/2026 10:00am EDT to 06/14/2026 11:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:23:00 EST</pubDate>
+            <title><![CDATA[<b>Service of the Word</b> - 06/14/2026 10:00am EDT to 06/14/2026 11:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:33:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
@@ -657,7 +470,7 @@ All are welcome.
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Service of the Word on Jun 14, 2026 in Tiffin, OH. Featured themes include online service and spirituality.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Sunday Brunch & Trivia</b> - 06/14/2026 11:00am EDT to 06/14/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:22:00 EST</pubDate>
+            <title><![CDATA[<b>Sunday Brunch & Trivia</b> - 06/14/2026 11:00am EDT to 06/14/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:32:00 EST</pubDate>
             <description><![CDATA[<b>Location : 138 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Join us at Empire for Brunch & Trivia on Sunday, June 14.
@@ -677,7 +490,7 @@ Gather your group and enjoy a relaxed Sunday with great food, drinks, and a litt
             <yodel:organizer_id>172374</yodel:organizer_id>
             <yodel:media_alt_text>Sunday Brunch &amp; Trivia on Jun 14, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and trivia.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Celebrate Johni’s B-day Workshop</b> - 06/14/2026 6:30pm EDT to 06/14/2026 7:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:21:00 EST</pubDate>
+            <title><![CDATA[<b>Celebrate Johni’s B-day Workshop</b> - 06/14/2026 6:30pm EDT to 06/14/2026 7:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:31:00 EST</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
 
  Come join your friends to create your own personalized project. It will be a fun time out with new and old friends! Select any design, check out the "design" page of the website for options or scroll through past projects on the FB feed. Everyone can choose a different project.]]></description>
@@ -692,7 +505,7 @@ Gather your group and enjoy a relaxed Sunday with great food, drinks, and a litt
             <yodel:organizer_id>23057</yodel:organizer_id>
             <yodel:media_alt_text>Celebrate Johni’s B-day Workshop on Jun 14, 2026 in Tiffin, OH. Featured themes include b-day workshop and Classes/Workshops.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Archery 101</b> - 06/16/2026 10:00am EDT to 06/16/2026 11:00am EDT]]></title><pubDate>Mon, 06 Jul 2026 23:20:00 EST</pubDate>
+            <title><![CDATA[<b>Archery 101</b> - 06/16/2026 10:00am EDT to 06/16/2026 11:00am EDT]]></title><pubDate>Tue, 07 Jul 2026 23:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
 
  Join Linda Rose to learn the basics of archery and then try to hit the target.  All supplies provided.  Ages 10 years and older.  Limited registration. Registration is required at least 24 hours in advance of the program.]]></description>
@@ -707,7 +520,7 @@ Gather your group and enjoy a relaxed Sunday with great food, drinks, and a litt
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Archery 101 on Jun 16, 2026 in Tiffin, OH. Featured themes include Classes/Workshops and ages 10 and older.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Gardening and Grazing - Seneca Conservation District</b> - 06/16/2026 1:00pm EDT to 06/16/2026 2:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:19:00 EST</pubDate>
+            <title><![CDATA[<b>Gardening and Grazing - Seneca Conservation District</b> - 06/16/2026 1:00pm EDT to 06/16/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:29:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Join the Seneca Conservation District for a hands-on activity of gardening and grazing. Please call Allen Eiry Center to sign up (419) 448-9774.]]></description>
@@ -722,7 +535,7 @@ Gather your group and enjoy a relaxed Sunday with great food, drinks, and a litt
             <yodel:organizer_id>22966</yodel:organizer_id>
             <yodel:media_alt_text>Gardening and Grazing - Seneca Conservation District on Jun 16, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Parks &amp; Rec.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 06/16/2026 2:00pm EDT to 06/16/2026 3:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:18:00 EST</pubDate>
+            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 06/16/2026 2:00pm EDT to 06/16/2026 3:30pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:28:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Tiffin-Seneca Public Library will offer a special summer edition of “Teen Tuesday” on Tuesdays, June 2, 9, 16, 23, and 30 from 2:00 p.m. to 3:30 p.m. in the Frost Kalnow Room.
@@ -739,7 +552,7 @@ For more information, log onto http://www.tiffinsenecalibrary.org/ or call the l
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Teen Tuesday: Summer Edition! on Jun 16, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Kids &amp; Family.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Stunt Dog Show with Team Zoom</b> - 06/16/2026 6:00pm EDT to 06/16/2026 7:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:17:00 EST</pubDate>
+            <title><![CDATA[<b>Stunt Dog Show with Team Zoom</b> - 06/16/2026 6:00pm EDT to 06/16/2026 7:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:27:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Tiffin-Seneca Public Library will host Team Zoom Canine Entertainment for a stunt dog show on Tuesday, June 16 at 6:00 p.m. at the East Green Amphitheater.
@@ -757,7 +570,7 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Stunt Dog Show with Team Zoom on Jun 16, 2026 in Tiffin, OH. Featured themes include stunt dog show and team zoom.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>"Colored Pencil Crushed Can"  Tuesday, June 16, 2026 6pm-9pm  #06162601</b> - 06/16/2026 6:00pm EDT to 06/16/2026 7:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:16:00 EST</pubDate>
+            <title><![CDATA[<b>"Colored Pencil Crushed Can"  Tuesday, June 16, 2026 6pm-9pm  #06162601</b> - 06/16/2026 6:00pm EDT to 06/16/2026 7:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:26:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  In this class you will use colored pencils to create a 5"x7" drawing of a crushed can, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Saturday June 13. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -773,22 +586,41 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <yodel:organizer_id>22997</yodel:organizer_id>
             <yodel:media_alt_text>&quot;Colored Pencil Crushed Can&quot; Tuesday, June 16, 2026 6pm-9pm #06162601 on Jun 16, 2026 in Tiffin, OH. Featured themes include drawing techniques and minimum class size.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>2p | Paintings Gone Prehistoric</b> - 06/17/2026 2:00pm EDT to 06/17/2026 3:30pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:15:00 EST</pubDate>
+            <title><![CDATA[<b>Paintings Gone Prehistoric</b> - 06/17/2026 2:00pm EDT to 06/17/2026 3:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:25:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+ Join Tiffin-Seneca Public Library for “Paintings Gone Prehistoric,” a creative event for teens entering grades six through twelve on Wednesday, June 17, from 2:00 to 3:30 p.m. in the Frost Kalnow Room. Participants will have the opportunity to give classic paintings a prehistoric twist by incorporating dinosaurs, volcanoes, meteors, and other imaginative elements. All craft supplies will be provided. This event is part of the 2026 Summer Reading Program theme, “Unearth a Story.” For more information, call 419-447-3751 or visit http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://www.facebook.com/events/1026554909803961</link>
             <guid isPermaLink="false">6a20f19275f8d1e1782e0e7d</guid>
-            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714852644_1434501875387782_5509144574420759425_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>2p | Paintings Gone Prehistoric on Jun 17, 2026 in Tiffin, OH. Featured themes include tiffin seneca public library and paintings gone prehistoric.</yodel:media_alt_text>
+            <yodel:media_alt_text>Paintings Gone Prehistoric on Jun 17, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and craft supplies.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Film Fusion: Adult Interactive Movie Night</b> - 06/17/2026 6:00pm EDT to 06/17/2026 7:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:14:00 EST</pubDate>
+            <title><![CDATA[<b>Ribbon Cutting | Pets in Balance</b> - 06/17/2026 4:00pm EDT to 06/17/2026 5:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:24:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 560 Miami St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development Ambassadors as they celebrate the grand opening of Pets in Balance with a ribbon cutting ceremony on Wednesday, June 17 at 4PM. The clinic is located at 560 Miami Street in Tiffin.
+Pets in Balance is a specialized veterinary clinic dedicated to helping pets achieve greater comfort, mobility, and overall wellness through acupuncture and spinal care. Led by Dr. Amber Stover, a licensed veterinarian with more than 30 years of experience, the practice focuses on holistic therapies designed to address the root causes of pain and imbalance in pets. Dr. Stover is one of only a few veterinarians in Ohio licensed to provide veterinary acupuncture.
+After decades of practicing traditional veterinary medicine, including more than 18 years serving local pets through a respected house-call practice, Dr. Stover opened Pets in Balance to offer personalized, natural treatment options for cats and dogs experiencing mobility challenges, discomfort, anxiety, or age-related changes.
+By combining veterinary acupuncture and spinal care, Pets in Balance helps support the body's natural healing processes while improving comfort, alignment, and quality of life. These gentle therapies have been shown to help reduce pain, improve mobility, and promote overall well-being for pets of all ages.
+Community members, pet owners, and supporters are invited to attend the ribbon cutting ceremony, tour the clinic, meet Dr. Stover, and learn more about the innovative services available at Pets in Balance. Join us in welcoming this unique addition to Tiffin's business community and celebrating a new resource for pet health and wellness in Northwest Ohio.]]></description>
+            <link>https://www.facebook.com/events/1469212681166695</link>
+            <guid isPermaLink="false">6a241185ab3a39543b067169</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714575541_1397073099122704_6215202581944543986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>33792</yodel:organizer_id>
+            <yodel:media_alt_text>Ribbon Cutting | Pets in Balance on Jun 17, 2026 in Tiffin, OH. Featured themes include acupuncture and age-related changes.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Film Fusion: Adult Interactive Movie Night</b> - 06/17/2026 6:00pm EDT to 06/17/2026 7:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:23:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library will a host “Film Fusion,” an adult interactive movie night, on Wednesday, June 17 from 6:00 to 8:00 p.m. in the Frost Kalnow Room.
@@ -806,7 +638,7 @@ For more information or for a complete list of summer reading events, please cal
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Film Fusion: Adult Interactive Movie Night on Jun 17, 2026 in Tiffin, OH. Featured themes include Film and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Foot Long Fundraiser</b> - 06/18/2026 11:00am EDT to 06/18/2026 1:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:13:00 EST</pubDate>
+            <title><![CDATA[<b>Foot Long Fundraiser</b> - 06/18/2026 11:00am EDT to 06/18/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:22:00 EST</pubDate>
             <description><![CDATA[<b>Location : 182 St Francis Ave, Tiffin, OH 44883, USA</b> 
 
  Foot long hot dog, chips, cookie and bottle of water for $7.00. Place orders by June 11th at 419-447-3141 or Kellie.Hartsel@stfrancishome.org. Pick up on June 18th from 11am - 1pm.]]></description>
@@ -822,22 +654,43 @@ For more information or for a complete list of summer reading events, please cal
             <yodel:organizer_id>25245</yodel:organizer_id>
             <yodel:media_alt_text>Foot Long Fundraiser on Jun 18, 2026 in Tiffin, OH. Featured themes include community support and fundraiser.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>3p | Escape Dino Park</b> - 06/18/2026 3:00pm EDT to 06/18/2026 6:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:12:00 EST</pubDate>
+            <title><![CDATA[<b>Escape Dino Park</b> - 06/18/2026 3:00pm EDT to 06/18/2026 6:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:21:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+ Join the Tiffin-Seneca Public Library's Youth Services Department for "Escape Dino Park" on Thursday, June 18, from 3:00 to 6:00 p.m. in the Frost Kalnow Room. Something has gone awry at the dinosaur park—power is down, gates are locked, and dinosaurs are on the move! Kids in first through fifth grade are invited to drop in anytime to collaborate on solving puzzles, following dinosaur tracks, cracking secret codes, and navigating the park map to escape before time runs out. This exciting event is part of the 2026 Summer Reading Program, “Unearth a Story.” For more details, visit the Junior Library, call 419-447-3751, or go to http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://www.facebook.com/events/1005429545280992</link>
             <guid isPermaLink="false">6a1f9bbc22a104b618a967a2</guid>
-            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710848889_1433485598822743_2408179582127447636_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>3p | Escape Dino Park on Jun 18, 2026 in Tiffin, OH. Featured themes include History &amp; Museums and tiffin-seneca public library.</yodel:media_alt_text>
+            <yodel:media_alt_text>Escape Dino Park on Jun 18, 2026 in Tiffin, OH. Featured themes include summer reading program and tiffin seneca public library.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Chill Out in Downtown Tiffin - Third Thursday</b> - 06/18/2026 5:00pm EDT to 06/18/2026 8:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:11:00 EST</pubDate>
+            <title><![CDATA[<b>Ribbon Cutting | The Love Lock Structure in Downtown Tiffin</b> - 06/18/2026 4:00pm EDT to 06/18/2026 5:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:20:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 133 E Market St, Tiffin, OH 44883, USA</b> 
+
+ The Seneca Regional Chamber & Development Ambassadors and Downtown Tiffin are excited to invite the community to a special ribbon cutting ceremony celebrating the installation of the new Love Lock structure located at the East Green at National Corner adjacent to the Splash Pad. The event will take place on Thursday, June 18, 2026 at 4 PM and is open to the public.
+The Love Lock structure was created through the efforts of the Downtown Tiffin Design Committee as part of Downtown Tiffin’s ongoing beautification initiatives, including the Best Foot Forward Program and the Golden Broom Award. These programs encourage businesses and property owners to maintain attractive storefronts and contribute to the overall appearance and vibrancy of the downtown district. The Design Committee also helps organize Downtown Clean Ups and other aesthetic improvement efforts throughout the community.
+Inspired by the Pont des Arts Love Lock Bridge in Paris, France, as well as similar installations found in Main Street communities across the country, the Downtown Tiffin Love Lock structure gives couples an opportunity to symbolize their love by attaching a lock to the structure and tossing the key into a designated key box attached nearby.
+The structure was generously donated by Price Manufacturing and will serve as a unique new attraction and photo opportunity in Downtown Tiffin, featuring the East Tower as a scenic backdrop. Located near the amphitheater, the East Green has become a gathering place for couples and families attending concerts and community events. It also holds special meaning as the location where couples were married during the memorable 2024 Total Eclipse celebration.
+Community members are encouraged to attend the ribbon cutting, celebrate this new addition to Downtown Tiffin, and learn more about how Downtown Tiffin continues to create welcoming and memorable public spaces for residents and visitors alike.]]></description>
+            <link>https://www.facebook.com/events/35885639537746447</link>
+            <guid isPermaLink="false">6a24118479c4f67e8baf972b</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710756149_1396040205892660_5446743423388328666_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>33792</yodel:organizer_id>
+            <yodel:media_alt_text>Ribbon Cutting | The Love Lock Structure in Downtown Tiffin on Jun 18, 2026 in Tiffin, OH. Featured themes include love lock structure and History &amp; Museums.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Chill Out in Downtown Tiffin - Third Thursday</b> - 06/18/2026 5:00pm EDT to 06/18/2026 8:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:19:00 EST</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Trade the heatwaves for water waves! Join us on June 18, 2026 for Chill Out in Downtown Tiffin, a community-wide celebration designed to help you beat the June heat.
@@ -855,7 +708,7 @@ Whether you’re looking to get soaked or just want to stay chill in the shade, 
             <yodel:organizer_id>23019</yodel:organizer_id>
             <yodel:media_alt_text>Chill Out in Downtown Tiffin - Third Thursday on Jun 18, 2026 in Tiffin, OH. Featured themes include Festivals/Fairs and community celebration.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>TU Comes to You: New York City</b> - 06/18/2026 6:00pm EDT to 06/18/2026 8:00pm EDT]]></title><pubDate>Mon, 06 Jul 2026 23:10:00 EST</pubDate>
+            <title><![CDATA[<b>TU Comes to You: New York City</b> - 06/18/2026 6:00pm EDT to 06/18/2026 8:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:18:00 EST</pubDate>
             <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
 
  Join fellow Dragons in the Big Apple for a unique TU Comes to You experience at Great Jones Distilling Co. in New York City. For $75 per person, this exclusive evening will feature a private Bourbon & Bites Tour, where alumni and friends will enjoy a guided tour of the distillery along with curated bourbon samplings thoughtfully paired with small bites.
@@ -877,5 +730,164 @@ Register at http://tiffin.edu/advancement/alumni/events/tu-comes-to-you-new-york
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>25251</yodel:organizer_id>
             <yodel:media_alt_text>TU Comes to You: New York City on Jun 18, 2026 in Tiffin, OH. Featured themes include Clubs and bourbon tour.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>"Cigar Box Art" Displayed from June 3-20, 2026 Artist Recep. June 18th, 6pm</b> - 06/18/2026 6:00pm EDT to 06/18/2026 7:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:17:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ The Tiffin Art Guild proudly presents our second
+Cigar Box Show, a creative exhibit that invites artists
+to transform humble cigar boxes into imaginative works
+of art. Think outside the box—literally—and reimagine
+these small wooden forms as sculptures, dioramas,
+shadowboxes, or anything your creativity can dream up.
+This is your chance to turn something ordinary into
+something unforgettable.
+To help spark your ideas, our sponsor The Social Cigar,
+Downtown has a limited supply of empty cigar boxes
+available to TAG exhibit entrants at great prices, some
+as low as $1 each. Supplies are limited, so stop by The
+Social Cigar at 92 S. Washington Street in downtown
+Tiffin. (Limit of three boxes per entrant while supplies
+last.)
+Submit your creation and be part of a show thatÕs sure
+to surprise and inspire our community. Let your imagination run wild and help us fill the gallery with bold, one-of
+-a-kind works of art!]]></description>
+            <link>https://www.facebook.com/events/1641361617085444</link>
+            <guid isPermaLink="false">69f184d7e8a088704946e616</guid>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F679696005_1599667408831814_6319360353534080811_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22997</yodel:organizer_id>
+            <yodel:media_alt_text>&quot;Cigar Box Art&quot; Displayed from June 3-20, 2026 Artist Recep. June 18th, 6pm on Jun 18, 2026 in Tiffin, OH. Featured themes include artist and cigar box art.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 06/18/2026 7:00pm EDT to 06/18/2026 9:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:16:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
+
+ This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
+            <link>https://www.facebook.com/events/967340789421450/967340799421449</link>
+            <guid isPermaLink="false">69da1305d80353fe5208a0ac</guid>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Tiffin Park & Recreation]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840710_1454772440022400_3821231396960562931_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a0706df197f3917c76f6e96</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>156837</yodel:organizer_id>
+            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jun 18, 2026 in Tiffin, OH. Featured themes include community involvement and concert series.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 06/18/2026 7:00pm EDT to 06/18/2026 9:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:15:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
+
+ This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
+            <link>https://www.facebook.com/events/967340789421450/967340799421449</link>
+            <guid isPermaLink="false">69b58f101d5d3e0eab953a5c</guid>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Tiffin Parks & Recreation]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F699868558_1436735581826086_6234135872956272034_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a0706df197f3917c76f6e96</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>25538</yodel:organizer_id>
+            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jun 18, 2026 in Tiffin, OH. Featured themes include Parks &amp; Rec and concert series.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Juneteenth</b> - 06/19/2026 12:00am EDT to 06/19/2026 11:59pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:14:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+            <guid isPermaLink="false">695f0dba4eab7f060bac0dd4</guid>
+            <category><![CDATA[Causes]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Juneteenth on Jun 19, 2026 in Tiffin, OH. Featured themes include juneteenth and tiffin seneca public library.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 06/20/2026 9:00am EDT to 06/20/2026 2:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:13:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
+            <link>https://www.facebook.com/events/612922661804784/612922741804776</link>
+            <guid isPermaLink="false">6880457b89cbcda9534a9182</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>21530</yodel:organizer_id>
+            <yodel:media_alt_text>Breakfast at JAM’s Markets SATURDAYS 9-2pm on Jun 20, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>2nd Annual Heavenly Pizza Gives Back Cruisin' into Summer Jeep and Car Show</b> - 06/20/2026 9:00am EDT to 06/20/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:12:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 69 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join us for the second annual Heavenly Pizza Gives Back car show and fundraiser on Saturday, June 20th, from 9am to 1pm.
+Free admission for spectators
+$15 registration per show vehicle
+Awards given for multiple categories
+One free slice of pizza per person
+50/50 door prize drawing
+Various raffles
+Purchase tickets for an opportunity to win:
+1 free 14" 1-item pizza per week for one year
+1 free 1-item jumbo per month for one year
+Bring your classic, custom or offroad vehicle. This is a fundraiser for the soon-to-be built Heavenly Park.
+Register your vehicle at: https://tinyurl.com/HeavenlyGivesBackCarShow26]]></description>
+            <link>https://www.facebook.com/events/2314818149046313</link>
+            <guid isPermaLink="false">6a05295da2a236d981bc7144</guid>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Heavenly Pizza-Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710653987_122179629632875112_6307964106667641716_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>29037</yodel:organizer_id>
+            <yodel:media_alt_text>2nd Annual Heavenly Pizza Gives Back Cruisin&apos; into Summer Jeep and Car Show on Jun 20, 2026 in Tiffin, OH. Featured themes include raffles and seasonal.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Farmers Market</b> - 06/20/2026 9:00am EDT to 06/20/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:11:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497096110846</link>
+            <guid isPermaLink="false">69c793715b656aaf2b81f272</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf39c2fff737572acea0</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>147339</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Jun 20, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Farmers Market</b> - 06/20/2026 9:00am EDT to 06/20/2026 1:00pm EDT]]></title><pubDate>Tue, 07 Jul 2026 23:10:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497096110846</link>
+            <guid isPermaLink="false">695354acc4ecec9e67cc2fef</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf39c2fff737572acea0</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>28779</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Jun 20, 2026 in Tiffin, OH. Featured themes include farmers market and flowers.</yodel:media_alt_text>
         </item></channel>
 </rss>
