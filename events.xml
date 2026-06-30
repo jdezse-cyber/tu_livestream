@@ -4,10 +4,10 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 04:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 04:15:08 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:59:00 EST</pubDate>
+            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Here it is, folks! There are still a couple of [...]]]></description>
@@ -22,181 +22,22 @@
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>The 2026-2027 Season of Events on May 1, 2026 in Tiffin, OH. Featured themes include season of events and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Summer  Shoe SALE!</b> - 06/24/2026 8:00pm EDT to 07/03/2026 9:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:58:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Full Moon Hike</b> - 06/29/2026 9:00pm EDT to 06/29/2026 10:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:58:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
 
- Shop our Summer Sales!!
-
- Each brand has their own discounts
-
- Up to 50% off
-
- Accessories are 20% off
-
-Socks 20% off
-Come take care of your tootsies
-
-we'll help you search for deals & steals!]]></description>
-            <link>https://www.facebook.com/events/4347629415549661</link>
-            <guid isPermaLink="false">6a3e06610282649dfc142352</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Fashion]]></category>
-            <category><![CDATA[Retail]]></category>
-            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F6cfa9a84-007f-43ba-8fea-0a3e76d59cbd.jpg" length="0" type="image/jpeg"/>
+ Join Linda Rose as we walk under the light of the “Strawberry Moon.”  This walk will last about 1 to 1 ¼ hours and qualifies for the Walking Stick Program.  Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/06/29/full-moon-hike</link>
+            <guid isPermaLink="false">69fd9cf8e08260e68b4d712a</guid>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23045</yodel:organizer_id>
-            <yodel:media_alt_text>Summer Shoe SALE! on Jun 24, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and summer shoe sale.</yodel:media_alt_text>
+            <yodel:organizer_id>22992</yodel:organizer_id>
+            <yodel:media_alt_text>Full Moon Hike on Jun 29, 2026 in Tiffin, OH. Featured themes include Outdoors and full moon hike.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Glitter & Glue: Patriotic Welcome Mat</b> - 06/29/2026 10:00am EDT to 06/29/2026 11:00am EDT]]></title><pubDate>Wed, 29 Jul 2026 23:57:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for "Glitter & Glue: Patriotic Welcome Mat," a special adult craft session hosted by Tiffin-Seneca Public Library as part of the 2026 Summer Reading Program "Unearth a Story" and the America 250 celebration. On Monday, June 29, at 10:00 a.m. and 6:00 p.m. in the Frost Kalnow Room, you can design and paint your own festive welcome mat, perfect for celebrating summer holidays with a patriotic flair. Please register for one of the sessions, as space and supplies are limited, by calling 419-447-3751 or visiting our online calendar at http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://www.facebook.com/events/1519383882915938</link>
-            <guid isPermaLink="false">6a1e49947ba74094c813b777</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714444460_1432547412249895_7753342907678623139_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Glitter &amp; Glue: Patriotic Welcome Mat on Jun 29, 2026 in Tiffin, OH. Featured themes include adult craft session and design and paint.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Pop up lunch</b> - 06/29/2026 11:00am EDT to 06/29/2026 2:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:56:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Come see us for lunch.]]></description>
-            <link>https://www.facebook.com/events/1370859354934034</link>
-            <guid isPermaLink="false">6a4065ca25cd47a0b37f6443</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F730511610_1355433923381469_7249449980743554528_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>30852</yodel:organizer_id>
-            <yodel:media_alt_text>Pop up lunch on Jun 29, 2026 in Tiffin, OH. Featured themes include pop up lunch and Food &amp; Drink.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:55:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a317dde3ee4daf99ddbe3dc</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Arts.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:54:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a28c9799d82efcf5f311e0f</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da198b55d7726d303fe3</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23110</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:53:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a278219d4117b1802fac564</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da198b55d7726d303fe3</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:52:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a26d6d62e8bf41ad89ed221</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da198b55d7726d303fe3</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:51:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:57:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -212,162 +53,19 @@ How It Works:
 • Locate & record the 4 digit code for each goose.
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a26523e641c68dc5a8b1263</guid>
+            <link>https://www.facebook.com/events/2531871347278042/2531871517278025</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b1267</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da198b55d7726d303fe3</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include seasonal and summer activities.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/29/2026 1:00pm EDT to 06/29/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:50:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871510611359</link>
-            <guid isPermaLink="false">6a31293c2c992ae284966707</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 29, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin wild goose chase.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Glitter & Glue: Patriotic Welcome Mat</b> - 06/29/2026 6:00pm EDT to 06/29/2026 7:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:49:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for "Glitter & Glue: Patriotic Welcome Mat," a special craft session at Tiffin-Seneca Public Library on Monday, June 29, at 10:00 a.m. and 6:00 p.m. in the Frost Kalnow Room. As part of the 2026 Summer Reading Program “Unearth a Story” and the America 250 celebration, participants will design and paint their own festive welcome mats, perfect for celebrating summer holidays with red, white, and blue flair. Space and supplies are limited, so please register for one of the sessions by calling 419-447-3751 or visiting our online calendar at http://www.tiffinsenecalibrary.org/. Celebrate America 250 in style!]]></description>
-            <link>https://www.facebook.com/events/1997108964252415</link>
-            <guid isPermaLink="false">6a1e4995a826845291c5f3e5</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713187882_1432547965583173_109906581129318491_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Glitter &amp; Glue: Patriotic Welcome Mat on Jun 29, 2026 in Tiffin, OH. Featured themes include seasonal and summer reading program.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Full Moon Hike</b> - 06/29/2026 9:00pm EDT to 06/29/2026 10:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:48:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
-
- Join Linda Rose as we walk under the light of the “Strawberry Moon.”  This walk will last about 1 to 1 ¼ hours and qualifies for the Walking Stick Program.  Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/06/29/full-moon-hike</link>
-            <guid isPermaLink="false">69fd9cf8e08260e68b4d712a</guid>
-            <category><![CDATA[Outdoors]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>Full Moon Hike on Jun 29, 2026 in Tiffin, OH. Featured themes include Outdoors and full moon hike.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:47:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871517278025</link>
-            <guid isPermaLink="false">6a317dde3ee4daf99ddbe3dd</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin art guild.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:46:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871517278025</link>
-            <guid isPermaLink="false">6a31293c082cef1452affd82</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:45:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871517278025</link>
-            <guid isPermaLink="false">6a278219aff468ba820b1ddf</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lhr11-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>6a28da248b55d7726d304017</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Parks &amp; Rec.</yodel:media_alt_text>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:44:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:56:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -397,7 +95,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include family activity and interactive experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:43:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:55:00 EST</pubDate>
             <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -426,8 +124,8 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>142321</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include seasonal and summer fun.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:42:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/30/2026 1:00pm EDT to 06/30/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:54:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -443,18 +141,19 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871517278025</link>
-            <guid isPermaLink="false">6a26523e641c68dc5a8b1267</guid>
+            <guid isPermaLink="false">6a278219aff468ba820b1ddf</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lhr11-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>6a28da248b55d7726d304017</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 30, 2026 in Tiffin, OH. Featured themes include seasonal and summer fun.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Celebrate 30 Years—Park Bingo</b> - 06/30/2026 6:00pm EDT to 06/30/2026 7:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:41:00 EST</pubDate>
+            <title><![CDATA[<b>Celebrate 30 Years—Park Bingo</b> - 06/30/2026 6:00pm EDT to 06/30/2026 7:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:53:00 EST</pubDate>
             <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
 
  To celebrate Seneca County Park Districts 30th Anniversary, join Linda Rose as we hike the trails hoping to find things on our bingo cards. Registration is required at least 24 hours in advance of the program.]]></description>
@@ -469,7 +168,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Celebrate 30 Years—Park Bingo on Jun 30, 2026 in Tiffin, OH. Featured themes include Parks &amp; Rec and 30 years.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Dinner at The Turntable</b> - 06/30/2026 6:00pm EDT to 06/30/2026 9:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:40:00 EST</pubDate>
+            <title><![CDATA[<b>Dinner at The Turntable</b> - 06/30/2026 6:00pm EDT to 06/30/2026 9:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:52:00 EST</pubDate>
             <description><![CDATA[<b>Location : 116 S Washington St, Tiffin, OH 44883, USA</b> 
 
  The Turntable has graciously agreed to host a reservations-only dinner for Seneca Proud in celebration of Pride month. Proceeds from the night will benefit Seneca Proud and contribute to our annual campaign and festival this fall.
@@ -485,7 +184,7 @@ Call today to make your reservation 419-455-1056. Seating is limited and you don
             <yodel:organizer_id>23109</yodel:organizer_id>
             <yodel:media_alt_text>Dinner at The Turntable on Jun 30, 2026 in Tiffin, OH. Featured themes include pride month and reservations only.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Fourth of July party</b> - 07/01/2026 12:00am EDT to 07/02/2026 12:00am EDT]]></title><pubDate>Wed, 29 Jul 2026 23:39:00 EST</pubDate>
+            <title><![CDATA[<b>Fourth of July party</b> - 07/01/2026 12:00am EDT to 07/02/2026 12:00am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:51:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1700 Duchess Ln Lot 12, Tiffin, OH 44883, USA</b> 
 
  Please join us for our Fourth of July celebration, taking place on Wednesday, July 1, 2026.]]></description>
@@ -500,7 +199,7 @@ Call today to make your reservation 419-455-1056. Seating is limited and you don
             <yodel:organizer_id>25224</yodel:organizer_id>
             <yodel:media_alt_text>Fourth of July party on Jul 1, 2026 in Tiffin, OH. Featured themes include fourth of july and fourth of july party.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Pop-up! Calm Compass Travel at Your Legacy FCU</b> - 07/01/2026 10:00am EDT to 07/01/2026 3:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:38:00 EST</pubDate>
+            <title><![CDATA[<b>Pop-up! Calm Compass Travel at Your Legacy FCU</b> - 07/01/2026 10:00am EDT to 07/01/2026 3:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:50:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
 
  Travel Pop-Up at Your Legacy FCU!
@@ -520,7 +219,7 @@ Stop by, explore your next getaway, and start planning your next adventure—no 
             <yodel:organizer_id>23132</yodel:organizer_id>
             <yodel:media_alt_text>Pop-up! Calm Compass Travel at Your Legacy FCU on Jul 1, 2026 in Tiffin, OH. Featured themes include group travel and legacy federal credit union.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Coffee Connect</b> - 07/01/2026 11:00am EDT to 07/01/2026 12:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:37:00 EST</pubDate>
+            <title><![CDATA[<b>Coffee Connect</b> - 07/01/2026 11:00am EDT to 07/01/2026 12:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:49:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
 
  Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
@@ -535,52 +234,7 @@ Stop by, explore your next getaway, and start planning your next adventure—no 
             <yodel:organizer_id>23132</yodel:organizer_id>
             <yodel:media_alt_text>Coffee Connect on Jul 1, 2026 in Tiffin, OH. Featured themes include finances and legacy.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Rubber Ducky Wednesday</b> - 07/01/2026 11:00am EDT to 07/01/2026 12:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:36:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Youth Services Department at the Tiffin-Seneca Public Library will host “Rubber Ducky Wednesday” on Wednesdays, July 1, 8, 15, and 22 at 11:00 a.m. in the Frost Kalnow Room.
-Babies age birth to 35 months and their caregivers are invited to a story time on July 1, July 8, and July 15 with books, songs and lap bounces. On July 22, join the Library for a play date with toys and books for the babies to enjoy together. This program is part of the 2026 Summer Reading Program, “Unearth a Story.”
-For more information, stop by the Junior Library, call 419-447-3751, or log on to http://www.tiffinsenecalibrary.org/]]></description>
-            <link>https://www.facebook.com/events/985513964192501/985513967525834</link>
-            <guid isPermaLink="false">6a28f30f224643dc97e5f5fe</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-yyz1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F718073624_1441002728071030_1770903362066541031_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Rubber Ducky Wednesday on Jul 1, 2026 in Tiffin, OH. Featured themes include seasonal and story time.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:35:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871507278026</link>
-            <guid isPermaLink="false">6a31293ca206e715898c5a55</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:34:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:48:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -608,8 +262,8 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and wild goose chase.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:33:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:47:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -625,19 +279,19 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871507278026</link>
-            <guid isPermaLink="false">6a278219dee30bbd9fa5d7be</guid>
+            <guid isPermaLink="false">6a26d6d6861aa79c76c92341</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>6a28da1e8b55d7726d303ff5</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include support local and tiffin wild goose chase.</yodel:media_alt_text>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include family friendly and interactive experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:32:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:46:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -667,8 +321,8 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include Lifestyle and family activity.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:31:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:45:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -684,78 +338,18 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871507278026</link>
-            <guid isPermaLink="false">6a26d6d6861aa79c76c92341</guid>
+            <guid isPermaLink="false">6a31293ca206e715898c5a55</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da1e8b55d7726d303ff5</yodel:duplicate_id>
+            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include family friendly and interactive experience.</yodel:media_alt_text>
+            <yodel:organizer_id>23130</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871507278026</link>
-            <guid isPermaLink="false">6a317ddd6e54942abc457d85</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Arts.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Michele & Friends Workshop</b> - 07/01/2026 6:00pm EDT to 07/01/2026 7:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:29:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Come join your friends to create your own personalized project. It will be a fun time out with new and old friends! Select any design, check out the "design" page of the website for options or scroll through past projects on the FB feed. Everyone can choose a different project.]]></description>
-            <link>https://www.flair37.com/events/michele-friends-workshop</link>
-            <guid isPermaLink="false">6a22b772966a650eb361247e</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_33222178154a40868eee77a9c077489e~mv2.jpeg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23057</yodel:organizer_id>
-            <yodel:media_alt_text>Michele &amp; Friends Workshop on Jul 1, 2026 in Tiffin, OH. Featured themes include personalized project and rustic flair &amp; brush.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Happy Birthday America Storytime</b> - 07/02/2026 11:00am EDT to 07/02/2026 12:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:28:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for the "Happy Birthday America! Storytime" on Thursday, July 2 at 11:00 a.m. in the Frost Kalnow Room at the Tiffin-Seneca Public Library. Celebrate the spirit of Independence Day through engaging stories, songs, and simple crafts, designed for young children and their caregivers. This family-friendly event is part of the 2026 Summer Reading Program “Unearth a Story” and the America 250 celebration. For more details, visit the Junior Library, call 419-447-3751, or check our website at http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://www.facebook.com/events/1320829112861741</link>
-            <guid isPermaLink="false">6a2cf075e2ee31b5fd2835a5</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F723942276_1443042714533698_1549478826840873780_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Happy Birthday America Storytime on Jul 2, 2026 in Tiffin, OH. Featured themes include seasonal and tiffin, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:27:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/01/2026 1:00pm EDT to 07/01/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:44:00 EST</pubDate>
             <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -771,20 +365,20 @@ How It Works:
 • Locate & record the 4 digit code for each goose.
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871520611358</link>
-            <guid isPermaLink="false">6a278219fde939b71884dc69</guid>
+            <link>https://www.facebook.com/events/2531871347278042/2531871507278026</link>
+            <guid isPermaLink="false">6a278219dee30bbd9fa5d7be</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da218b55d7726d304002</yodel:duplicate_id>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1e8b55d7726d303ff5</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 1, 2026 in Tiffin, OH. Featured themes include exploring tiffin and interactive experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:26:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:43:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -814,7 +408,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Kids &amp; Family.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:25:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:42:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -842,7 +436,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include support local and tiffin.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:24:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:41:00 EST</pubDate>
             <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -871,8 +465,8 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>142321</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include family friendly and interactive experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:23:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:40:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -888,46 +482,19 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871520611358</link>
-            <guid isPermaLink="false">6a317ddda025c5cee000dc4e</guid>
+            <guid isPermaLink="false">6a278219fde939b71884dc69</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da218b55d7726d304002</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include Arts and interactive experience.</yodel:media_alt_text>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/02/2026 1:00pm EDT to 07/02/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:22:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871520611358</link>
-            <guid isPermaLink="false">6a31293cde69397d254a07cb</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 2, 2026 in Tiffin, OH. Featured themes include family activities and interactive experience.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>America 250 Local Author Visit: J. Edward Richey</b> - 07/02/2026 6:00pm EDT to 07/02/2026 7:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:21:00 EST</pubDate>
+            <title><![CDATA[<b>America 250 Local Author Visit: J. Edward Richey</b> - 07/02/2026 6:00pm EDT to 07/02/2026 7:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:39:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Join Tiffin-Seneca Public Library on Thursday, July 2 at 6:00 p.m. for the America 250 Local Author Visit featuring J. Edward Richey, a lifetime resident, author, and publisher. As part of the 2026 Summer Reading Program “Unearth a Story” and the America 250 celebration, Richey will discuss how national and global events have influenced Tiffin and Seneca County, while highlighting his six-book historical series, including A Photo History of Tiffin and Seneca County Ohio – Volumes 1 and 2, and A Photo History of Northwest Ohio – Volumes 1-4. Attendees will have the opportunity to purchase signed copies, with payment options including credit cards, PayPal, Venmo, pre-paid Visa or MasterCard, GooglePay, and ApplePay (no cash or checks). For more information, contact the library at (419) 447-3751 or visit http://www.tiffinsenecalibrary.org/.]]></description>
@@ -942,24 +509,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>America 250 Local Author Visit: J. Edward Richey on Jul 2, 2026 in Tiffin, OH. Featured themes include america 250 local author visit: j. edward richey and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/02/2026 7:00pm EDT to 07/02/2026 9:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:20:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
-
- This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
-            <link>https://www.facebook.com/events/967340789421450/967340796088116</link>
-            <guid isPermaLink="false">69eca80411a7ab6c85fd1c2b</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Tiffin Park & Recreation]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840710_1454772440022400_3821231396960562931_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a058174403b5142b7543a48</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>156837</yodel:organizer_id>
-            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 2, 2026 in Tiffin, OH. Featured themes include free public event and thursday night tunes.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/02/2026 7:00pm EDT to 07/02/2026 9:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:19:00 EST</pubDate>
+            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/02/2026 7:00pm EDT to 07/02/2026 9:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:38:00 EST</pubDate>
             <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
 
  This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
@@ -976,7 +526,24 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>25538</yodel:organizer_id>
             <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 2, 2026 in Tiffin, OH. Featured themes include free and public.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Financial Fitness Friday</b> - 07/03/2026 8:30am EDT to 07/03/2026 5:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:18:00 EST</pubDate>
+            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/02/2026 7:00pm EDT to 07/02/2026 9:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:37:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
+
+ This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
+            <link>https://www.facebook.com/events/967340789421450/967340796088116</link>
+            <guid isPermaLink="false">69eca80411a7ab6c85fd1c2b</guid>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Tiffin Park & Recreation]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840710_1454772440022400_3821231396960562931_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a058174403b5142b7543a48</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>156837</yodel:organizer_id>
+            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 2, 2026 in Tiffin, OH. Featured themes include free public event and thursday night tunes.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Financial Fitness Friday</b> - 07/03/2026 8:30am EDT to 07/03/2026 5:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:36:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
 
  Join our Financial Counselor Rusti Claydon for Financial Fitness Friday, a new monthly event for our membership for FREE walk-in assistance and education surrounding your financial concerns! The first Friday of each month, Rusti has cleared her schedule to allow for members of the credit union to stop in and ask questions about their situation, ask for insights into how we can assist and how to better utilize Your Legacy Federal Credit Union offerings to their benefit! Not a member? Rusti can get you started with just a $5 minimum initial share. See you there!]]></description>
@@ -991,7 +558,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>23132</yodel:organizer_id>
             <yodel:media_alt_text>Financial Fitness Friday on Jul 3, 2026 in Tiffin, OH. Featured themes include free walk-in assistance and tiffin, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:17:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:35:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -1019,7 +586,36 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:16:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:34:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871523944691</link>
+            <guid isPermaLink="false">6a26d6d6861aa79c76c92342</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1b8b55d7726d303fea</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Kids &amp; Family.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:33:00 EST</pubDate>
             <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -1048,7 +644,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>31330</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:15:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:32:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -1078,92 +674,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:14:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871523944691</link>
-            <guid isPermaLink="false">6a26d6d6861aa79c76c92342</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a28da1b8b55d7726d303fea</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Kids &amp; Family.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:13:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 186 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871523944691</link>
-            <guid isPermaLink="false">6a31293c102eb323c26235f3</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/03/2026 1:00pm EDT to 07/03/2026 4:00pm EDT]]></title><pubDate>Wed, 29 Jul 2026 23:12:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871523944691</link>
-            <guid isPermaLink="false">6a317dde735df694f0e43b48</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 3, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and wild goose chase.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>July 4th (250 Years) Celebration</b> - 07/04/2026 9:00am EDT to 07/04/2026 10:00am EDT]]></title><pubDate>Wed, 29 Jul 2026 23:11:00 EST</pubDate>
+            <title><![CDATA[<b>July 4th (250 Years) Celebration</b> - 07/04/2026 9:00am EDT to 07/04/2026 10:00am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:31:00 EST</pubDate>
             <description><![CDATA[<b>Location : 621 E Market St #1734, Tiffin, OH 44883, USA</b> 
 
  The car show will be the first event at 9am, following will be concerts, inflatables, yummy food, and then boom boom double the fireworks at 10pm]]></description>
@@ -1180,7 +691,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>25538</yodel:organizer_id>
             <yodel:media_alt_text>July 4th (250 Years) Celebration on Jul 4, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>July 4th (250 Years) Celebration</b> - 07/04/2026 9:00am EDT to 07/04/2026 10:00am EDT]]></title><pubDate>Wed, 29 Jul 2026 23:10:00 EST</pubDate>
+            <title><![CDATA[<b>July 4th (250 Years) Celebration</b> - 07/04/2026 9:00am EDT to 07/04/2026 10:00am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 621 E Market St, Tiffin, OH 44883, USA</b> 
 
  The car show will be the first event at 9am, following will be concerts, inflatables, yummy food, and then boom boom double the fireworks at 10pm]]></description>
@@ -1197,5 +708,503 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>156837</yodel:organizer_id>
             <yodel:media_alt_text>July 4th (250 Years) Celebration on Jul 4, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Parks &amp; Rec.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 07/04/2026 9:00am EDT to 07/04/2026 12:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:29:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Chocolate covered strawberry cups are returning! $5 each until sold old!
+Come see us every Saturday during the farmers market!
+70 s Washington. St
+Tiffin Ohio 44883]]></description>
+            <link>https://www.facebook.com/events/975102355101819/977536181525103</link>
+            <guid isPermaLink="false">6a0ee4a252fd5f960d623618</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702232119_1490482476425599_7776531371405123729_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23110</yodel:organizer_id>
+            <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on Jul 4, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>BREAKFAST & PIEROGI @ JAM’s Markets Saturdays 9a-1p</b> - 07/04/2026 9:00am EDT to 07/04/2026 1:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:28:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Join us at JAM’s Markets every Saturday from 9 AM to 2 PM for a delightful breakfast experience! Stop by 145 Madison St, Tiffin, Ohio, and enjoy a variety of freshly made breakfast and lunch items, including delicious pierogi and artisanal sourdough breads. Our offerings are available while supplies last, so come early to savor these buzzworthy bites!]]></description>
+            <link>https://www.facebook.com/events/2552806448507241/2552806468507239</link>
+            <guid isPermaLink="false">6880457f89cbcda9534a918b</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F724369285_122218816982310372_3488769939439324188_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>21530</yodel:organizer_id>
+            <yodel:media_alt_text>BREAKFAST &amp; PIEROGI @ JAM’s Markets Saturdays 9a-1p on Jul 4, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Food &amp; Drink.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Farmers Market</b> - 07/04/2026 9:00am EDT to 07/04/2026 1:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:27:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497032777519</link>
+            <guid isPermaLink="false">695354acc4ecec9e67cc2ff0</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf37c2fff737572ace94</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>28779</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Jul 4, 2026 in Tiffin, OH. Featured themes include baked goods and farmers market.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Farmers Market</b> - 07/04/2026 9:00am EDT to 07/04/2026 1:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:26:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497032777519</link>
+            <guid isPermaLink="false">69c79371a43f74832f31b88b</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf37c2fff737572ace94</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>147339</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Jul 4, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/04/2026 1:00pm EDT to 07/04/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:25:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871357278041</link>
+            <guid isPermaLink="false">6a26d6d62e8bf41ad89ed21e</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da218b55d7726d304005</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 4, 2026 in Tiffin, OH. Featured themes include seasonal and summer fun.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/04/2026 1:00pm EDT to 07/04/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:24:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871357278041</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b1268</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da218b55d7726d304005</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 4, 2026 in Tiffin, OH. Featured themes include seasonal and summer activities.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/04/2026 1:00pm EDT to 07/04/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:23:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871357278041</link>
+            <guid isPermaLink="false">6a2782191d1bf96ed998a9d2</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da218b55d7726d304005</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 4, 2026 in Tiffin, OH. Featured themes include exploring tiffin and interactive experience.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/04/2026 1:00pm EDT to 07/04/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:22:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871357278041</link>
+            <guid isPermaLink="false">6a28c9799d82efcf5f311e13</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da218b55d7726d304005</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23110</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 4, 2026 in Tiffin, OH. Featured themes include seasonal and summer fun.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Daybreak Service</b> - 07/05/2026 8:30am EDT to 07/05/2026 9:00am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:21:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
+When: March 1, 2026, 8:30 AM.
+Where: 131 E Perry St, Tiffin, OH.
+All are welcome.
+#DaybreakService #TrinityUCC #TiffinOH #MorningWorship #Community]]></description>
+            <link>https://www.facebook.com/events/1000875442440041/1000875455773373</link>
+            <guid isPermaLink="false">6a1cd8769c548b443914399d</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F706990822_1399825698843913_25659486259840404_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27449</yodel:organizer_id>
+            <yodel:media_alt_text>Daybreak Service on Jul 5, 2026 in Tiffin, OH. Featured themes include community and daybreak service.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Service of the Word</b> - 07/05/2026 10:00am EDT to 07/05/2026 11:00am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:20:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
+            <link>https://www.facebook.com/events/851819797448002/851820507447931</link>
+            <guid isPermaLink="false">6a1cd85b7df867ca5f3062fe</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27449</yodel:organizer_id>
+            <yodel:media_alt_text>Service of the Word on Jul 5, 2026 in Tiffin, OH. Featured themes include online service and service of the word.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/05/2026 1:00pm EDT to 07/05/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:19:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871360611374</link>
+            <guid isPermaLink="false">6a317dd3a025c5cee000dc48</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22997</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 5, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Arts.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/05/2026 1:00pm EDT to 07/05/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:18:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871360611374</link>
+            <guid isPermaLink="false">6a26523e47cbad027275277e</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1f8b55d7726d303ffb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 5, 2026 in Tiffin, OH. Featured themes include wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/05/2026 1:00pm EDT to 07/05/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:17:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871360611374</link>
+            <guid isPermaLink="false">6a26d6d5861aa79c76c9233e</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1f8b55d7726d303ffb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 5, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/05/2026 1:00pm EDT to 07/05/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:16:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871360611374</link>
+            <guid isPermaLink="false">6a28c9799d82efcf5f311e12</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1f8b55d7726d303ffb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23110</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 5, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/05/2026 1:00pm EDT to 07/05/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:15:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871360611374</link>
+            <guid isPermaLink="false">6a2782191d1bf96ed998a9d1</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1f8b55d7726d303ffb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 5, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Make it at Home: Daisy Painting</b> - 07/06/2026 9:30am EDT to 07/06/2026 10:30am EDT]]></title><pubDate>Thu, 30 Jul 2026 23:14:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Tiffin-Seneca Public Library’s virtual craft series for adults, “Make It At Home,” will offer free supply kits and an instructional video on how to make a daisy painting beginning Monday, July 6.
+Patrons can pick up a supply kit at the Information Desk full of almost everything needed to make a craft each month, and will only need to use a few basic supplies from home. An instructional video on how to make the painting will be posted on the Tiffin-Seneca Public Library YouTube channel and Facebook page. Please note that kits will be available on a first-come, first-served basis, and registration is not required. One kit per adult. Must be present to receive your kit.
+This program is free for adults. If all kits are gone, the instruction video and information sheet can still be found at http://www.tiffinsenecalibrary.org/julymakeitathome.]]></description>
+            <link>https://www.facebook.com/events/1793897184930661</link>
+            <guid isPermaLink="false">6a2b33186471d43ba518b051</guid>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F721880330_1442321711272465_5654470566900451903_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Make it at Home: Daisy Painting on Jul 6, 2026 in Tiffin, OH. Featured themes include supply kits and tiffin seneca public library.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/06/2026 1:00pm EDT to 07/06/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:13:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871397278037</link>
+            <guid isPermaLink="false">6a278219dee30bbd9fa5d7c0</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1c8b55d7726d303fee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 6, 2026 in Tiffin, OH. Featured themes include support local and tiffin wild goose chase.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/06/2026 1:00pm EDT to 07/06/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:12:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871397278037</link>
+            <guid isPermaLink="false">6a26d6d52e8bf41ad89ed21d</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1c8b55d7726d303fee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 6, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/06/2026 1:00pm EDT to 07/06/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:11:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871397278037</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b1265</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lhr11-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1c8b55d7726d303fee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 6, 2026 in Tiffin, OH. Featured themes include seasonal and summer activities.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/06/2026 1:00pm EDT to 07/06/2026 4:00pm EDT]]></title><pubDate>Thu, 30 Jul 2026 23:10:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871397278037</link>
+            <guid isPermaLink="false">6a28c979a882b59806114170</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a28da1c8b55d7726d303fee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23110</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 6, 2026 in Tiffin, OH. Featured themes include family activity and interactive experience.</yodel:media_alt_text>
         </item></channel>
 </rss>
