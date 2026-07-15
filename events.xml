@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 22:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 23:39:06 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -42,22 +42,6 @@ The camp is open to all high school and college students, as well as amateur and
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>36602</yodel:organizer_id>
             <yodel:media_alt_text>Music Industry Summer Camp on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin university and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Free Swim Day at the City Pool! - YLFCU</b> - 07/15/2026 1:00pm EDT to 07/15/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
-
- Sponsored by Your Legacy Federal Credit Union, Come beat the heat for free on Wednesday, July 15th! Regular pool hours 1-7PM]]></description>
-            <link>https://www.facebook.com/events/1762227011799142</link>
-            <guid isPermaLink="false">6a4f4ee6b261adcb5215a479</guid>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738068415_1913248470012311_6478490517322260492_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23132</yodel:organizer_id>
-            <yodel:media_alt_text>Free Swim Day at the City Pool! - YLFCU on Jul 15, 2026 in Tiffin, OH. Featured themes include community event and free swim day.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Dine to Donate for CASA of SSW</b> - 07/15/2026 4:00pm EDT to 07/15/2026 8:00pm EDT]]></title>
