@@ -4,24 +4,8 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 19:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 20:37:45 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title>
-            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Here it is, folks! There are still a couple of [...]]]></description>
-            <link>https://ritztheatre.org/events/the-2025-2026-season-of-events/?occurrence=2026-05-01&amp;time=1777622400</link>
-            <guid isPermaLink="false">6a2247902cca8a3fff8604df</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2F2627Season-300x300.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22996</yodel:organizer_id>
-            <yodel:media_alt_text>The 2026-2027 Season of Events on May 1, 2026 in Tiffin, OH. Featured themes include season of events and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
@@ -78,146 +62,6 @@ Enjoy a delicius meal while supporting a great cause!]]></description>
             <yodel:media_alt_text>Bloomville Lions Club Fundraiser Dinner on Jul 15, 2026 in Tiffin, OH. Featured themes include pulled pork and shredded chicken.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>High School Robotics Summer Camp</b> - 07/15/2026 8:00am EDT to 07/15/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
-
- Get ready for an exciting day of robotics at Tiffin University! You’ll learn the basics, write simple code and work with a team to complete fun robot missions in a real university lab. No experience needed – just bring your curiosity.
-• Explore how robots move, respond to code and are controlled through programming.
-• Complete navigation, obstacle courses, accuracy tasks and timed problem-solving activities in teams.
-• Use hands-on robotic programming including Sphero BOLT and Dobot Magician Lite, plus see live demos of the NAO humanoid robot and Spot the robot dog.
-• Gain coding experience, teamwork skills, STEM exposure and celebrate the day with a mini showcase.
-• Open to high school students grades 9-12.]]></description>
-            <link>https://www.facebook.com/events/799546343021972</link>
-            <guid isPermaLink="false">6a0204cffe0f561f0250ab70</guid>
-            <category><![CDATA[School]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin University]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F689482329_1431908142317109_6253904381122674703_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>36602</yodel:organizer_id>
-            <yodel:media_alt_text>High School Robotics Summer Camp on Jul 15, 2026 in Tiffin, OH. Featured themes include seasonal and stem exposure.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
-            <guid isPermaLink="false">6a26523e641c68dc5a8b126b</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include summer activities and support local.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
-            <guid isPermaLink="false">6a2782184e860b5211de20b1</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
-            <guid isPermaLink="false">6a4f1b8b28b86643e6a56d96</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include community support and interactive experience.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
-            <guid isPermaLink="false">6a26d6d4861aa79c76c92337</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Free Swim Day at the City Pool! - YLFCU</b> - 07/15/2026 1:00pm EDT to 07/15/2026 7:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
 
@@ -248,24 +92,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>103581</yodel:organizer_id>
             <yodel:media_alt_text>Dine to Donate for CASA of SSW on Jul 15, 2026 in Tiffin, OH. Featured themes include help children and pizza.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>The Herbal Cocktail Camp</b> - 07/15/2026 6:30pm EDT to 07/15/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- If your summer hosting game needs an upgrade, this is the class for you! Don't serve your friends another basic vodka soda with a sad, shriveled lime wedge! You and your reputation deserve better.
-Welcome to Herbal Cocktail Camp, a masterclass for cocktail enthusiasts and anyone who wants to drink their medicine with a splash of spirits. We are stripping away the pretentious mixology attitude and replacing it with plant magic, liquid alchemy, and a healthy dose of sass.]]></description>
-            <link>https://www.facebook.com/events/983920354278334</link>
-            <guid isPermaLink="false">6a21b1d828bf9e513429d5c1</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840714_1334367365488125_3304698377800066658_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>30852</yodel:organizer_id>
-            <yodel:media_alt_text>The Herbal Cocktail Camp on Jul 15, 2026 in Tiffin, OH. Featured themes include Food &amp; Drink and cocktail enthusiasts.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/16/2026 1:00pm EDT to 07/16/2026 4:00pm EDT]]></title>
@@ -506,21 +332,6 @@ https://www.facebook.com/hashtag/tiffinelks94?__eep__=6&__cft__[0]=AZZLPtSrx__Hr
             <yodel:media_alt_text>&quot;Man Made&quot; Art Show, Displayed July 1st-18th on Jul 16, 2026 in Tiffin, OH. Featured themes include tiffin art guild and tiffin, ohio.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>LIFEGUARDING COURSE</b> - 07/17/2026 12:00am EDT to 07/19/2026 11:59pm EDT]]></title>
-            <description><![CDATA[<b>Location : 180 Summit St, Tiffin, OH 44883, USA</b> 
-
- <p>Ready to make a difference this summer? 🌊☀️</p><p>Become a certified lifeguard and gain the skills to save lives, build confidence, and become a leader!</p><p></p><p>Important Details:</p><p>JULY 17-19, 2026</p><p><strong>Friday 4p-8p, Saturday 8a-5p, &amp; Sunday 8a-5p</strong></p><p>• Blended course format – 7 hours of online coursework must be completed before the first day of class</p><p>• Swim assessment required <strong><u>one week</u></strong> prior to the first class- Friday at 6pm</p><p>• Attendance is mandatory for all scheduled days (no make-up sessions)</p><p>• Registration closes one week before the class begins</p><p>• Limited to just 8 students per class – reserve your spot early!</p><p>Don’t wait—spots fill fast! 📅 Enroll now at the Tiffin Community YMCA and dive into a new opportunity!</p>]]></description>
-            <guid isPermaLink="false">69b9b836ef14b8a8d400ee74</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[YMCA of Bucyrus-Tiffin, Inc]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_5b2535fa-bf89-4e7c-88c3-66e262a0d8be" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27762</yodel:organizer_id>
-            <yodel:media_alt_text>LIFEGUARDING COURSE on Jul 17, 2026 in Tiffin, OH. This is an all-day event with themes including lifeguarding and summer.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>RobSagna Food Truck</b> - 07/17/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 182 St Francis Ave, Tiffin, OH 44883, USA</b> 
 
@@ -535,22 +346,6 @@ https://www.facebook.com/hashtag/tiffinelks94?__eep__=6&__cft__[0]=AZZLPtSrx__Hr
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>169474</yodel:organizer_id>
             <yodel:media_alt_text>RobSagna Food Truck on Jul 17, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and robsagna food truck.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>RobSagna Food Truck</b> - 07/17/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 182 St Francis Ave, Tiffin, OH 44883, USA</b> 
-
- Come on out for some great food!]]></description>
-            <link>https://www.facebook.com/events/1047917567622213</link>
-            <guid isPermaLink="false">6a500752a9ef572182f413b0</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[St. Francis Senior Ministries]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F741285093_2134890207451994_1052164715432017286_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>25245</yodel:organizer_id>
-            <yodel:media_alt_text>RobSagna Food Truck on Jul 17, 2026 in Tiffin, OH. Featured themes include Food &amp; Drink and food truck.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/17/2026 1:00pm EDT to 07/17/2026 4:00pm EDT]]></title>
@@ -687,6 +482,31 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Something Rotten! on Jul 17, 2026 in Tiffin, OH. Featured themes include something rotten and something rotten.</yodel:media_alt_text>
         </item>
         <item>
+            <title><![CDATA[<b>Tiffin Farmers Market</b> - 07/18/2026 12:00am EDT to 07/18/2026 11:59pm EDT]]></title>
+            <description><![CDATA[<b>Location : S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Kickstart your Saturday morning with a visit to the Farmers Market in downtown Tiffin! It's the perfect spot to pick up fresh produce, delicious baked goods, and a warm cup of coffee. Come join the fun!</p>]]></description>
+            <link>https://senecacountycommonground.com/</link>
+            <guid isPermaLink="false">6952acfbf982b236fa3ab1f7_20260718</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_b75124b9-374d-460e-b667-748bbe1dca04" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmers Market on Jul 18, 2026 in Tiffin, OH. This is a recurring all-day event with themes including #downtowntiffin and #healthyliving.</yodel:media_alt_text>
+        </item>
+        <item>
             <title><![CDATA[<b>Tiffin Moose All You Care to Eat Breakfast Buffet</b> - 07/18/2026 9:00am EDT to 07/18/2026 11:00am EDT]]></title>
             <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
 
@@ -761,56 +581,6 @@ Tiffin Ohio 44883]]></description>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>21530</yodel:organizer_id>
             <yodel:media_alt_text>BREAKFAST &amp; PIEROGI @ JAM’s Markets Saturdays 9a-1p on Jul 18, 2026 in Tiffin, OH. Featured themes include Kids &amp; Family and artisan sourdough.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Farmers Market</b> - 07/18/2026 9:00am EDT to 07/18/2026 1:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
-
- We have a great weekend ahead of us with 32 vendors!]]></description>
-            <link>https://www.facebook.com/events/1175558638976412</link>
-            <guid isPermaLink="false">695354acc4ecec9e67cc2ff3</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F745320520_1622764383184757_6874483615303699735_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69f402753e3b7678f603c49b</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>28779</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market on Jul 18, 2026 in Tiffin, OH. Featured themes include weekend and Markets.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Farmers Market</b> - 07/18/2026 9:00am EDT to 07/18/2026 1:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
-
- We have a great weekend ahead of us with 32 vendors!]]></description>
-            <link>https://www.facebook.com/events/1175558638976412</link>
-            <guid isPermaLink="false">69c793715b656aaf2b81f271</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F745320520_1622764383184757_6874483615303699735_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69f402753e3b7678f603c49b</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>147339</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market on Jul 18, 2026 in Tiffin, OH. Featured themes include Markets and community.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin Farmer's Market</b> - 07/18/2026 9:00am EDT to 07/18/2026 1:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 895 E Township Rd 122, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://www.facebook.com/events/1479281737220209/1479281743886875</link>
-            <guid isPermaLink="false">6a3f883f18875a334e1707a5</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Homestead 6:33]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F721626427_2252768822184568_5972254856920877938_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>193973</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin Farmer&apos;s Market on Jul 18, 2026 in Tiffin, OH. Featured themes include homestead and tiffin farmer&apos;s market.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>CHRISTMAS IN JULY!</b> - 07/18/2026 9:00am EDT to 07/18/2026 2:00pm EDT]]></title>
@@ -999,22 +769,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 18, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Cultivating Cones and Corks</b> - 07/18/2026 5:00pm EDT to 07/18/2026 9:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Join us for an evening celebrating Ohio agriculture with local wine, homemade ice cream, and great company.Register online or call the office to register! 419-447-3091]]></description>
-            <link>https://ofbf.org/community/events/cultivating-cones-and-corks/</link>
-            <guid isPermaLink="false">6a3bed48955970f37435c6b1</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Wyandot County Farm Bureau]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F70fd2e67-ec40-4b32-a3b9-fb55ddac4c97.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>16763</yodel:organizer_id>
-            <yodel:media_alt_text>Cultivating Cones and Corks on Jul 18, 2026 in Tiffin, OH. Featured themes include events and great company.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>9 to 5: The Musical</b> - 07/18/2026 7:30pm EDT to 07/18/2026 8:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -1030,68 +784,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>9 to 5: The Musical on Jul 18, 2026 in Tiffin, OH. Featured themes include Film and Music &amp; Entertainment.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Daybreak Service</b> - 07/19/2026 8:30am EDT to 07/19/2026 9:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
-When: March 1, 2026, 8:30 AM.
-Where: 131 E Perry St, Tiffin, OH.
-All are welcome.
-#DaybreakService #TrinityUCC #TiffinOH #MorningWorship #Community]]></description>
-            <link>https://www.facebook.com/events/1000875442440041/1000875472440038</link>
-            <guid isPermaLink="false">6a1cd8769c548b44391439a0</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F706990822_1399825698843913_25659486259840404_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Daybreak Service on Jul 19, 2026 in Tiffin, OH. Featured themes include community and daybreak service.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 07/19/2026 10:00am EDT to 07/19/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
-            <link>https://www.facebook.com/events/851819797448002/851820504114598</link>
-            <guid isPermaLink="false">6a1cd85b9714040ea6862fcf</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Service of the Word on Jul 19, 2026 in Tiffin, OH. Featured themes include worship and Religious.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>JAM’s Growing together Kids Class series July Lizard Lessons and Creative Adventures</b> - 07/19/2026 12:00pm EDT to 07/19/2026 1:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Join us for Lizard Lessons & Creative Adventures, a fun-filled event inspired by the book Who Pooped On Me? by David Cunliffe! Kids will explore the wonders of nature, curiosity, and creativity through exciting hands-on activities and colorful crafts.
-Young explorers will decorate their own wooden lizard with bright paints and fun designs, then create a sweet and cheerful ice cream craft that shows off their imagination and personality. Along the way, kids will discover an important lesson from the story, it’s okay not to have all the answers! Asking questions, exploring nature, and trying new things help us learn, grow, and become confident creators.
-This playful event encourages curiosity, kindness, creativity, and self-expression in a positive and welcoming environment where every child can shine.
-Explore nature.
-Create boldly.
-Learn through curiosity.
-Have fun along the way!
-Ages 9 and up
-Location: JAM’s Markets
-Date & Time: Sunday July 19th 12:00 pm]]></description>
-            <link>https://www.facebook.com/events/1381414817213517</link>
-            <guid isPermaLink="false">6a4ac1a612fc210757c0f56a</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F747122497_1427799615652456_8289528916950613502_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21530</yodel:organizer_id>
-            <yodel:media_alt_text>JAM’s Growing together Kids Class series July Lizard Lessons and Creative Adventures on Jul 19, 2026 in Tiffin, OH. Featured themes include creative adventures and jam’s growing together kids class series july lizard lessons and creative adventures.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/19/2026 1:00pm EDT to 07/19/2026 4:00pm EDT]]></title>
@@ -1454,23 +1146,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 20, 2026 in Tiffin, OH. Featured themes include wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>10:30a | Family Storytime</b> - 07/21/2026 10:30am EDT to 07/21/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Tiffin-Seneca Public Library for "Family Storytime" on Tuesdays, July 7, 14, and 21 at 10:30 a.m. in the Frost Kalnow Room. This engaging program offers stories, songs, rhymes, and games suitable for the whole family, with no registration required. All ages are welcome as part of the 2026 Summer Reading Program, “Unearth a Story.” For more details, visit the Junior Library, call 419-447-3751, or check the library's website at http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">6a2b5f07390a64d4acfb857f</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>10:30a | Family Storytime on Jul 21, 2026 in Tiffin, OH. Featured themes include all ages and engaging program.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/21/2026 1:00pm EDT to 07/21/2026 4:00pm EDT]]></title>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
@@ -1618,57 +1293,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>31330</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 21, 2026 in Tiffin, OH. Featured themes include Parks &amp; Rec and exploring tiffin.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 07/21/2026 2:00pm EDT to 07/21/2026 3:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for "Teen Tuesday: Summer Edition!" at the Tiffin-Seneca Public Library, happening on Tuesdays, July 7, 14, and 21 from 2:00 p.m. to 3:30 p.m. in the Frost Kalnow Room. This weekly hangout is open to teens entering grades 6 through 12 and will feature games, snacks, crafts, and more, as part of the 2026 Summer Reading Program "Unearth a Story." For more details, visit http://www.tiffinsenecalibrary.org/ or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/2124376281470170/2124376294803502</link>
-            <guid isPermaLink="false">6a2cf075d959aa8ac5cb4325</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F723144766_1443180984519871_1607726388585591910_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Teen Tuesday: Summer Edition! on Jul 21, 2026 in Tiffin, OH. Featured themes include teen tuesday and teen tuesday: summer edition.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>6p | Trivia Tuesday: America 250 Edition!</b> - 07/21/2026 6:00pm EDT to 07/21/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for "Trivia Tuesday: America 250 Edition!" at the Tiffin-Seneca Public Library on Tuesday, July 21, from 6:00 to 8:00 p.m. in the Frost Kalnow Room. This adult trivia night features six rounds of exciting questions celebrating America 250, promising an evening filled with fun, facts, and friendly competition. Compete for a chance to win a custom 3D-printed trophy made at the Library. This free event is open to adults and teens, but space is limited, so registration is required. Visit our online calendar at http://www.tiffinsenecalibrary.org/ or call (419) 447-3751 for more information.]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">6a3b87c50bb8c22e98b8dbb6</guid>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>6p | Trivia Tuesday: America 250 Edition! on Jul 21, 2026 in Tiffin, OH. Featured themes include adult event and america 250.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Rubber Ducky Wednesday</b> - 07/22/2026 11:00am EDT to 07/22/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Youth Services Department at the Tiffin-Seneca Public Library will host “Rubber Ducky Wednesday” on Wednesdays, July 1, 8, 15, and 22 at 11:00 a.m. in the Frost Kalnow Room.
-Babies age birth to 35 months and their caregivers are invited to a story time on July 1, July 8, and July 15 with books, songs and lap bounces. On July 22, join the Library for a play date with toys and books for the babies to enjoy together. This program is part of the 2026 Summer Reading Program, “Unearth a Story.”
-For more information, stop by the Junior Library, call 419-447-3751, or log on to http://www.tiffinsenecalibrary.org/]]></description>
-            <link>https://www.facebook.com/events/985513964192501/985513974192500</link>
-            <guid isPermaLink="false">6a28f31125a85475d07324b4</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F718073624_1441002728071030_1770903362066541031_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Rubber Ducky Wednesday on Jul 22, 2026 in Tiffin, OH. Featured themes include seasonal and story time.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/22/2026 1:00pm EDT to 07/22/2026 4:00pm EDT]]></title>
@@ -2017,23 +1641,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Archery 101 on Jul 23, 2026 in Tiffin, OH. Featured themes include seneca parks and Classes/Workshops.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Teen Art Club</b> - 07/23/2026 2:00pm EDT to 07/23/2026 3:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Teen Art Club hosted by the Tiffin-Seneca Public Library for an exciting opportunity to unleash your creativity! This event will take place on Thursdays, July 9 and 23, from 2:00 to 3:30 p.m. in the Junior Home Room. Open to teens in grades 6 through 12, participants are encouraged to bring their own drawings and projects, or simply drop in to explore new crafts. The library will provide various craft supplies and the chance to learn new artistic skills as part of the 2026 Summer Reading Program called “Unearth a Story.” For more details, visit http://www.tiffinsenecalibrary.org/ or call 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1368794365418043/1368794375418042</link>
-            <guid isPermaLink="false">6a2cf072e2ee31b5fd2835a1</guid>
-            <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F721082922_1443190957852207_4413919339470001410_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Teen Art Club on Jul 23, 2026 in Tiffin, OH. Featured themes include grades 6 through 12 and seasonal.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Roots & Branches Family Art Project</b> - 07/23/2026 6:00pm EDT to 07/23/2026 7:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -2329,6 +1936,31 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>Something Rotten! on Jul 24, 2026 in Tiffin, OH. Featured themes include romantic comedy and seasonal.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Farmers Market</b> - 07/25/2026 12:00am EDT to 07/25/2026 11:59pm EDT]]></title>
+            <description><![CDATA[<b>Location : S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Kickstart your Saturday morning with a visit to the Farmers Market in downtown Tiffin! It's the perfect spot to pick up fresh produce, delicious baked goods, and a warm cup of coffee. Come join the fun!</p>]]></description>
+            <link>https://senecacountycommonground.com/</link>
+            <guid isPermaLink="false">6952acfbf982b236fa3ab1f7_20260725</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_b75124b9-374d-460e-b667-748bbe1dca04" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmers Market on Jul 25, 2026 in Tiffin, OH. This is a recurring all-day event with themes including #healthyliving and #shoplocal.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 07/25/2026 9:00am EDT to 07/25/2026 12:00pm EDT]]></title>
@@ -2662,42 +2294,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>9 to 5: The Musical on Jul 25, 2026 in Tiffin, OH. Featured themes include 5 the musical and dolly parton.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Daybreak Service</b> - 07/26/2026 8:30am EDT to 07/26/2026 9:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
-When: March 1, 2026, 8:30 AM.
-Where: 131 E Perry St, Tiffin, OH.
-All are welcome.
-#DaybreakService #TrinityUCC #TiffinOH #MorningWorship #Community]]></description>
-            <link>https://www.facebook.com/events/1000875442440041/1000875462440039</link>
-            <guid isPermaLink="false">6a1cd8779c548b44391439a1</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F706990822_1399825698843913_25659486259840404_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Daybreak Service on Jul 26, 2026 in Tiffin, OH. Featured themes include reflection and tiffin, ohio.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 07/26/2026 10:00am EDT to 07/26/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
-            <link>https://www.facebook.com/events/851819797448002/851820497447932</link>
-            <guid isPermaLink="false">6a1cd85b9714040ea6862fce</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Service of the Word on Jul 26, 2026 in Tiffin, OH. Featured themes include service of the word and spirituality.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/26/2026 1:00pm EDT to 07/26/2026 4:00pm EDT]]></title>
@@ -3213,25 +2809,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 27, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Kids &amp; Family.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Prayer Day</b> - 07/28/2026 9:00am EDT to 07/28/2026 8:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 161 OH-101, Tiffin, OH 44883, USA</b> 
-
- We know it's not National Prayer Day anymore, but we are having a Prayer Day on July 28th.
-Between the hours of 9AM and 3PM you can come into the Church and pray for whatever it is that's worrying you or whatever praises you feel the need to tell Jesus.
-THEN we are then having a community prayer time at Hedges Boyer Park at 7:30PM!
-We'd love to see you all join us!]]></description>
-            <link>https://www.facebook.com/events/3051055291935869</link>
-            <guid isPermaLink="false">6a5483de28ab8b3674223470</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Grace Baptist Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F744871449_4005373996433068_212061685874228802_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27451</yodel:organizer_id>
-            <yodel:media_alt_text>Prayer Day on Jul 28, 2026 in Tiffin, OH. Featured themes include church and community prayer.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/28/2026 1:00pm EDT to 07/28/2026 4:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
@@ -3441,55 +3018,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 28, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Arts.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Teen Summer Reading Wrap-Up Party</b> - 07/28/2026 2:00pm EDT to 07/28/2026 3:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join us for the Teen Summer Reading Wrap-Up Party at Tiffin-Seneca Public Library on Tuesday, July 28, from 2:00 to 3:30 p.m. in the Frost Kalnow Room. Teens entering grades six through twelve are invited to celebrate the conclusion of the 2026 summer reading program, “Unearth a Story.” Enjoy an afternoon filled with pizza, ice cream, games, and the opportunity to hang out with friends. For more information, call 419-447-3751 or visit http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://www.facebook.com/events/37904037375862424</link>
-            <guid isPermaLink="false">6a4dae8e7649f5bca81717cc</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F741606608_1466457088858927_6669278918003549539_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Teen Summer Reading Wrap-Up Party on Jul 28, 2026 in Tiffin, OH. Featured themes include celebrate and grades six through twelve.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>American Girl Series</b> - 07/29/2026 10:00am EDT to 07/29/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
-
- Become an American Girl for an afternoon as we read a short chapter, then prepare for a project that an American Girl would do.  Join Linda Rose in a make our own boats.   All supplies provided. For ages 6 - 12. Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/07/29/american-girl-series</link>
-            <guid isPermaLink="false">6a2a0cd0bbd0912e869ec559</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>American Girl Series on Jul 29, 2026 in Tiffin, OH. Featured themes include seneca parks and Kids &amp; Family.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Rubber Ducky Sensory Fun</b> - 07/29/2026 11:00am EDT to 07/29/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Youth Services Department at the Tiffin-Seneca Public Library for "Rubber Ducky Sensory Fun" on Wednesday, July 29 at 11:00 a.m. in the Frost Kalnow Room. This engaging event is designed for babies aged birth to 18 months and their caregivers, offering a variety of sensory experiences that support the babies' developing minds. The program is part of the 2026 Summer Reading Program theme “Unearth a Story.” For more information, visit the Junior Library, call 419-447-3751, or check the website at http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://www.facebook.com/events/1525295865922579</link>
-            <guid isPermaLink="false">6a2cf075d959aa8ac5cb4324</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F722911085_1443223954515574_4550102920492171516_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Rubber Ducky Sensory Fun on Jul 29, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and babies.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Anne Wilson with Special guest Band Reeves</b> - 07/29/2026 6:00pm EDT to 07/29/2026 10:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
@@ -3651,39 +3179,29 @@ Books are available at Pan Yan Bookstore in downtown Tiffin and also through the
             <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 30, 2026 in Tiffin, OH. Featured themes include tiffin parks recreation and tiffin, ohio.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>(Varsity Girls' Golf) Buckeye Central High School vs Seneca East High School</b> - 07/31/2026 11:00am EDT to 07/31/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 2760 E Township Rd 122, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin Farmers Market</b> - 08/01/2026 12:00am EDT to 08/01/2026 11:59pm EDT]]></title>
+            <description><![CDATA[<b>Location : S Washington St, Tiffin, OH 44883, USA</b> 
 
- Varsity Girls' Golf
-Participants: Seneca East, Buckeye Central, Bucyrus Secondary, Calvert Catholic Schools, Carey, Colonel Crawford Local Schools, Hopewell-Loudon Local, Lucas, Mohawk, New Riegel, Old Fort Local Schools, Upper Sandusky, Willard, Wynford]]></description>
-            <link>https://go.dragonflyathletics.com/sites/OHSAA/HD8NLF/about?sport=GO&amp;level=Varsity&amp;team=W</link>
-            <guid isPermaLink="false">6a4d5e642c33ca802d754355</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Wynford Local School District]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fcdn2buckets-live-s3dfaaws-1mlao80q0xoqe.s3.amazonaws.com%2F8631aa42-fbd5-47a3-a4a6-4053c749a7e9%3FAWSAccessKeyId%3DAKIAIUQNYZUJLIOKKJ3A%26Expires%3D1814982612%26Signature%3DIRoVHekigcErSM4L4j8qtGmHTEg%253D" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>16213</yodel:organizer_id>
-            <yodel:media_alt_text>(Varsity Girls&apos; Golf) Buckeye Central High School vs Seneca East High School on Jul 31, 2026 in Tiffin, OH. Featured themes include high school and local schools.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Ice Cream Extravaganza & BINGO</b> - 07/31/2026 3:00pm EDT to 07/31/2026 4:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Join the Tiffin-Seneca Public Library on Friday, July 31, from 3:00 to 4:30 p.m. in the Frost Kalnow Room for the “Ice Cream Extravaganza and BINGO!” This special event celebrates the hardworking youth participants of the 2025 Summer Reading Program. Enjoy creating your own sundae while playing BINGO, designed for toddlers through fifth-grade children and their families. For more details or a complete list of summer reading events, please call (419) 447-3751 or visit http://www.tiffinsenecalibrary.org/.]]></description>
-            <link>https://www.facebook.com/events/1567540601459219</link>
-            <guid isPermaLink="false">6a2cf07ad959aa8ac5cb432a</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
+ <p>Kickstart your Saturday morning with a visit to the Farmers Market in downtown Tiffin! It's the perfect spot to pick up fresh produce, delicious baked goods, and a warm cup of coffee. Come join the fun!</p>]]></description>
+            <link>https://senecacountycommonground.com/</link>
+            <guid isPermaLink="false">6952acfbf982b236fa3ab1f7_20260801</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Hobbies]]></category>
             <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F722911096_1443245161180120_1503135197421019220_n.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_b75124b9-374d-460e-b667-748bbe1dca04" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Ice Cream Extravaganza &amp; BINGO on Jul 31, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and ice cream extravaganza &amp; bingo.</yodel:media_alt_text>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmers Market on Aug 1, 2026 in Tiffin, OH. This is a recurring all-day event with themes including #supportlocalfarmers and Business.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 08/01/2026 9:00am EDT to 08/01/2026 12:00pm EDT]]></title>
@@ -3916,40 +3434,6 @@ Suggested suppy list available at Allen Eiry Center and online at https://united
             <yodel:media_alt_text>&quot;Colored Pencil Marble&quot; Tuesday August 4, 12pm-3pm #08042601 on Aug 4, 2026 in Tiffin, OH. Featured themes include drawing techniques and preregistration required.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Tom Sawyer Days</b> - 08/04/2026 4:00pm EDT to 08/04/2026 5:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
-
- Become Tom Sawyer for the afternoon as we read a short story about his life and then re-enact an adventure.  Dress to get dirty and wet as we will be in the river,   Old shoes or boots recommended. For ages 6-12. Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/08/04/tom-sawyer-days</link>
-            <guid isPermaLink="false">6a3cdb1742820f4f615d36f2</guid>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>Tom Sawyer Days on Aug 4, 2026 in Tiffin, OH. Featured themes include Parks &amp; Rec and ages 6-12.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Back to School Bash</b> - 08/04/2026 5:00pm EDT to 08/04/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 75 S Sandusky St, Tiffin, OH 44883, USA</b> 
-
- The school year is about to begin & it's not too late to enroll! Join us to celebrate the back to school season and prepare for the year ahead. Come to our BTS Bash to enjoy inflatable games & activities, meet our teachers, school tour, and a school supply giveaway for enrolled students! RSVP Today https://bpatiffin.org/events/]]></description>
-            <link>https://www.facebook.com/events/28054544130796240</link>
-            <guid isPermaLink="false">6a47b28bfa396a5f3ade85b6</guid>
-            <category><![CDATA[School]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Bridges Preparatory Academy]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F732628669_1603346425134923_2101618940063522763_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>25227</yodel:organizer_id>
-            <yodel:media_alt_text>Back to School Bash on Aug 4, 2026 in Tiffin, OH. Featured themes include Kids &amp; Family and back to school bash.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Stuff The Bus School Supply Drive for Seneca: Drop Off Supplies</b> - 08/05/2026 8:30am EDT to 08/05/2026 3:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
@@ -4020,24 +3504,6 @@ Suggested suppy list available at Allen Eiry Center and online at https://united
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>27448</yodel:organizer_id>
             <yodel:media_alt_text>Stuff The Bus School Supply Drive for Seneca: Drop Off Supplies on Aug 6, 2026 in Tiffin, OH. Featured themes include donations and school supplies.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>(Varsity Boys' Golf) Buckeye Central High School vs Seneca East High School</b> - 08/06/2026 10:00am EDT to 08/06/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 2760 E Township Rd 122, Tiffin, OH 44883, USA</b> 
-
- Varsity Boys' Golf
-Participants: Seneca East, Buckeye Central, Bucyrus Secondary, Calvert Catholic Schools, Carey, Colonel Crawford Local Schools, Hopewell-Loudon Local, Lucas, Mohawk, New Riegel, Old Fort Local Schools, Upper Sandusky, Willard, Wynford]]></description>
-            <link>https://go.dragonflyathletics.com/sites/OHSAA/HD8NLF/about?sport=GO&amp;level=Varsity&amp;team=M</link>
-            <guid isPermaLink="false">6a4d217c03f762547e729a12</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Wynford Local School District]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fcdn2buckets-live-s3dfaaws-1mlao80q0xoqe.s3.amazonaws.com%2F8631aa42-fbd5-47a3-a4a6-4053c749a7e9%3FAWSAccessKeyId%3DAKIAIUQNYZUJLIOKKJ3A%26Expires%3D1814923137%26Signature%3DDTsYoEI7m3AXeNgnzXrFUl0XxDc%253D" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>16213</yodel:organizer_id>
-            <yodel:media_alt_text>(Varsity Boys&apos; Golf) Buckeye Central High School vs Seneca East High School on Aug 6, 2026 in Tiffin, OH. Featured themes include participants and seneca east.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Taste of Greece</b> - 08/06/2026 6:30pm EDT to 08/06/2026 8:00pm EDT]]></title>
@@ -4204,6 +3670,31 @@ Because loud bikes save quiet lives.]]></description>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>25247</yodel:organizer_id>
             <yodel:media_alt_text>LoudFest 2026 on Aug 7, 2026 in Tiffin, OH. Featured themes include Festivals/Fairs and Health &amp; Fitness.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Farmers Market</b> - 08/08/2026 12:00am EDT to 08/08/2026 11:59pm EDT]]></title>
+            <description><![CDATA[<b>Location : S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Kickstart your Saturday morning with a visit to the Farmers Market in downtown Tiffin! It's the perfect spot to pick up fresh produce, delicious baked goods, and a warm cup of coffee. Come join the fun!</p>]]></description>
+            <link>https://senecacountycommonground.com/</link>
+            <guid isPermaLink="false">6952acfbf982b236fa3ab1f7_20260808</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_b75124b9-374d-460e-b667-748bbe1dca04" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmers Market on Aug 8, 2026 in Tiffin, OH. This is a recurring all-day event with themes including #shoplocal and #supportlocalfarmers.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>"Panda"  Saturday, August 8, 2026 9am-12pm #08082601</b> - 08/08/2026 9:00am EDT to 08/08/2026 12:00pm EDT]]></title>
@@ -4392,22 +3883,6 @@ No registration required but you must bring supply list from the school for pick
             <yodel:media_alt_text>Stuff The Bus School Supply Drive for Seneca: Pick Up Supplies for Your Student on Aug 11, 2026 in Tiffin, OH. Featured themes include stuff the bus and supply list.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Senior Health Check Clinic</b> - 08/12/2026 9:30am EDT to 08/12/2026 11:15am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Join us for the Senior Health Check Clinic, a free event available for individuals aged 60 and above. No need for an appointment—just drop in to receive valuable health checks tailored for seniors!]]></description>
-            <link>https://www.facebook.com/events/1495254031902828</link>
-            <guid isPermaLink="false">6a5053ef7a0984fed4b8d869</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F742573127_1519383633556999_834696932020362422_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22966</yodel:organizer_id>
-            <yodel:media_alt_text>Senior Health Check Clinic on Aug 12, 2026 in Tiffin, OH. Featured themes include senior health check clinic and tiffin, ohio.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>WEW- Sewing with Erin</b> - 08/12/2026 6:00pm EDT to 08/12/2026 7:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
 
@@ -4543,24 +4018,6 @@ Welcome to Herbal Mocktail Camp, a masterclass for non-drinkers, designated driv
             <yodel:media_alt_text>Thursday Night Tunes (TNT) on Aug 13, 2026 in Tiffin, OH. Featured themes include concert series and free.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>(Varsity Girls' Golf) Fremont Ross High School vs Columbian High School</b> - 08/14/2026 11:00am EDT to 08/14/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 2760 E Township Rd 122, Tiffin, OH 44883, USA</b> 
-
- Varsity Girls' Golf
-Participants: Fremont Ross, Clyde, Carey, Wynford, Bellevue, Anthony Wayne, Madison Comprehensive, Norwalk, Hopewell-Loudon Local, Margaretta, Perkins, Perrysburg, Old Fort Local Schools, Port Clinton, Willard, Pike-Delta-York School/High, Kalida School/Junior High, Seneca East, Columbian]]></description>
-            <link>https://go.dragonflyathletics.com/sites/OHSAA/HD8NLF/about?sport=GO&amp;level=Varsity&amp;team=W</link>
-            <guid isPermaLink="false">6a4d5e633f673fbae68ccd1a</guid>
-            <category><![CDATA[School]]></category>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Wynford Local School District]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fcdn2buckets-live-s3dfaaws-1mlao80q0xoqe.s3.amazonaws.com%2F8631aa42-fbd5-47a3-a4a6-4053c749a7e9%3FAWSAccessKeyId%3DAKIAIUQNYZUJLIOKKJ3A%26Expires%3D1814982612%26Signature%3DIRoVHekigcErSM4L4j8qtGmHTEg%253D" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>16213</yodel:organizer_id>
-            <yodel:media_alt_text>(Varsity Girls&apos; Golf) Fremont Ross High School vs Columbian High School on Aug 14, 2026 in Tiffin, OH. Featured themes include fremont ross high school and high school.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Nonprofit Leadership Alliance | Advocacy in Action: Engaging Local Leaders</b> - 08/14/2026 11:00am EDT to 08/14/2026 12:00pm EDT]]></title>
             <description><![CDATA[<b>Location : Gillmor Student Center, 190 Miami St, Tiffin, OH 44883, USA</b> 
 
@@ -4619,22 +4076,6 @@ Take advantage of this opportunity to build relationships, strengthen your advoc
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22966</yodel:organizer_id>
             <yodel:media_alt_text>End Human Trafficking on Aug 14, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and providing education.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>American Girl Series</b> - 08/14/2026 4:00pm EDT to 08/14/2026 5:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
-
- Become an American Girl for an afternoon as we read a short chapter, then prepare for a project that an American Girl would do.  Join Linda Rose in a sock doll project.  For ages 6-12.  All supplies provided.  Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/08/14/american-girl-series</link>
-            <guid isPermaLink="false">6a3cdb1f40d64b27c52afa37</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>American Girl Series on Aug 14, 2026 in Fort Seneca, OH. Featured themes include Kids &amp; Family and ages 6-12.</yodel:media_alt_text>
         </item>
     </channel>
 </rss>
