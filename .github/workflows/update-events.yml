@@ -1,0 +1,90 @@
+name: Update TU Yodel RSS Feed
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Run once every hour, at 35 minutes past the hour
+    - cron: "35 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download Yodel feed
+        run: |
+          curl \
+            --location \
+            --silent \
+            --show-error \
+            --max-time 60 \
+            --output events-new.xml \
+            "https://my.yodel.today/api/v3/export/widget/rss_v1/69cd4988e35c43a0210a1c4b"
+
+      - name: Validate downloaded RSS
+        run: |
+          python3 - <<'PY'
+          import os
+          import sys
+          import xml.etree.ElementTree as ET
+
+          filename = "events-new.xml"
+
+          if not os.path.exists(filename):
+              print("The downloaded file does not exist.")
+              sys.exit(1)
+
+          if os.path.getsize(filename) < 100:
+              print("The downloaded file is unexpectedly small.")
+              sys.exit(1)
+
+          try:
+              tree = ET.parse(filename)
+          except ET.ParseError as error:
+              print(f"The downloaded file is not valid XML: {error}")
+              sys.exit(1)
+
+          root = tree.getroot()
+          root_name = root.tag.split("}")[-1].lower()
+
+          if root_name not in ("rss", "rdf"):
+              print(f"Unexpected XML root element: {root.tag}")
+              sys.exit(1)
+
+          channel = None
+
+          for element in root.iter():
+              if element.tag.split("}")[-1].lower() == "channel":
+                  channel = element
+                  break
+
+          if channel is None:
+              print("The XML does not contain an RSS channel.")
+              sys.exit(1)
+
+          print("The downloaded file appears to be valid RSS.")
+          PY
+
+      - name: Replace existing feed
+        run: mv events-new.xml events.xml
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add events.xml
+
+          if git diff --cached --quiet; then
+            echo "The feed has not changed."
+          else
+            git commit -m "Automatically update TU RSS feed"
+            git push
+          fi
