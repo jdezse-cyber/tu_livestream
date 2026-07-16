@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 23:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 03:50:29 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -42,22 +42,6 @@ The camp is open to all high school and college students, as well as amateur and
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>36602</yodel:organizer_id>
             <yodel:media_alt_text>Music Industry Summer Camp on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin university and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Dine to Donate for CASA of SSW</b> - 07/15/2026 4:00pm EDT to 07/15/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 69 W Market St, Tiffin, OH 44883, USA</b> 
-
- <p>Save yourself from the &quot;What&#39;s for dinner?&quot; debate!</p><p>Skip the meal planning, avoid the dishes, and let <strong>Heavenly Pizza</strong> handle dinner on <strong>Wednesday, July 15, from 4–8 PM</strong>.</p><p>It&#39;s a two-for-one: your family gets a delicious meal, and <strong>15% of sales</strong> will help CASA of SSW recruit and train volunteers to give a voice to abused and neglected children in our community. </p><p>Now that&#39;s a dinner decision you can feel good about! </p>]]></description>
-            <link>https://casaofssw.org/</link>
-            <guid isPermaLink="false">6a4bc8ea751fd2a22d3a475c</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[CASA of SSW]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_dc0257dc-442a-45c8-a2f2-9dc13b1fdcef" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>103581</yodel:organizer_id>
-            <yodel:media_alt_text>Dine to Donate for CASA of SSW on Jul 15, 2026 in Tiffin, OH. Featured themes include help children and pizza.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/16/2026 1:00pm EDT to 07/16/2026 4:00pm EDT]]></title>
@@ -1879,12 +1863,12 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[The Barn at Seneca Hills]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F731461744_122312548064195901_2764021568358859463_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F731461744_122312548064195901_2764021568358859463_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>25535</yodel:organizer_id>
-            <yodel:media_alt_text>Christmas in July on Jul 24, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and Kids &amp; Family.</yodel:media_alt_text>
+            <yodel:media_alt_text>Christmas in July on Jul 24, 2026 in Tiffin, OH. Featured themes include live entertainment and new riegel, ohio.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Something Rotten!</b> - 07/24/2026 7:30pm EDT to 07/24/2026 8:30pm EDT]]></title>
@@ -4042,6 +4026,160 @@ Take advantage of this opportunity to build relationships, strengthen your advoc
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22966</yodel:organizer_id>
             <yodel:media_alt_text>End Human Trafficking on Aug 14, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and providing education.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Farmers Market</b> - 08/15/2026 12:00am EDT to 08/15/2026 11:59pm EDT]]></title>
+            <description><![CDATA[<b>Location : S Washington St, Tiffin, OH 44883, USA</b> 
+
+ <p>Kickstart your Saturday morning with a visit to the Farmers Market in downtown Tiffin! It's the perfect spot to pick up fresh produce, delicious baked goods, and a warm cup of coffee. Come join the fun!</p>]]></description>
+            <link>https://senecacountycommonground.com/</link>
+            <guid isPermaLink="false">6952acfbf982b236fa3ab1f7_20260815</guid>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_b75124b9-374d-460e-b667-748bbe1dca04" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmers Market on Aug 15, 2026 in Tiffin, OH. This is a recurring all-day event with themes including #healthyliving and #shoplocal.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 08/15/2026 9:00am EDT to 08/15/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Chocolate covered strawberry cups are returning! $5 each until sold old!
+Come see us every Saturday during the farmers market!
+70 s Washington. St
+Tiffin Ohio 44883]]></description>
+            <link>https://www.facebook.com/events/975102355101819/977536194858435</link>
+            <guid isPermaLink="false">6a0ee4a252fd5f960d62361b</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702232119_1490482476425599_7776531371405123729_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23110</yodel:organizer_id>
+            <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on Aug 15, 2026 in Tiffin, OH. Featured themes include Festivals/Fairs and affordable treats.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Farmers Market</b> - 08/15/2026 9:00am EDT to 08/15/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497076110848</link>
+            <guid isPermaLink="false">695354adc4ecec9e67cc2ff9</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf3ac2fff737572acea5</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>28779</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Aug 15, 2026 in Tiffin, OH. Featured themes include community and flowers.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Farmers Market</b> - 08/15/2026 9:00am EDT to 08/15/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
+            <link>https://www.facebook.com/events/2509497022777520/2509497076110848</link>
+            <guid isPermaLink="false">69c79371154c882133e8617e</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lhr6-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69efaf3ac2fff737572acea5</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>147339</yodel:organizer_id>
+            <yodel:media_alt_text>Farmers Market on Aug 15, 2026 in Tiffin, OH. Featured themes include flowers and fresh produce.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Farmer's Market</b> - 08/15/2026 9:00am EDT to 08/15/2026 1:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 895 E Township Rd 122, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://www.facebook.com/events/1479281737220209/1479281753886874</link>
+            <guid isPermaLink="false">6a3f883f18875a334e1707a2</guid>
+            <category><![CDATA[Markets]]></category>
+            <dc:creator><![CDATA[Homestead 6:33]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F721626427_2252768822184568_5972254856920877938_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>193973</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin Farmer&apos;s Market on Aug 15, 2026 in Tiffin, OH. Featured themes include farmer&apos;s market and homestead.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 08/15/2026 9:00am EDT to 08/15/2026 4:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Come join us for a fun weekend of shopping for your next treasure.]]></description>
+            <link>https://www.facebook.com/events/1447622130186355/1447622153519686</link>
+            <guid isPermaLink="false">69ea3f26e12d0f6eb7acb6df</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a044cc434a49ebc0d3c42f7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>157226</yodel:organizer_id>
+            <yodel:media_alt_text>2026 Tiffin Flea Market on Aug 15, 2026 in Tiffin, OH. Featured themes include fun and shopping.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 08/15/2026 9:00am EDT to 08/15/2026 4:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Come join us for a fun weekend of shopping for your next treasure.]]></description>
+            <link>https://www.facebook.com/events/1447622130186355/1447622153519686</link>
+            <guid isPermaLink="false">6a043d6b4f7b8d7348dfa088</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a044cc434a49ebc0d3c42f7</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>169473</yodel:organizer_id>
+            <yodel:media_alt_text>2026 Tiffin Flea Market on Aug 15, 2026 in Tiffin, OH. Featured themes include weekend and Markets.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>19th Annual Summer Harvest Gourmet Gala</b> - 08/15/2026 6:00pm EDT to 08/15/2026 9:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 200 St Francis Ave, Tiffin, OH 44883, USA</b> 
+
+ Saturday, August 15 (6:00-9:00pm) 19th Annual Summer Harvest Gourmet Gala benefitting the Franciscan Earth Literacy Center & Seeds of Hope Farm will be held on the St. Francis Campus, 200 St. Francis Ave., Tiffin.
+Cost $50/person. Includes: Heavy appetizers made with chemical-free farm produce grown on the Seeds of Hope Farm provided by local restaurants and universities and assorted desserts, live cooking demonstrations and wine & brews from local wineries and breweries, and live music by Mimi Johnston. Ticket holders will also receive 1 general raffle entry, 1 Gift Card Tree (worth $250) entry and a Chance to Win $500 entry. Additional tickets may be purchased. There will also be a 50/50, Live/Silent and Online Auction Items, Wine Grab and more.
+Enter into as special "Florida Getaway" raffle donated by Tony and Robin Gorrell. This Waterfront House on the Isle of Palms Island, located in Treasure Island, Florida (north of St. Petersburg Beach) with a private pool and two full baths for up to 6 guests for one week (available September - December 2025 or April - December 15, 2026). Value: $2200. Tickets are $30 ea. or 4 for $100 and you do not need to be present to win. Don’t forget to bid on online auction items between Aug 7th – 14th at https://www.32auctions.com/FELCGala2026.
+Be entered into an Early Bird Drawing if ticket is purchased before July 1st https://dsnp.co/3JHZ7o. Winners of all raffle drawings will be announced at the event, posted on Facebook and contacted by phone. Deadline to purchase tickets: August 5th. For more information or for tickets, call Mission Advancement Office at 419-447-0435 or visit http://www.felctiffin.org/]]></description>
+            <link>https://www.facebook.com/events/1691839798611393</link>
+            <guid isPermaLink="false">6a1e69e802176cfd7ef21d0d</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710613573_1411340051033063_6564376539894598494_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23025</yodel:organizer_id>
+            <yodel:media_alt_text>19th Annual Summer Harvest Gourmet Gala on Aug 15, 2026 in Tiffin, OH. Featured themes include franciscan earth literacy center and live music.</yodel:media_alt_text>
         </item>
     </channel>
 </rss>
