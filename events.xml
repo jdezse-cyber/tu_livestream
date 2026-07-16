@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 16:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 18:43:37 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -1966,6 +1966,23 @@ Tiffin Ohio 44883]]></description>
             <yodel:media_alt_text>Tiffin Farmer&apos;s Market on Jul 25, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
         </item>
         <item>
+            <title><![CDATA[<b>New Advances In Alzheimer's Treatments</b> - 07/25/2026 10:00am EDT to 07/25/2026 11:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Call Allen Eiry at 419-448-9774 to sign up!]]></description>
+            <link>https://www.facebook.com/events/1533708595449485</link>
+            <guid isPermaLink="false">6a5918a227205a10e6b96e6b</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F748133700_1525227242972638_698031997838407681_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22966</yodel:organizer_id>
+            <yodel:media_alt_text>New Advances In Alzheimer&apos;s Treatments on Jul 25, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Health &amp; Fitness.</yodel:media_alt_text>
+        </item>
+        <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/25/2026 1:00pm EDT to 07/25/2026 4:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
@@ -3827,6 +3844,23 @@ No registration required but you must bring supply list from the school for pick
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>27448</yodel:organizer_id>
             <yodel:media_alt_text>Stuff The Bus School Supply Drive for Seneca: Pick Up Supplies for Your Student on Aug 11, 2026 in Tiffin, OH. Featured themes include stuff the bus and supply list.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Pearl Harbor</b> - 08/11/2026 10:30am EDT to 08/11/2026 1:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Enjoy an interesting talk with Mike Gilbert about Pearl Harbor.
+Please call Allen Eiry at 419-448-9774 to reserve a seat.]]></description>
+            <link>https://www.facebook.com/events/2847295158972741</link>
+            <guid isPermaLink="false">6a5918a327205a10e6b96e6d</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F748106749_1004936855693052_6760748005791063010_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22966</yodel:organizer_id>
+            <yodel:media_alt_text>Pearl Harbor on Aug 11, 2026 in Tiffin, OH. Featured themes include pearl harbor and reserve seat.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>WEW- Sewing with Erin</b> - 08/12/2026 6:00pm EDT to 08/12/2026 7:30pm EDT]]></title>
