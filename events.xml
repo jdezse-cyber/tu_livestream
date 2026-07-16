@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 14:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 16:51:59 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -160,26 +160,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 16, 2026 in Tiffin, OH. Featured themes include support local and tiffin.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Christmas in July - Third Thursday in Downtown Tiffin</b> - 07/16/2026 5:00pm EDT to 07/16/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Stroll through downtown, enjoy the festive lights, and explore specials, sales, and unique offerings at our local shops and restaurants.
-Don't miss the exciting Naughty or Nice Scratch-Off Giveaway: make a purchase at participating businesses, get a scratch-off ticket, and see if you're naughty or nice! Naughty? Enter your ticket at the Welcome Center (96 S. Washington St.) for a
-chance to win Chamber Cash. Nice? Enjoy an exclusive prize, discount, or coupon!]]></description>
-            <link>https://www.facebook.com/events/967592866181857</link>
-            <guid isPermaLink="false">69f49297f49b98c1600417c8</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Travel]]></category>
-            <category><![CDATA[Retail]]></category>
-            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F685215231_991008293295103_768125126868752083_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23019</yodel:organizer_id>
-            <yodel:media_alt_text>Christmas in July - Third Thursday in Downtown Tiffin on Jul 16, 2026 in Tiffin, OH. Featured themes include downtown tiffin and local shops.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Party in the Parking Lot</b> - 07/16/2026 5:00pm EDT to 07/16/2026 10:00pm EDT]]></title>
@@ -3736,6 +3716,22 @@ Tiffin Ohio 44883]]></description>
             <yodel:media_alt_text>Family Fun Event—Fun in the Sun on Aug 8, 2026 in Tiffin, OH. Featured themes include Outdoors and family fun event.</yodel:media_alt_text>
         </item>
         <item>
+            <title><![CDATA[<b>The Forge</b> - 08/08/2026 5:00pm EDT to 08/08/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 161 OH-101, Tiffin, OH 44883, USA</b> 
+
+ The Forge is our Men's Fellowship Group. Any and all men of all ages are welcome. Come get to know each other, enjoy the fellowship of different and like-minded men, and food! There's always food!]]></description>
+            <link>https://www.facebook.com/events/1052711870572052</link>
+            <guid isPermaLink="false">6a5905ad626cc3e4acf96b65</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Grace Baptist Tiffin ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F748573259_1516908727137564_7071318644221773828_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27451</yodel:organizer_id>
+            <yodel:media_alt_text>The Forge on Aug 8, 2026 in Tiffin, OH. Featured themes include Lifestyle and all ages.</yodel:media_alt_text>
+        </item>
+        <item>
             <title><![CDATA[<b>Fleetwood Gold - Ritz Theatre, Tiffin</b> - 08/08/2026 7:30pm EDT to 08/08/2026 8:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 6 Riverside Dr, Tiffin, OH 44883, USA</b> 
 
@@ -4001,7 +3997,6 @@ Take advantage of this opportunity to build relationships, strengthen your advoc
             <link>https://www.facebook.com/events/1656846102356121</link>
             <guid isPermaLink="false">6953c4481325dbf1f5ae5ee8</guid>
             <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Government]]></category>
             <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616839265_1283122283851120_1834709207009325051_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>6a0b90791e09c43eda999f45</yodel:duplicate_id>
@@ -4009,7 +4004,7 @@ Take advantage of this opportunity to build relationships, strengthen your advoc
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>33792</yodel:organizer_id>
-            <yodel:media_alt_text>Nonprofit Leadership Alliance | Advocacy in Action: Engaging Local Leaders on Aug 14, 2026 in Tiffin, OH. Featured themes include nonprofit leaders and nonprofit leadership alliance | advocacy in action: engaging local leaders.</yodel:media_alt_text>
+            <yodel:media_alt_text>Nonprofit Leadership Alliance | Advocacy in Action: Engaging Local Leaders on Aug 14, 2026 in Tiffin, OH. Featured themes include nonprofit leadership alliance | advocacy in action: engaging local leaders and tiffin, ohio.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>End Human Trafficking</b> - 08/14/2026 1:00pm EDT to 08/14/2026 2:00pm EDT]]></title>
