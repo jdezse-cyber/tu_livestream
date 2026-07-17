@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - TU - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 23:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 01:07:58 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cd4988e35c43a0210a1c4b" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -21,27 +21,6 @@
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>30852</yodel:organizer_id>
             <yodel:media_alt_text>ServSafe Manager Class on Jul 10, 2026 in Tiffin, OH. Featured themes include 9th edition textbook and online exam voucher.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Music Industry Summer Camp</b> - 07/12/2026 3:00pm EDT to 07/16/2026 9:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 231 Miami St, Tiffin, OH 44883, USA</b> 
-
- Join us at the 27th annual Tiffin University Music Industry Summer Camp and enjoy a total creative experience in writing, performing and recording rock, pop, jazz, r&b, a cappella, hip hop and other commercial styles! You’ll also work with industry professionals on how to succeed as an independent artist and music entrepreneur!
-With lots of individual attention and working in small ensembles and production teams, campers each take the lead in the creation of original pop, rock, r&b and hip hop music, a cappella arrangements, and solo and group performances.
-Campers perform in rock, pop, hip hop and indie bands and vocal groups, receive private instruction and solo coachings, participate in workshops on songwriting, beatboxing, live looping, studio recording and production, arranging, live sound engineering, and other topics key to success on stage and in the studio.
-You’ll collaboratively work with professional artists-in-residence to create and record original music together. You’ll engage in co-writing activities with fellow campers and pro songwriters, and then you’ll work with a professional producer in the recording and mixing of your songs. Camp ends on Thursday evening with a public in-person and live-streamed performance of what we’ve created together!
-The camp is open to all high school and college students, as well as amateur and professional musicians and educators!]]></description>
-            <link>https://www.facebook.com/events/2701288403585275</link>
-            <guid isPermaLink="false">6a0204c4fe0f561f0250ab67</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <dc:creator><![CDATA[Tiffin University]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F689002422_1431906012317322_1950254033193709_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>36602</yodel:organizer_id>
-            <yodel:media_alt_text>Music Industry Summer Camp on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin university and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Party in the Parking Lot</b> - 07/16/2026 5:00pm EDT to 07/16/2026 10:00pm EDT]]></title>
@@ -76,58 +55,6 @@ https://www.facebook.com/hashtag/tiffinelks94?__eep__=6&__cft__[0]=AZZLPtSrx__Hr
             <yodel:media_alt_text>Party in the Parking Lot on Jul 16, 2026 in Tiffin, OH. Featured themes include beer tent and christmas in july.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/16/2026 7:00pm EDT to 07/16/2026 9:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
-
- This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
-            <link>https://www.facebook.com/events/967340789421450/967340816088114</link>
-            <guid isPermaLink="false">69eca80540aa75e19683e707</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Tiffin Park & Recreation]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840710_1454772440022400_3821231396960562931_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a0706e0197f3917c76f6e9c</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>156837</yodel:organizer_id>
-            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 16, 2026 in Tiffin, OH. Featured themes include free public event and thursday night tunes.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Thursday Night Tunes (TNT)</b> - 07/16/2026 7:00pm EDT to 07/16/2026 9:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 155 E Market St, Tiffin, OH 44883, USA</b> 
-
- This is our concert series, free to the public. Come out and have your ears blessed, and put a smile on that face on Thursdays! Can't wait to see you!]]></description>
-            <link>https://www.facebook.com/events/967340789421450/967340816088114</link>
-            <guid isPermaLink="false">69edd7e98f76d2c1a7f93f5f</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Tiffin Parks & Recreation]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F714840710_1454772440022400_3821231396960562931_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a0706e0197f3917c76f6e9c</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>25538</yodel:organizer_id>
-            <yodel:media_alt_text>Thursday Night Tunes (TNT) on Jul 16, 2026 in Tiffin, OH. Featured themes include tiffin parks recreation and tiffin, ohio.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Something Rotten!</b> - 07/16/2026 7:30pm EDT to 07/16/2026 8:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
-
- <p>Music &amp; Lyrics by Karey Kirkpatrick &amp; Wayne Kirkpatrick Book by Karey Kirkpatrick &amp; John O’Farrell July 16, 17, 24, 2027 – 7:30 PM July 25, 2027 – 2:00 PM A Ritz Players Production Almost, Maine is a popular play by John Cariani, a romantic comedy composed of nine interconnected short plays set in the mythical, remote town of Almost, Maine, on a cold winter night. Adults $16, Students $12 – EV, RP (Tentative audition dates: January 3 &amp; 4, 2027) Sponsored by Reineke Family Dealerships Presented through special arrangement with Music Theatre International</p>]]></description>
-            <link>https://ritztheatre.org/events/rotten/?occurrence=2027-07-16</link>
-            <guid isPermaLink="false">6a4c2035a8b1953027904c50</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2FSOMETHING-ROTTEN-TITLE-STACKED_GS-300x300.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22996</yodel:organizer_id>
-            <yodel:media_alt_text>Something Rotten! on Jul 16, 2026 in Tiffin, OH. Featured themes include students and Seasonal &amp; Holiday.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>"Man Made" Art Show, Displayed July 1st-18th</b> - 07/16/2026 9:00pm EDT to 07/16/2026 10:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -158,35 +85,6 @@ https://www.facebook.com/hashtag/tiffinelks94?__eep__=6&__cft__[0]=AZZLPtSrx__Hr
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>169474</yodel:organizer_id>
             <yodel:media_alt_text>RobSagna Food Truck on Jul 17, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and robsagna food truck.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/17/2026 1:00pm EDT to 07/17/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871410611369</link>
-            <guid isPermaLink="false">6a4f1b8f28b86643e6a56d99</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a5214845058d8f125b39eda</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 17, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/17/2026 1:00pm EDT to 07/17/2026 4:00pm EDT]]></title>
@@ -276,6 +174,35 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 17, 2026 in Tiffin, OH. Featured themes include support local and tiffin.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/17/2026 1:00pm EDT to 07/17/2026 4:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871410611369</link>
+            <guid isPermaLink="false">6a4f1b8f28b86643e6a56d99</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214845058d8f125b39eda</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27898</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 17, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Something Rotten!</b> - 07/17/2026 7:30pm EDT to 07/17/2026 8:30pm EDT]]></title>
@@ -3470,6 +3397,7 @@ Suggested suppy list available at Allen Eiry Center and online at https://united
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Tiffin Eagles #402]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_4ef7b612-740f-4967-a157-db1bd1d10f08" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a597e38f117e04481ccbe74</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
@@ -3480,60 +3408,72 @@ Suggested suppy list available at Allen Eiry Center and online at https://united
             <title><![CDATA[<b>LoudFest 2026</b> - 08/07/2026 7:00pm EDT to 08/08/2026 11:00pm EDT]]></title>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
- LOUD FEST OHIO IS BACK! AND IT'S BIGGER THAN EVER!
-August 7–8, 2026 | Start Tiffin Fraternal Order of Eagles #402
-Tiffin, Ohio — The ride that FIGHTS BACK.
-Two days. Hundreds of bikes. One mission that matters more than all of it.
-Every dollar raised goes directly to FACT — Financial Assistance for Cancer Treatment in Seneca County — putting real money in the hands of real people fighting the hardest battle of their lives. This isn't a party with a cause. This IS the cause. The party is just how we show up for it.
- FRIDAY, AUGUST 7 — WARM UP NIGHT
+ LOUD FEST OHIO IS BACK!!!
+August 7–8, 2026
 
- Live Music 7PM–11PM | Band: Seventy80
-Come early. Stay late. Get loud.
- SATURDAY, AUGUST 8 — POKER RUN DAY
+ Tiffin Eagles Aerie #402
+68 Riverside Dr., Tiffin, OH 44883
+Join us for two days of motorcycles, live music, classic cars, great people, and community—all while supporting FACT (Financial Assistance for Cancer Treatment), helping local cancer patients right here in Seneca County.
+ Friday, August 7 – Warm-Up Party
 
- Registration: 10:30AM – Noon
+ Seventy 80
+
+ 7:00 PM – 11:00 PM
+ Saturday, August 8 – Poker Run Day
+
+ Registration: 10:30 AM – Noon
 
  Kickstands Up: Noon
+ Sound Logik — 3:00 PM – 5:00 PM
 
- Sound Logic: 1–4PM
+ American Rust — 5:30 PM – 7:30 PM
 
- Car Show: 1–4PM (All bikes & classic cars welcome)
+ GripShifter featuring Tim & Liz — 8:00 PM – 11:00 PM
+ Car Show: 1:00 PM – 4:00 PM
+All bikes and classic cars are welcome
 
- Tim & Liz: 7–11PM
-POKER RUN STOPS:
+ Poker Run Route
+1. Tiffin Eagles Aerie #402
+2. Route 30 Harley-Davidson
+3. Tavern 19 – Bloomville
+4. Bellevue Eagles Aerie #690
+5. Fostoria Eagles Aerie #430
+6. Return to Tiffin Eagles Aerie #402
+---
 
- START/END — Tiffin Eagles 402
+ Poker Run Registration
+ Riders: $25
 
- Stop 1 — Route 30 Harley-Davidson, Upper Sandusky
-
- Stop 2 — Tavern 19
-
- Stop 3 — Bellevue Eagles
-
- Stop 4 — TBD
-
- Stop 5 — Fostoria Eagles (pending)
- REGISTRATION
-Riders: $25 | Couples: $40
- THANK YOU TO OUR 2026 SPONSORS:
-Seneca Home Improvements • Steinmetz Signs and Graphic Ink • Arnold Vending • Waters Construction • Norwalk Concrete
- You don't have to fight cancer alone in Seneca County — because WE ride for you.
- Learn more about FACT: http://factsenecacounty.org/
- Tiffin Fraternal Order of Eagles 402 | 402 Riverside Dr, Tiffin OH 44883
- (419) 447-1366
- TAG A RIDER. SHARE THIS POST. SAVE THE DATE.
-Because loud bikes save quiet lives.]]></description>
+ Couples: $40
+The poker run requires paid registration.
+The live music, car show, and festival are FREE and open to the public
+Benefiting FACT
+Every dollar raised helps FACT – Financial Assistance for Cancer Treatment, providing financial assistance to local cancer patients and their families in Seneca County.
+---
+Thank You to Our 2026 Sponsors
+* Seneca Home Improvements
+* Steinmetz Signs and Graphic Ink
+* Arnold Vending
+* Waters Construction
+* Norwalk Concrete
+Your support helps make LoudFest possible.
+---
+ Mark yourself Going, invite your friends, and share this event with your riding crew!
+Ride. Rock. Get LOUD!!]]></description>
             <link>https://www.facebook.com/events/987678790436454</link>
             <guid isPermaLink="false">6a500769a9ef572182f413b9</guid>
             <category><![CDATA[Festivals/Fairs]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Auto, Boat & Air]]></category>
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Tavern 19]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F689114880_122361504374009669_2927972393908736468_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F744858732_122373202322009669_7238761281511061417_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a597e38f117e04481ccbe74</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>25247</yodel:organizer_id>
-            <yodel:media_alt_text>LoudFest 2026 on Aug 7, 2026 in Tiffin, OH. Featured themes include Festivals/Fairs and Health &amp; Fitness.</yodel:media_alt_text>
+            <yodel:media_alt_text>LoudFest 2026 on Aug 7, 2026 in Tiffin, OH. Featured themes include Festivals/Fairs and Music &amp; Entertainment.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Tiffin Farmers Market</b> - 08/08/2026 12:00am EDT to 08/08/2026 11:59pm EDT]]></title>
@@ -4126,6 +4066,42 @@ Be entered into an Early Bird Drawing if ticket is purchased before July 1st htt
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23025</yodel:organizer_id>
             <yodel:media_alt_text>19th Annual Summer Harvest Gourmet Gala on Aug 15, 2026 in Tiffin, OH. Featured themes include franciscan earth literacy center and live music.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 08/16/2026 9:00am EDT to 08/16/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Come join us for a fun weekend of shopping for your next treasure.]]></description>
+            <link>https://www.facebook.com/events/1447622130186355/1447622173519684</link>
+            <guid isPermaLink="false">69ea3f2696bdae7c3f89e290</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a044cc334a49ebc0d3c42ee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>157226</yodel:organizer_id>
+            <yodel:media_alt_text>2026 Tiffin Flea Market on Aug 16, 2026 in Tiffin, OH. Featured themes include shopping and tiffin flea market.</yodel:media_alt_text>
+        </item>
+        <item>
+            <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 08/16/2026 9:00am EDT to 08/16/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Come join us for a fun weekend of shopping for your next treasure.]]></description>
+            <link>https://www.facebook.com/events/1447622130186355/1447622173519684</link>
+            <guid isPermaLink="false">6a043d6b4f7b8d7348dfa085</guid>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Retail]]></category>
+            <dc:creator><![CDATA[Tiffin Flea Market]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661694610_921503197147431_5925181200151793570_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a044cc334a49ebc0d3c42ee</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>169473</yodel:organizer_id>
+            <yodel:media_alt_text>2026 Tiffin Flea Market on Aug 16, 2026 in Tiffin, OH. Featured themes include shopping and tiffin, ohio.</yodel:media_alt_text>
         </item>
     </channel>
 </rss>
